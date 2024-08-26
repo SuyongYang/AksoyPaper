@@ -121,8 +121,8 @@ runDLRsym <- function(nv, ng) {
   # outer(0:3, 1:4, "-") + diag(2:5)
   
   # Compute the inverse of C
-  inverseC <- sympy$Inverse(inner)
-
+  inverseC <- solve(ysym(Inner))
+  inverseC[1,1]
   # Calculate DLRsym
   DLRsym <- inverseC %*% D
   DLRsym <- sympy$Matrix(DLRsym)
