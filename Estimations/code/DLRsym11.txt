@@ -1,0 +1,1 @@
+-5*f'a{row+1}{col+1}'*f'd{row+1}{col+1}'/(6*f'a{row+1}{col+1}' - 1) + f'd{row+1}{col+1}'*(5*f'a{row+1}{col+1}' - 1)/(6*f'a{row+1}{col+1}' - 1)
