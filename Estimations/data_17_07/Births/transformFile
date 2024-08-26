@@ -1,0 +1,28 @@
+#!/usr/local/bin/gawk -f
+
+BEGIN {
+  FS=",";
+}
+(NR==1){
+  COUNTRY=$1;
+  if( COUNTRY=="The United States of America" )
+  {
+    COUNTRY="United States"
+  }
+  if( COUNTRY=="France (Total Population)" )
+  {
+    COUNTRY="France"
+  }
+  FS=" "
+}
+
+(NR>4){
+  printf "%s",COUNTRY;
+  for( i=1;i<=NF; i++ )
+  {
+    printf ",%s", $i;
+  }
+  printf "\n";
+}
+END {
+}

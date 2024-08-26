@@ -1,0 +1,31 @@
+#!/usr/local/bin/gawk -f
+
+BEGIN {
+  FS=",";
+}
+(NR==1){
+  COUNTRY=$1;
+  if( COUNTRY=="The United States of America" )
+  {
+    COUNTRY="United States"
+  }
+  if( COUNTRY=="France (Total Population)" )
+  {
+    COUNTRY="France"
+  }
+  FS=" "
+}
+(NR>3){
+  age=$2
+  if(match(age,/([0-9]+)\+/,grps)) {
+    age=grps[1]
+  }
+  year=$1
+  if(match(year,/([0-9]+)\+/,grps)) {
+    year=grps[1]
+  }
+ 
+  if(!match(year,/([0-9]+)-/,grps)) {
+    printf "%s,%s,%s,%s\n",COUNTRY,year,age,$5;
+  }
+}

@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Country,Year,Age,Deaths" > $1
+
+for x in `ls *.txt`; do 
+  ./transformFileSingle $x >> $1
+done
+

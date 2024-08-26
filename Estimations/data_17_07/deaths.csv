@@ -1,0 +1,4343 @@
+Country,Year,Total Deaths
+Australia,1921,43499.6
+Australia,1922,44052.1
+Australia,1923,48039.2
+Australia,1924,47275.6
+Australia,1925,47313.5
+Australia,1926,49757.5
+Australia,1927,50994.9
+Australia,1928,52271.1
+Australia,1929,54235.8
+Australia,1930,49262.5
+Australia,1931,51564.2
+Australia,1932,52173.3
+Australia,1933,54717.5
+Australia,1934,57454.8
+Australia,1935,59168.9
+Australia,1936,59152.8
+Australia,1937,59960.8
+Australia,1938,61842.6
+Australia,1939,64447.7
+Australia,1940,63528.6
+Australia,1941,65831.7
+Australia,1942,69789.6
+Australia,1943,69072.4
+Australia,1944,64789.5
+Australia,1945,65513.7
+Australia,1946,69544.1
+Australia,1947,68264.9
+Australia,1948,71895.3
+Australia,1949,70671.7
+Australia,1950,73520.3
+Australia,1951,76908.4
+Australia,1952,76798.9
+Australia,1953,75473.6
+Australia,1954,77257.6
+Australia,1955,77462.8
+Australia,1956,81478.9
+Australia,1957,80234
+Australia,1958,79161.5
+Australia,1959,84321.9
+Australia,1960,83819.5
+Australia,1961,84270.8
+Australia,1962,88321.4
+Australia,1963,90286.7
+Australia,1964,96412.5
+Australia,1965,96224.4
+Australia,1966,100353
+Australia,1967,98835.8
+Australia,1968,104956
+Australia,1969,102133
+Australia,1970,108813
+Australia,1971,105373
+Australia,1972,106284
+Australia,1973,106796
+Australia,1974,111786
+Australia,1975,105605
+Australia,1976,109664
+Australia,1977,105517
+Australia,1978,105985
+Australia,1979,104324
+Australia,1980,105869
+Australia,1981,107106
+Australia,1982,111669
+Australia,1983,107807
+Australia,1984,111043
+Australia,1985,115428
+Australia,1986,112215
+Australia,1987,115953
+Australia,1988,116971
+Australia,1989,123145
+Australia,1990,116922
+Australia,1991,116782
+Australia,1992,121199
+Australia,1993,119281
+Australia,1994,125502
+Australia,1995,123787
+Australia,1996,126894
+Australia,1997,127447
+Australia,1998,126237
+Australia,1999,126778
+Australia,2000,127668
+Australia,2001,127568
+Australia,2002,131966
+Australia,2003,130777
+Australia,2004,131230
+Australia,2005,130187
+Australia,2006,133167
+Australia,2007,138475
+Australia,2008,141235
+Australia,2009,140044
+Australia,2010,141490
+Australia,2011,145502
+Australia,2012,147888
+Australia,2013,147060
+Australia,2014,152774
+Austria,1947,79269
+Austria,1948,74821
+Austria,1949,80716
+Austria,1950,78585
+Austria,1951,81953
+Austria,1952,78025
+Austria,1953,78264
+Austria,1954,79609
+Austria,1955,80048
+Austria,1956,81813
+Austria,1957,84048
+Austria,1958,81106
+Austria,1959,83020
+Austria,1960,84876
+Austria,1961,81371
+Austria,1962,86480
+Austria,1963,87362
+Austria,1964,85168
+Austria,1965,90600
+Austria,1966,87830
+Austria,1967,92072
+Austria,1968,92795
+Austria,1969,95626
+Austria,1970,95911
+Austria,1971,94502
+Austria,1972,92701
+Austria,1973,90437
+Austria,1974,92039
+Austria,1975,94115
+Austria,1976,93547
+Austria,1977,90963
+Austria,1978,93338
+Austria,1979,90738
+Austria,1980,91139
+Austria,1981,91504
+Austria,1982,90126
+Austria,1983,91970
+Austria,1984,87448
+Austria,1985,88601
+Austria,1986,86178
+Austria,1987,84057
+Austria,1988,82547
+Austria,1989,82669
+Austria,1990,82243
+Austria,1991,82720
+Austria,1992,82444
+Austria,1993,81899
+Austria,1994,80106
+Austria,1995,80690
+Austria,1996,80339
+Austria,1997,79034
+Austria,1998,77939
+Austria,1999,77859
+Austria,2000,76402
+Austria,2001,74402
+Austria,2002,75813
+Austria,2003,76866
+Austria,2004,73939
+Austria,2005,74862
+Austria,2006,74014
+Austria,2007,74345
+Austria,2008,74796
+Austria,2009,77092
+Austria,2010,76892
+Austria,2011,76198
+Austria,2012,79184
+Austria,2013,79281
+Austria,2014,78003
+Belgium,1841,67837
+Belgium,1842,81477
+Belgium,1843,77306
+Belgium,1844,76373.9
+Belgium,1845,77959
+Belgium,1846,86881
+Belgium,1847,101674
+Belgium,1848,91265
+Belgium,1849,101844
+Belgium,1850,74315.9
+Belgium,1851,74889
+Belgium,1852,76021.1
+Belgium,1853,81770
+Belgium,1854,83468.1
+Belgium,1855,91514
+Belgium,1856,77497.1
+Belgium,1857,79334
+Belgium,1858,84117
+Belgium,1859,85905.9
+Belgium,1860,72807.9
+Belgium,1861,82286
+Belgium,1862,78225
+Belgium,1863,83507
+Belgium,1864,90213
+Belgium,1865,92773.1
+Belgium,1866,125134
+Belgium,1867,82922.5
+Belgium,1868,85448.9
+Belgium,1869,88903
+Belgium,1870,94430
+Belgium,1871,118223
+Belgium,1872,95835.1
+Belgium,1873,88591
+Belgium,1874,85771
+Belgium,1875,94678.1
+Belgium,1876,96902
+Belgium,1877,91364
+Belgium,1878,89922
+Belgium,1879,93229
+Belgium,1880,91265
+Belgium,1881,89868
+Belgium,1882,87617
+Belgium,1883,92240
+Belgium,1884,91313.5
+Belgium,1885,91553.2
+Belgium,1886,93662.9
+Belgium,1887,89804.1
+Belgium,1888,92068.6
+Belgium,1889,91381.9
+Belgium,1890,97157.5
+Belgium,1891,99244.2
+Belgium,1892,103681
+Belgium,1893,95344
+Belgium,1894,90649.5
+Belgium,1895,93646.4
+Belgium,1896,86933.5
+Belgium,1897,85185.5
+Belgium,1898,86941.6
+Belgium,1899,94584
+Belgium,1900,95793.2
+Belgium,1901,87623.1
+Belgium,1902,91140.6
+Belgium,1903,88886.4
+Belgium,1904,90415.5
+Belgium,1905,90923.6
+Belgium,1906,90357.9
+Belgium,1907,90818.5
+Belgium,1908,94905.2
+Belgium,1909,93298.1
+Belgium,1910,89173.1
+Belgium,1911,94224.2
+Belgium,1912,91846.5
+Belgium,1913,88987.6
+Belgium,1914,0
+Belgium,1915,0
+Belgium,1916,0
+Belgium,1917,0
+Belgium,1918,0
+Belgium,1919,101024
+Belgium,1920,85539.4
+Belgium,1921,84068.5
+Belgium,1922,90173.7
+Belgium,1923,85597.6
+Belgium,1924,86030.9
+Belgium,1925,87729.7
+Belgium,1926,90128.1
+Belgium,1927,93378.2
+Belgium,1928,93069.6
+Belgium,1929,105620
+Belgium,1930,93408.2
+Belgium,1931,95767
+Belgium,1932,95569.4
+Belgium,1933,96777.8
+Belgium,1934,90662.4
+Belgium,1935,96385.1
+Belgium,1936,96234.7
+Belgium,1937,99677.1
+Belgium,1938,100032
+Belgium,1939,106127
+Belgium,1940,124147
+Belgium,1941,112720
+Belgium,1942,112990
+Belgium,1943,102675
+Belgium,1944,121705
+Belgium,1945,110849
+Belgium,1946,102289
+Belgium,1947,101965
+Belgium,1948,99126.1
+Belgium,1949,102641
+Belgium,1950,100449
+Belgium,1951,102641
+Belgium,1952,97630.8
+Belgium,1953,99742.6
+Belgium,1954,98885.8
+Belgium,1955,102666
+Belgium,1956,102849
+Belgium,1957,102352
+Belgium,1958,101193
+Belgium,1959,99130
+Belgium,1960,109114
+Belgium,1961,102537
+Belgium,1962,108488
+Belgium,1963,112389
+Belgium,1964,106022
+Belgium,1965,111360
+Belgium,1966,111876
+Belgium,1967,111857
+Belgium,1968,118660
+Belgium,1969,117458
+Belgium,1970,115661
+Belgium,1971,116589
+Belgium,1972,114859
+Belgium,1973,115963
+Belgium,1974,114010
+Belgium,1975,117493
+Belgium,1976,116793
+Belgium,1977,111016
+Belgium,1978,113762
+Belgium,1979,110489
+Belgium,1980,112188
+Belgium,1981,110907
+Belgium,1982,110545
+Belgium,1983,113299
+Belgium,1984,109529
+Belgium,1985,110492
+Belgium,1986,110219
+Belgium,1987,104293
+Belgium,1988,103502
+Belgium,1989,106305
+Belgium,1990,103144
+Belgium,1991,103099
+Belgium,1992,103179
+Belgium,1993,105856
+Belgium,1994,102844
+Belgium,1995,104203
+Belgium,1996,103755
+Belgium,1997,103153
+Belgium,1998,103991
+Belgium,1999,104348
+Belgium,2000,104349
+Belgium,2001,102926
+Belgium,2002,105150
+Belgium,2003,106577
+Belgium,2004,101509
+Belgium,2005,102837
+Belgium,2006,101098
+Belgium,2007,101561
+Belgium,2008,104109
+Belgium,2009,104070
+Belgium,2010,104631
+Belgium,2011,103858
+Belgium,2012,108593
+Belgium,2013,108898
+Belgium,2014,104332
+Belgium,2015,110141
+Bulgaria,1947,67522.5
+Bulgaria,1948,69149.2
+Bulgaria,1949,64113.5
+Bulgaria,1950,56762.9
+Bulgaria,1951,60827.6
+Bulgaria,1952,69211.8
+Bulgaria,1953,55662.5
+Bulgaria,1954,55437.4
+Bulgaria,1955,55501.2
+Bulgaria,1956,60499.7
+Bulgaria,1957,56459.5
+Bulgaria,1958,53515.8
+Bulgaria,1959,66199.4
+Bulgaria,1960,57350
+Bulgaria,1961,57350
+Bulgaria,1962,64638
+Bulgaria,1963,61343
+Bulgaria,1964,60175
+Bulgaria,1965,63090
+Bulgaria,1966,64404
+Bulgaria,1967,70569
+Bulgaria,1968,68173
+Bulgaria,1969,75820
+Bulgaria,1970,73307
+Bulgaria,1971,79430
+Bulgaria,1972,80739
+Bulgaria,1973,77816
+Bulgaria,1974,81438
+Bulgaria,1975,86639
+Bulgaria,1976,84948
+Bulgaria,1977,90964
+Bulgaria,1978,89417
+Bulgaria,1979,91719
+Bulgaria,1980,95356
+Bulgaria,1981,93088
+Bulgaria,1982,98032
+Bulgaria,1983,100158
+Bulgaria,1984,99451
+Bulgaria,1985,105654
+Bulgaria,1986,102279
+Bulgaria,1987,105498
+Bulgaria,1988,105790
+Bulgaria,1989,105288
+Bulgaria,1990,107054
+Bulgaria,1991,108799
+Bulgaria,1992,106578
+Bulgaria,1993,108230
+Bulgaria,1994,110491
+Bulgaria,1995,113605
+Bulgaria,1996,115931
+Bulgaria,1997,120738
+Bulgaria,1998,117247
+Bulgaria,1999,110729
+Bulgaria,2000,114106
+Bulgaria,2001,111386
+Bulgaria,2002,111728
+Bulgaria,2003,111094
+Bulgaria,2004,109296
+Bulgaria,2005,112635
+Bulgaria,2006,112718
+Bulgaria,2007,112314
+Bulgaria,2008,109855
+Bulgaria,2009,107339
+Bulgaria,2010,109457
+Belarus,1959,51714.8
+Belarus,1960,46995
+Belarus,1961,47764
+Belarus,1962,54838.9
+Belarus,1963,52620
+Belarus,1964,49687
+Belarus,1965,54548
+Belarus,1966,54862.9
+Belarus,1967,58157
+Belarus,1968,59437
+Belarus,1969,63229
+Belarus,1970,66236
+Belarus,1971,66077
+Belarus,1972,69443
+Belarus,1973,71511
+Belarus,1974,70738
+Belarus,1975,76963
+Belarus,1976,79748
+Belarus,1977,82013
+Belarus,1978,84018
+Belarus,1979,88348
+Belarus,1980,93008
+Belarus,1981,90518
+Belarus,1982,91324
+Belarus,1983,95298.9
+Belarus,1984,101702
+Belarus,1985,103288
+Belarus,1986,94992
+Belarus,1987,97720
+Belarus,1988,100527
+Belarus,1989,101643
+Belarus,1990,107865
+Belarus,1991,113033
+Belarus,1992,115090
+Belarus,1993,127057
+Belarus,1994,128530
+Belarus,1995,132413
+Belarus,1996,132211
+Belarus,1997,135524
+Belarus,1998,136253
+Belarus,1999,140960
+Belarus,2000,133993
+Belarus,2001,139458
+Belarus,2002,145959
+Belarus,2003,142514
+Belarus,2004,139449
+Belarus,2005,141216
+Belarus,2006,137838
+Belarus,2007,132459
+Belarus,2008,133396
+Belarus,2009,134586
+Belarus,2010,136703
+Belarus,2011,134670
+Belarus,2012,126145
+Belarus,2013,124919
+Belarus,2014,121133
+Canada,1921,71278.6
+Canada,1922,76904
+Canada,1923,80476.5
+Canada,1924,75828.7
+Canada,1925,76451.1
+Canada,1926,83737.6
+Canada,1927,83255.6
+Canada,1928,87838.8
+Canada,1929,91823.4
+Canada,1930,87548.9
+Canada,1931,84144
+Canada,1932,87102.3
+Canada,1933,85673
+Canada,1934,85705.8
+Canada,1935,89833.1
+Canada,1936,92470.1
+Canada,1937,97125.4
+Canada,1938,92294.1
+Canada,1939,95006.7
+Canada,1940,97140.9
+Canada,1941,99400.2
+Canada,1942,98319.5
+Canada,1943,103410
+Canada,1944,100507
+Canada,1945,98583.8
+Canada,1946,99487.3
+Canada,1947,101363
+Canada,1948,104215
+Canada,1949,108199
+Canada,1950,108528
+Canada,1951,111097
+Canada,1952,110948
+Canada,1953,112904
+Canada,1954,110719
+Canada,1955,114387
+Canada,1956,117421
+Canada,1957,121877
+Canada,1958,120876
+Canada,1959,126142
+Canada,1960,126496
+Canada,1961,127944
+Canada,1962,130607
+Canada,1963,135029
+Canada,1964,134586
+Canada,1965,138969
+Canada,1966,140813
+Canada,1967,142051
+Canada,1968,145457
+Canada,1969,147264
+Canada,1970,148872
+Canada,1971,150848
+Canada,1972,156401
+Canada,1973,158607
+Canada,1974,161913
+Canada,1975,162110
+Canada,1976,163124
+Canada,1977,163014
+Canada,1978,163848
+Canada,1979,164120
+Canada,1980,167554
+Canada,1981,167426
+Canada,1982,171173
+Canada,1983,171271
+Canada,1984,172643
+Canada,1985,178325
+Canada,1986,181287
+Canada,1987,182244
+Canada,1988,187418
+Canada,1989,188167
+Canada,1990,189202
+Canada,1991,192990
+Canada,1992,194105
+Canada,1993,202465
+Canada,1994,204659
+Canada,1995,208417
+Canada,1996,210819
+Canada,1997,213735
+Canada,1998,216279
+Canada,1999,217754
+Canada,2000,216324
+Canada,2001,217796
+Canada,2002,221863
+Canada,2003,224400
+Canada,2004,224805
+Canada,2005,228266
+Canada,2006,226295
+Canada,2007,233331
+Canada,2008,236701
+Canada,2009,236544
+Canada,2010,238173
+Canada,2011,240264
+Switzerland,1876,46274
+Switzerland,1877,48110
+Switzerland,1878,48442
+Switzerland,1879,48052
+Switzerland,1880,47078
+Switzerland,1881,48065
+Switzerland,1882,48625
+Switzerland,1883,45296
+Switzerland,1884,45184
+Switzerland,1885,47648
+Switzerland,1886,46790
+Switzerland,1887,45766
+Switzerland,1888,45819
+Switzerland,1889,46798
+Switzerland,1890,49477
+Switzerland,1891,47569
+Switzerland,1892,44733
+Switzerland,1893,48185
+Switzerland,1894,49039
+Switzerland,1895,46223
+Switzerland,1896,44394
+Switzerland,1897,43688
+Switzerland,1898,44689
+Switzerland,1899,44696
+Switzerland,1900,49491
+Switzerland,1901,46706
+Switzerland,1902,44995
+Switzerland,1903,47120
+Switzerland,1904,47566
+Switzerland,1905,49605
+Switzerland,1906,47092
+Switzerland,1907,47813
+Switzerland,1908,47345
+Switzerland,1909,48603
+Switzerland,1910,46679
+Switzerland,1911,48349
+Switzerland,1912,45455
+Switzerland,1913,46812
+Switzerland,1914,45639
+Switzerland,1915,44727
+Switzerland,1916,44844
+Switzerland,1917,47609
+Switzerland,1918,68625
+Switzerland,1919,48988
+Switzerland,1920,49196
+Switzerland,1921,43537
+Switzerland,1922,44979
+Switzerland,1923,41412
+Switzerland,1924,44429
+Switzerland,1925,43642
+Switzerland,1926,42376
+Switzerland,1927,45251
+Switzerland,1928,44332
+Switzerland,1929,46840
+Switzerland,1930,43387
+Switzerland,1931,46040
+Switzerland,1932,46412
+Switzerland,1933,43957
+Switzerland,1934,43729
+Switzerland,1935,47054
+Switzerland,1936,44627
+Switzerland,1937,44354
+Switzerland,1938,45847
+Switzerland,1939,46762
+Switzerland,1940,47799
+Switzerland,1941,44377
+Switzerland,1942,43908
+Switzerland,1943,44106
+Switzerland,1944,48724
+Switzerland,1945,47482
+Switzerland,1946,46778
+Switzerland,1947,47934
+Switzerland,1948,46531
+Switzerland,1949,46574
+Switzerland,1950,44730
+Switzerland,1951,47485
+Switzerland,1952,45192
+Switzerland,1953,47211
+Switzerland,1954,46833
+Switzerland,1955,48105
+Switzerland,1956,49301
+Switzerland,1957,48992
+Switzerland,1958,47248
+Switzerland,1959,48016
+Switzerland,1960,50101
+Switzerland,1961,48918
+Switzerland,1962,52914
+Switzerland,1963,54771
+Switzerland,1964,51469
+Switzerland,1965,53551
+Switzerland,1966,53929
+Switzerland,1967,53265
+Switzerland,1968,55684
+Switzerland,1969,56428
+Switzerland,1970,55597
+Switzerland,1971,56476
+Switzerland,1972,55273
+Switzerland,1973,55837
+Switzerland,1974,55350
+Switzerland,1975,55081
+Switzerland,1976,56298
+Switzerland,1977,54946
+Switzerland,1978,57103
+Switzerland,1979,56844
+Switzerland,1980,58430
+Switzerland,1981,59206
+Switzerland,1982,58630
+Switzerland,1983,60196
+Switzerland,1984,58069
+Switzerland,1985,59068
+Switzerland,1986,59584
+Switzerland,1987,58987
+Switzerland,1988,60098
+Switzerland,1989,60286
+Switzerland,1990,63165
+Switzerland,1991,62097
+Switzerland,1992,61745
+Switzerland,1993,62047
+Switzerland,1994,61563
+Switzerland,1995,62970
+Switzerland,1996,62248
+Switzerland,1997,62451
+Switzerland,1998,62192
+Switzerland,1999,62142
+Switzerland,2000,62142
+Switzerland,2001,60865
+Switzerland,2002,61442
+Switzerland,2003,62759
+Switzerland,2004,59871
+Switzerland,2005,60816
+Switzerland,2006,59958
+Switzerland,2007,60796
+Switzerland,2008,60925
+Switzerland,2009,62139
+Switzerland,2010,62342
+Switzerland,2011,61786
+Switzerland,2012,63877
+Switzerland,2013,64641
+Switzerland,2014,63607
+Chile,1992,69509
+Chile,1993,72469
+Chile,1994,71990
+Chile,1995,75424
+Chile,1996,76028
+Chile,1997,75740
+Chile,1998,77464
+Chile,1999,79330
+Chile,2000,76478
+Chile,2001,79714
+Chile,2002,79115
+Chile,2003,81737
+Chile,2004,84102
+Chile,2005,84189
+Czech Republic,1950,90258.9
+Czech Republic,1951,92055.8
+Czech Republic,1952,89636.5
+Czech Republic,1953,92802.9
+Czech Republic,1954,94549.5
+Czech Republic,1955,88672.5
+Czech Republic,1956,89344.6
+Czech Republic,1957,94768
+Czech Republic,1958,90236
+Czech Republic,1959,94438
+Czech Republic,1960,91282
+Czech Republic,1961,92439
+Czech Republic,1962,101503
+Czech Republic,1963,97202
+Czech Republic,1964,99036
+Czech Republic,1965,101611
+Czech Republic,1966,102689
+Czech Republic,1967,105994
+Czech Republic,1968,112226
+Czech Republic,1969,117540
+Czech Republic,1970,120340
+Czech Republic,1971,119261
+Czech Republic,1972,116011
+Czech Republic,1973,120901
+Czech Republic,1974,123065
+Czech Republic,1975,120601
+Czech Republic,1976,121652
+Czech Republic,1977,122807
+Czech Republic,1978,124083
+Czech Republic,1979,125223
+Czech Republic,1980,132945
+Czech Republic,1981,128181
+Czech Republic,1982,128635
+Czech Republic,1983,132477
+Czech Republic,1984,130256
+Czech Republic,1985,129947
+Czech Republic,1986,130946
+Czech Republic,1987,125667
+Czech Republic,1988,124231
+Czech Republic,1989,126467
+Czech Republic,1990,127756
+Czech Republic,1991,122947
+Czech Republic,1992,119133
+Czech Republic,1993,117157
+Czech Republic,1994,116526
+Czech Republic,1995,117173
+Czech Republic,1996,112235
+Czech Republic,1997,112213
+Czech Republic,1998,109055
+Czech Republic,1999,109355
+Czech Republic,2000,108628
+Czech Republic,2001,107395
+Czech Republic,2002,107858
+Czech Republic,2003,110923
+Czech Republic,2004,106811
+Czech Republic,2005,107591
+Czech Republic,2006,104089
+Czech Republic,2007,104276
+Czech Republic,2008,104610
+Czech Republic,2009,107080
+Czech Republic,2010,106531
+Czech Republic,2011,106550
+Czech Republic,2012,107904
+Czech Republic,2013,108895
+Czech Republic,2014,105402
+East Germany,1956,198518
+East Germany,1957,212740
+East Germany,1958,209126
+East Germany,1959,218000
+East Germany,1960,222378
+East Germany,1961,212616
+East Germany,1962,224584
+East Germany,1963,212605
+East Germany,1964,217850
+East Germany,1965,223294
+East Germany,1966,219530
+East Germany,1967,221668
+East Germany,1968,237514
+East Germany,1969,238883
+East Germany,1970,236439
+East Germany,1971,230723
+East Germany,1972,230888
+East Germany,1973,229154
+East Germany,1974,226218
+East Germany,1975,237504
+East Germany,1976,231006
+East Germany,1977,223313
+East Germany,1978,229288
+East Germany,1979,229703
+East Germany,1980,235296
+East Germany,1981,229321
+East Germany,1982,225234
+East Germany,1983,220189
+East Germany,1984,218889
+East Germany,1985,223178
+East Germany,1986,221483
+East Germany,1987,211903
+East Germany,1988,211369
+East Germany,1989,204203
+East Germany,1990,206801
+East Germany,1991,201578
+East Germany,1992,189533
+East Germany,1993,185130
+East Germany,1994,180909
+East Germany,1995,177640
+East Germany,1996,174012
+East Germany,1997,167060
+East Germany,1998,163773
+East Germany,1999,160833
+East Germany,2000,159823
+East Germany,2001,157334
+East Germany,2002,160412
+East Germany,2003,161408
+East Germany,2004,155620
+East Germany,2005,157754
+East Germany,2006,156881
+East Germany,2007,158951
+East Germany,2008,160655
+East Germany,2009,163911
+East Germany,2010,166065
+East Germany,2011,164849
+East Germany,2012,167270
+East Germany,2013,172908
+East Germany,2014,168235
+East Germany,2015,178758
+Germany,1990,914480
+Germany,1991,905534
+Germany,1992,880451
+Germany,1993,892605
+Germany,1994,880352
+Germany,1995,880535
+Germany,1996,878881
+Germany,1997,856438
+Germany,1998,848716
+Germany,1999,842834
+Germany,2000,835435
+Germany,2001,825378
+Germany,2002,838650
+Germany,2003,850955
+Germany,2004,815353
+Germany,2005,827530
+Germany,2006,819046
+Germany,2007,824498
+Germany,2008,842021
+Germany,2009,852209
+Germany,2010,856445
+Germany,2011,849919
+Germany,2012,867379
+Germany,2013,891574
+Germany,2014,866070
+Germany,2015,922793
+West Germany,1956,564181
+West Germany,1957,582535
+West Germany,1958,564715
+West Germany,1959,572861
+West Germany,1960,610238
+West Germany,1961,595452
+West Germany,1962,615011
+West Germany,1963,644595
+West Germany,1964,617179
+West Germany,1965,652680
+West Germany,1966,661517
+West Germany,1967,664046
+West Germany,1968,711938
+West Germany,1969,723198
+West Germany,1970,715678
+West Germany,1971,712528
+West Germany,1972,715357
+West Germany,1973,716459
+West Germany,1974,714278
+West Germany,1975,737384
+West Germany,1976,722634
+West Germany,1977,695900
+West Germany,1978,714736
+West Germany,1979,703877
+West Germany,1980,706296
+West Germany,1981,714935
+West Germany,1982,709075
+West Germany,1983,712238
+West Germany,1984,690485
+West Germany,1985,699052
+West Germany,1986,696535
+West Germany,1987,682101
+West Germany,1988,682436
+West Germany,1989,692656
+West Germany,1990,708259
+West Germany,1991,703956
+West Germany,1992,690918
+West Germany,1993,707475
+West Germany,1994,699443
+West Germany,1995,702895
+West Germany,1996,704869
+West Germany,1997,689378
+West Germany,1998,684943
+West Germany,1999,682001
+West Germany,2000,675612
+West Germany,2001,668044
+West Germany,2002,678238
+West Germany,2003,689548
+West Germany,2004,659733
+West Germany,2005,669777
+West Germany,2006,662166
+West Germany,2007,665548
+West Germany,2008,681367
+West Germany,2009,688298
+West Germany,2010,690380
+West Germany,2011,685070
+West Germany,2012,700109
+West Germany,2013,718666
+West Germany,2014,697835
+West Germany,2015,744035
+Denmark,1835,20649.4
+Denmark,1836,21711
+Denmark,1837,21970.1
+Denmark,1838,20584.9
+Denmark,1839,20784.9
+Denmark,1840,21517.9
+Denmark,1841,20323
+Denmark,1842,20908
+Denmark,1843,20479
+Denmark,1844,20630
+Denmark,1845,20621
+Denmark,1846,22435.9
+Denmark,1847,23543
+Denmark,1848,23242.9
+Denmark,1849,25196
+Denmark,1850,21552
+Denmark,1851,20704.9
+Denmark,1852,21937
+Denmark,1853,28440
+Denmark,1854,21557
+Denmark,1855,24081.9
+Denmark,1856,22592.1
+Denmark,1857,26218.9
+Denmark,1858,28989.9
+Denmark,1859,25169
+Denmark,1860,25399
+Denmark,1861,23426.1
+Denmark,1862,23529.1
+Denmark,1863,23849.9
+Denmark,1864,31231
+Denmark,1865,31554
+Denmark,1866,28755.9
+Denmark,1867,27485.9
+Denmark,1868,25927
+Denmark,1869,27249
+Denmark,1870,26969
+Denmark,1871,28058.9
+Denmark,1872,26199
+Denmark,1873,27119.1
+Denmark,1874,28738.9
+Denmark,1875,30206
+Denmark,1876,28487
+Denmark,1877,27774.9
+Denmark,1878,27341.1
+Denmark,1879,30380
+Denmark,1880,30791.9
+Denmark,1881,28719.9
+Denmark,1882,28923
+Denmark,1883,28497.9
+Denmark,1884,28243.1
+Denmark,1885,28782.1
+Denmark,1886,28848.9
+Denmark,1887,29802.9
+Denmark,1888,32499.9
+Denmark,1889,30530.9
+Denmark,1890,32566
+Denmark,1891,34837.1
+Denmark,1892,33922
+Denmark,1893,32047.1
+Denmark,1894,30342
+Denmark,1895,29172
+Denmark,1896,27263
+Denmark,1897,29739.2
+Denmark,1898,27861
+Denmark,1899,30464
+Denmark,1900,31629
+Denmark,1901,28953
+Denmark,1902,28131.1
+Denmark,1903,28568
+Denmark,1904,27684
+Denmark,1905,29755
+Denmark,1906,27148
+Denmark,1907,29218
+Denmark,1908,29677
+Denmark,1909,28380.9
+Denmark,1910,27485.1
+Denmark,1911,29372.1
+Denmark,1912,29472
+Denmark,1913,28532
+Denmark,1914,28655.8
+Denmark,1915,30457.1
+Denmark,1916,32106.9
+Denmark,1917,32205.4
+Denmark,1918,33650.2
+Denmark,1919,33283.4
+Denmark,1920,32768.9
+Denmark,1921,30127.4
+Denmark,1922,33122
+Denmark,1923,31685.4
+Denmark,1924,31839.8
+Denmark,1925,31333
+Denmark,1926,32115.2
+Denmark,1927,34507.3
+Denmark,1928,32939.5
+Denmark,1929,34067.9
+Denmark,1930,32865.7
+Denmark,1931,35344.7
+Denmark,1932,35027.2
+Denmark,1933,34041.3
+Denmark,1934,33855.2
+Denmark,1935,36181
+Denmark,1936,36445.3
+Denmark,1937,35986.2
+Denmark,1938,35035.1
+Denmark,1939,34588.9
+Denmark,1940,36211.1
+Denmark,1941,35802
+Denmark,1942,33738
+Denmark,1943,34143
+Denmark,1944,36729
+Denmark,1945,37626
+Denmark,1946,37591
+Denmark,1947,36320
+Denmark,1948,32972
+Denmark,1949,35030
+Denmark,1950,36847
+Denmark,1951,35744
+Denmark,1952,36950
+Denmark,1953,37219
+Denmark,1954,37834
+Denmark,1955,36854
+Denmark,1956,37673
+Denmark,1957,39973
+Denmark,1958,39886
+Denmark,1959,40499
+Denmark,1960,42036
+Denmark,1961,41642
+Denmark,1962,43774
+Denmark,1963,44198
+Denmark,1964,45251
+Denmark,1965,46277
+Denmark,1966,47846
+Denmark,1967,46547
+Denmark,1968,46068
+Denmark,1969,46884
+Denmark,1970,47225
+Denmark,1971,47849
+Denmark,1972,49524
+Denmark,1973,49701
+Denmark,1974,50871
+Denmark,1975,50147
+Denmark,1976,53337
+Denmark,1977,49948
+Denmark,1978,52318
+Denmark,1979,54132
+Denmark,1980,55451
+Denmark,1981,55938
+Denmark,1982,54932
+Denmark,1983,56762
+Denmark,1984,56709
+Denmark,1985,57950
+Denmark,1986,57645
+Denmark,1987,57668
+Denmark,1988,58532
+Denmark,1989,58903
+Denmark,1990,60434
+Denmark,1991,59110
+Denmark,1992,60377
+Denmark,1993,62442
+Denmark,1994,60719
+Denmark,1995,62774
+Denmark,1996,60667
+Denmark,1997,59569
+Denmark,1998,58133
+Denmark,1999,58875
+Denmark,2000,57628
+Denmark,2001,58018
+Denmark,2002,58326
+Denmark,2003,55523
+Denmark,2004,57288
+Denmark,2005,54682
+Denmark,2006,55272
+Denmark,2007,55348
+Denmark,2008,54329
+Denmark,2009,54679
+Denmark,2010,54152
+Denmark,2011,52308
+Denmark,2012,52128
+Denmark,2013,52276
+Denmark,2014,51111
+Spain,1908,310433
+Spain,1909,366547
+Spain,1910,359323
+Spain,1911,364393
+Spain,1912,338343
+Spain,1913,353225
+Spain,1914,357778
+Spain,1915,356302
+Spain,1916,353402
+Spain,1917,371993
+Spain,1918,583354
+Spain,1919,390909
+Spain,1920,391300
+Spain,1921,359609
+Spain,1922,348125
+Spain,1923,351547
+Spain,1924,338949
+Spain,1925,344210
+Spain,1926,336035
+Spain,1927,339244
+Spain,1928,329085
+Spain,1929,326916
+Spain,1930,316932
+Spain,1931,333009
+Spain,1932,313713
+Spain,1933,319537
+Spain,1934,316465
+Spain,1935,315223
+Spain,1936,344492
+Spain,1937,395849
+Spain,1938,421701
+Spain,1939,412240
+Spain,1940,356002
+Spain,1941,411313
+Spain,1942,329847
+Spain,1943,288766
+Spain,1944,289657
+Spain,1945,274223
+Spain,1946,297307
+Spain,1947,283936
+Spain,1948,258915
+Spain,1949,275204
+Spain,1950,265008
+Spain,1951,287028
+Spain,1952,239438
+Spain,1953,242651
+Spain,1954,231577
+Spain,1955,239031
+Spain,1956,257453
+Spain,1957,259298
+Spain,1958,228323
+Spain,1959,237005
+Spain,1960,238892
+Spain,1961,232074
+Spain,1962,250110
+Spain,1963,254267
+Spain,1964,245632
+Spain,1965,247609
+Spain,1966,251019
+Spain,1967,256315
+Spain,1968,260958
+Spain,1969,282157
+Spain,1970,266433
+Spain,1971,290218
+Spain,1972,269176
+Spain,1973,286289
+Spain,1974,285800
+Spain,1975,284705
+Spain,1976,286638
+Spain,1977,282936
+Spain,1978,285866
+Spain,1979,281787
+Spain,1980,281387
+Spain,1981,285990
+Spain,1982,279864
+Spain,1983,296165
+Spain,1984,293546
+Spain,1985,307815
+Spain,1986,304764
+Spain,1987,304258
+Spain,1988,314271
+Spain,1989,320079
+Spain,1990,328765
+Spain,1991,333592
+Spain,1992,327327
+Spain,1993,335663
+Spain,1994,334015
+Spain,1995,341959
+Spain,1996,347189
+Spain,1997,345317
+Spain,1998,356200
+Spain,1999,366774
+Spain,2000,356067
+Spain,2001,355949
+Spain,2002,364335
+Spain,2003,380742
+Spain,2004,367774
+Spain,2005,383325
+Spain,2006,367710
+Spain,2007,381565
+Spain,2008,382481
+Spain,2009,381631
+Spain,2010,378703
+Spain,2011,384540
+Spain,2012,399733
+Spain,2013,387451
+Spain,2014,392532
+Estonia,1959,12445
+Estonia,1960,12109.9
+Estonia,1961,12469.7
+Estonia,1962,12993
+Estonia,1963,12748.9
+Estonia,1964,12255.8
+Estonia,1965,13135.9
+Estonia,1966,13426.5
+Estonia,1967,13339.9
+Estonia,1968,13868
+Estonia,1969,14802.9
+Estonia,1970,14804.9
+Estonia,1971,14650.7
+Estonia,1972,15174.9
+Estonia,1973,15236
+Estonia,1974,15014.9
+Estonia,1975,16183.6
+Estonia,1976,16968.8
+Estonia,1977,16709.9
+Estonia,1978,17450.8
+Estonia,1979,17660.7
+Estonia,1980,17819.7
+Estonia,1981,17960
+Estonia,1982,17494.6
+Estonia,1983,17799.7
+Estonia,1984,18755.7
+Estonia,1985,19010
+Estonia,1986,17600.8
+Estonia,1987,17876.9
+Estonia,1988,18238.5
+Estonia,1989,18175.6
+Estonia,1990,19255.6
+Estonia,1991,19456.5
+Estonia,1992,19842.1
+Estonia,1993,21047.2
+Estonia,1994,22006.9
+Estonia,1995,20625.9
+Estonia,1996,18880.2
+Estonia,1997,18445.5
+Estonia,1998,19330.2
+Estonia,1999,18326.9
+Estonia,2000,18291.6
+Estonia,2001,18404.2
+Estonia,2002,18280.5
+Estonia,2003,18060.6
+Estonia,2004,17594.8
+Estonia,2005,17237.6
+Estonia,2006,17249.8
+Estonia,2007,17329.8
+Estonia,2008,16594.9
+Estonia,2009,16023.9
+Estonia,2010,15737
+Estonia,2011,15207.9
+Estonia,2012,15399.8
+Estonia,2013,15216
+Finland,1878,29616
+Finland,1879,28908
+Finland,1880,36375
+Finland,1881,38250
+Finland,1882,34364
+Finland,1883,32937
+Finland,1884,33626
+Finland,1885,36071
+Finland,1886,37170
+Finland,1887,32100
+Finland,1888,33684
+Finland,1889,34587
+Finland,1890,35446
+Finland,1891,38836
+Finland,1892,44526
+Finland,1893,40581
+Finland,1894,36803
+Finland,1895,33934
+Finland,1896,35400
+Finland,1897,34274
+Finland,1898,34310
+Finland,1899,40950
+Finland,1900,44694
+Finland,1901,43414
+Finland,1902,39765
+Finland,1903,39152
+Finland,1904,39417
+Finland,1905,40947
+Finland,1906,39941
+Finland,1907,42671
+Finland,1908,43781
+Finland,1909,40032
+Finland,1910,40064
+Finland,1911,41265
+Finland,1912,41622
+Finland,1913,42037
+Finland,1914,41566
+Finland,1915,43001
+Finland,1916,45810
+Finland,1917,49281
+Finland,1918,85941
+Finland,1919,54334
+Finland,1920,45114
+Finland,1921,39587
+Finland,1922,41227
+Finland,1923,39982
+Finland,1924,45094
+Finland,1925,40842
+Finland,1926,40944
+Finland,1927,44386
+Finland,1928,42198
+Finland,1929,47068
+Finland,1930,42587
+Finland,1931,43590
+Finland,1932,41782
+Finland,1933,43038
+Finland,1934,41374
+Finland,1935,40701
+Finland,1936,45180
+Finland,1937,42190
+Finland,1938,42699
+Finland,1939,48853.3
+Finland,1940,67879
+Finland,1941,68612
+Finland,1942,52132
+Finland,1943,46313
+Finland,1944,62835
+Finland,1945,44380
+Finland,1946,39961
+Finland,1947,41115
+Finland,1948,39582
+Finland,1949,42169
+Finland,1950,38281
+Finland,1951,37092
+Finland,1952,36027
+Finland,1953,36819
+Finland,1954,35238
+Finland,1955,36907
+Finland,1956,36431
+Finland,1957,38317
+Finland,1958,36841
+Finland,1959,36864
+Finland,1960,38070
+Finland,1961,38909
+Finland,1962,41219
+Finland,1963,40514
+Finland,1964,41143
+Finland,1965,43102
+Finland,1966,42384
+Finland,1967,42644
+Finland,1968,43993
+Finland,1969,45004
+Finland,1970,43265
+Finland,1971,45102
+Finland,1972,43251
+Finland,1973,42806
+Finland,1974,43987
+Finland,1975,43204
+Finland,1976,44124
+Finland,1977,43478.5
+Finland,1978,43212.5
+Finland,1979,43251
+Finland,1980,43900
+Finland,1981,43994
+Finland,1982,43017
+Finland,1983,44979
+Finland,1984,44675
+Finland,1985,47803
+Finland,1986,46781
+Finland,1987,47581
+Finland,1988,48684
+Finland,1989,48732
+Finland,1990,49693
+Finland,1991,48915
+Finland,1992,49504
+Finland,1993,50704
+Finland,1994,47697
+Finland,1995,49033.5
+Finland,1996,48932.5
+Finland,1997,48901.5
+Finland,1998,49063.5
+Finland,1999,49137.5
+Finland,2000,49152
+Finland,2001,48335
+Finland,2002,49235
+Finland,2003,48813.5
+Finland,2004,47413
+Finland,2005,47747.5
+Finland,2006,47902
+Finland,2007,48918.5
+Finland,2008,48929
+Finland,2009,49782
+Finland,2010,50761
+Finland,2011,50418
+Finland,2012,51582
+Finland,2013,51352
+Finland,2014,52261
+Finland,2015,52101
+France,1816,515848
+France,1817,579981
+France,1818,587956
+France,1819,603279
+France,1820,590687
+France,1821,563106
+France,1822,584771
+France,1823,566028
+France,1824,576432
+France,1825,607287
+France,1826,645568
+France,1827,613918
+France,1828,653484
+France,1829,633556
+France,1830,633656
+France,1831,630547
+France,1832,761079
+France,1833,644713
+France,1834,712448
+France,1835,642730
+France,1836,595444
+France,1837,694195
+France,1838,656997
+France,1839,620606
+France,1840,656720
+France,1841,642047
+France,1842,662724
+France,1843,646498
+France,1844,619406
+France,1845,602394
+France,1846,655235
+France,1847,702399
+France,1848,688147
+France,1849,805565
+France,1850,621297
+France,1851,644865
+France,1852,655729
+France,1853,654784
+France,1854,826310
+France,1855,779246
+France,1856,677865
+France,1857,684335
+France,1858,704001
+France,1859,763780
+France,1860,635548
+France,1861,676156
+France,1862,650682
+France,1863,665752
+France,1864,685459
+France,1865,729752
+France,1866,721700
+France,1867,694580
+France,1868,733118
+France,1869,697315
+France,1870,852041
+France,1871,1.07466e+06
+France,1872,646236
+France,1873,675051
+France,1874,630627
+France,1875,683549
+France,1876,674205
+France,1877,652381
+France,1878,680071
+France,1879,692167
+France,1880,692528
+France,1881,673760
+France,1882,684143
+France,1883,686374
+France,1884,692841
+France,1885,687462
+France,1886,701889
+France,1887,697863
+France,1888,692037
+France,1889,657946
+France,1890,728911
+France,1891,737686
+France,1892,720270
+France,1893,716369
+France,1894,680621
+France,1895,703004
+France,1896,644178
+France,1897,620235
+France,1898,667532
+France,1899,677901
+France,1900,720268
+France,1901,663191
+France,1902,647109
+France,1903,640293
+France,1904,643206
+France,1905,660538
+France,1906,664444
+France,1907,690321
+France,1908,643263
+France,1909,664389
+France,1910,617346
+France,1911,658814
+France,1912,614008
+France,1913,618330
+France,1914,846389
+France,1915,893863
+France,1916,770410
+France,1917,685431
+France,1918,875478
+France,1919,582581
+France,1920,588340
+France,1921,598199
+France,1922,621874
+France,1923,592411
+France,1924,615006
+France,1925,639282
+France,1926,638325
+France,1927,613490
+France,1928,605453
+France,1929,668547
+France,1930,590255
+France,1931,623448
+France,1932,604158
+France,1933,609665
+France,1934,586995
+France,1935,614241
+France,1936,600072
+France,1937,589115
+France,1938,607345
+France,1939,582343
+France,1940,800597
+France,1941,624165
+France,1942,616978
+France,1943,651111
+France,1944,817309
+France,1945,584160
+France,1946,485126
+France,1947,476682
+France,1948,464504
+France,1949,521041
+France,1950,489625
+France,1951,523829
+France,1952,487679
+France,1953,523238
+France,1954,485857
+France,1955,495185
+France,1956,516504
+France,1957,504602
+France,1958,475032
+France,1959,484692
+France,1960,498476
+France,1961,478796
+France,1962,519717
+France,1963,535746
+France,1964,499558
+France,1965,524706
+France,1966,510007
+France,1967,525596
+France,1968,536370
+France,1969,556820
+France,1970,526840
+France,1971,539042
+France,1972,535818
+France,1973,545539
+France,1974,540787
+France,1975,550076
+France,1976,548085
+France,1977,527699
+France,1978,539064
+France,1979,534223
+France,1980,539097
+France,1981,547000
+France,1982,535562
+France,1983,552821
+France,1984,536191
+France,1985,546107
+France,1986,540669
+France,1987,521449
+France,1988,518556
+France,1989,523514
+France,1990,520602
+France,1991,519174
+France,1992,516455
+France,1993,527659
+France,1994,515772
+France,1995,528073
+France,1996,532274
+France,1997,526880
+France,1998,530606
+France,1999,534440
+France,2000,527447
+France,2001,527635
+France,2002,532030
+France,2003,549286
+France,2004,506441
+France,2005,524758
+France,2006,513510
+France,2007,518194
+France,2008,529275
+France,2009,535213
+France,2010,537684
+France,2011,532191
+France,2012,556584
+France,2013,555698
+France,2014,544405
+France,2015,579115
+England and Wales,1841,242213
+England and Wales,1842,270719
+England and Wales,1843,267099
+England and Wales,1844,276762
+England and Wales,1845,271865
+England and Wales,1846,296585
+England and Wales,1847,333947
+England and Wales,1848,313065
+England and Wales,1849,348577
+England and Wales,1850,282597
+England and Wales,1851,300510
+England and Wales,1852,308364
+England and Wales,1853,323064
+England and Wales,1854,338606
+England and Wales,1855,328200
+England and Wales,1856,296099
+England and Wales,1857,316588
+England and Wales,1858,345819
+England and Wales,1859,335152
+England and Wales,1860,321737
+England and Wales,1861,328686
+England and Wales,1862,335193
+England and Wales,1863,365748
+England and Wales,1864,382596
+England and Wales,1865,371099
+England and Wales,1866,380390
+England and Wales,1867,353814
+England and Wales,1868,358547
+England and Wales,1869,374554
+England and Wales,1870,388691
+England and Wales,1871,389011
+England and Wales,1872,368669
+England and Wales,1873,368752
+England and Wales,1874,397774
+England and Wales,1875,411839
+England and Wales,1876,380375
+England and Wales,1877,379679
+England and Wales,1878,403945
+England and Wales,1879,407003
+England and Wales,1880,393938
+England and Wales,1881,376959
+England and Wales,1882,391634
+England and Wales,1883,400771
+England and Wales,1884,397700
+England and Wales,1885,399620
+England and Wales,1886,402406
+England and Wales,1887,402481
+England and Wales,1888,390892
+England and Wales,1889,391155
+England and Wales,1890,431293
+England and Wales,1891,452124
+England and Wales,1892,427221
+England and Wales,1893,424897
+England and Wales,1894,377028
+England and Wales,1895,420904
+England and Wales,1896,391714
+England and Wales,1897,397898
+England and Wales,1898,404128
+England and Wales,1899,430824
+England and Wales,1900,444918
+England and Wales,1901,410937
+England and Wales,1902,410542
+England and Wales,1903,389910
+England and Wales,1904,412392
+England and Wales,1905,400940
+England and Wales,1906,407386
+England and Wales,1907,416243
+England and Wales,1908,407202
+England and Wales,1909,418573
+England and Wales,1910,388668
+England and Wales,1911,413210
+England and Wales,1912,404160
+England and Wales,1913,409367
+England and Wales,1914,424770
+England and Wales,1915,472873
+England and Wales,1916,436571
+England and Wales,1917,434439
+England and Wales,1918,547475
+England and Wales,1919,442488
+England and Wales,1920,389578
+England and Wales,1921,388379
+England and Wales,1922,426659
+England and Wales,1923,392203
+England and Wales,1924,418421
+England and Wales,1925,419525
+England and Wales,1926,405047
+England and Wales,1927,438999
+England and Wales,1928,417429
+England and Wales,1929,484624
+England and Wales,1930,416519
+England and Wales,1931,449691
+England and Wales,1932,444196
+England and Wales,1933,459505
+England and Wales,1934,441793
+England and Wales,1935,443309
+England and Wales,1936,460339
+England and Wales,1937,474399
+England and Wales,1938,446105
+England and Wales,1939,467778
+England and Wales,1940,538752
+England and Wales,1941,489883
+England and Wales,1942,438399
+England and Wales,1943,458100
+England and Wales,1944,447595
+England and Wales,1945,449294
+England and Wales,1946,455513
+England and Wales,1947,478742
+England and Wales,1948,441878
+England and Wales,1949,486091
+England and Wales,1950,489484
+England and Wales,1951,529157
+England and Wales,1952,478929
+England and Wales,1953,485205
+England and Wales,1954,484736
+England and Wales,1955,502251
+England and Wales,1956,504777
+England and Wales,1957,498150
+England and Wales,1958,510158
+England and Wales,1959,511022
+England and Wales,1960,509150
+England and Wales,1961,534358
+England and Wales,1962,539448
+England and Wales,1963,554826
+England and Wales,1964,517292
+England and Wales,1965,532984
+England and Wales,1966,547476
+England and Wales,1967,527250
+England and Wales,1968,561772
+England and Wales,1969,564986
+England and Wales,1970,560928
+England and Wales,1971,553541
+England and Wales,1972,579390
+England and Wales,1973,576069
+England and Wales,1974,574832
+England and Wales,1975,573352
+England and Wales,1976,590179
+England and Wales,1977,568087
+England and Wales,1978,578020
+England and Wales,1979,584841
+England and Wales,1980,573485
+England and Wales,1981,570868
+England and Wales,1982,575084
+England and Wales,1983,573226
+England and Wales,1984,560843
+England and Wales,1985,584592
+England and Wales,1986,574890
+England and Wales,1987,560721
+England and Wales,1988,565137
+England and Wales,1989,571061
+England and Wales,1990,559280
+England and Wales,1991,564886
+England and Wales,1992,553773
+England and Wales,1993,574552
+England and Wales,1994,549072
+England and Wales,1995,565699
+England and Wales,1996,556176
+England and Wales,1997,551482
+England and Wales,1998,551390
+England and Wales,1999,552497
+England and Wales,2000,532287
+England and Wales,2001,527133
+England and Wales,2002,530400
+England and Wales,2003,534948
+England and Wales,2004,509323
+England and Wales,2005,509433
+England and Wales,2006,499231
+England and Wales,2007,500707
+England and Wales,2008,505721
+England and Wales,2009,488036
+England and Wales,2010,490102
+England and Wales,2011,481213
+England and Wales,2012,496291
+England and Wales,2013,504023
+England and Wales,1841,242213
+England and Wales,1842,270719
+England and Wales,1843,267099
+England and Wales,1844,276762
+England and Wales,1845,271865
+England and Wales,1846,296585
+England and Wales,1847,333947
+England and Wales,1848,313065
+England and Wales,1849,348577
+England and Wales,1850,282597
+England and Wales,1851,300510
+England and Wales,1852,308364
+England and Wales,1853,323064
+England and Wales,1854,338606
+England and Wales,1855,328200
+England and Wales,1856,296099
+England and Wales,1857,316588
+England and Wales,1858,345819
+England and Wales,1859,335152
+England and Wales,1860,321737
+England and Wales,1861,328686
+England and Wales,1862,335193
+England and Wales,1863,365748
+England and Wales,1864,382596
+England and Wales,1865,371099
+England and Wales,1866,380390
+England and Wales,1867,353814
+England and Wales,1868,358547
+England and Wales,1869,374554
+England and Wales,1870,388691
+England and Wales,1871,389011
+England and Wales,1872,368669
+England and Wales,1873,368752
+England and Wales,1874,397774
+England and Wales,1875,411839
+England and Wales,1876,380375
+England and Wales,1877,379679
+England and Wales,1878,403945
+England and Wales,1879,407003
+England and Wales,1880,393938
+England and Wales,1881,376959
+England and Wales,1882,391634
+England and Wales,1883,400771
+England and Wales,1884,397700
+England and Wales,1885,399620
+England and Wales,1886,402406
+England and Wales,1887,402481
+England and Wales,1888,390892
+England and Wales,1889,391155
+England and Wales,1890,431293
+England and Wales,1891,452124
+England and Wales,1892,427221
+England and Wales,1893,424897
+England and Wales,1894,377028
+England and Wales,1895,420904
+England and Wales,1896,391714
+England and Wales,1897,397898
+England and Wales,1898,404128
+England and Wales,1899,430824
+England and Wales,1900,444918
+England and Wales,1901,410937
+England and Wales,1902,410542
+England and Wales,1903,389910
+England and Wales,1904,412392
+England and Wales,1905,400940
+England and Wales,1906,407386
+England and Wales,1907,416243
+England and Wales,1908,407202
+England and Wales,1909,418573
+England and Wales,1910,388668
+England and Wales,1911,413210
+England and Wales,1912,404160
+England and Wales,1913,409367
+England and Wales,1914,455297
+England and Wales,1915,549988
+England and Wales,1916,575773
+England and Wales,1917,621983
+England and Wales,1918,732683
+England and Wales,1919,448897
+England and Wales,1920,390152
+England and Wales,1921,388379
+England and Wales,1922,426659
+England and Wales,1923,392203
+England and Wales,1924,418421
+England and Wales,1925,419525
+England and Wales,1926,405047
+England and Wales,1927,438999
+England and Wales,1928,417429
+England and Wales,1929,484624
+England and Wales,1930,416519
+England and Wales,1931,449691
+England and Wales,1932,444196
+England and Wales,1933,459505
+England and Wales,1934,441793
+England and Wales,1935,443309
+England and Wales,1936,460339
+England and Wales,1937,474399
+England and Wales,1938,446105
+England and Wales,1939,468658
+England and Wales,1940,557756
+England and Wales,1941,505128
+England and Wales,1942,473258
+England and Wales,1943,506814
+England and Wales,1944,503715
+England and Wales,1945,531081
+England and Wales,1946,457868
+England and Wales,1947,479866
+England and Wales,1948,442539
+England and Wales,1949,486771
+England and Wales,1950,489484
+England and Wales,1951,529157
+England and Wales,1952,478929
+England and Wales,1953,485205
+England and Wales,1954,484736
+England and Wales,1955,502251
+England and Wales,1956,504777
+England and Wales,1957,498150
+England and Wales,1958,510158
+England and Wales,1959,511022
+England and Wales,1960,509150
+England and Wales,1961,534358
+England and Wales,1962,539448
+England and Wales,1963,554826
+England and Wales,1964,517292
+England and Wales,1965,532984
+England and Wales,1966,547476
+England and Wales,1967,527250
+England and Wales,1968,561772
+England and Wales,1969,564986
+England and Wales,1970,560928
+England and Wales,1971,553541
+England and Wales,1972,579390
+England and Wales,1973,576069
+England and Wales,1974,574832
+England and Wales,1975,573352
+England and Wales,1976,590179
+England and Wales,1977,568087
+England and Wales,1978,578020
+England and Wales,1979,584841
+England and Wales,1980,573485
+England and Wales,1981,570868
+England and Wales,1982,575084
+England and Wales,1983,573226
+England and Wales,1984,560843
+England and Wales,1985,584592
+England and Wales,1986,574890
+England and Wales,1987,560721
+England and Wales,1988,565137
+England and Wales,1989,571061
+England and Wales,1990,559280
+England and Wales,1991,564886
+England and Wales,1992,553773
+England and Wales,1993,574552
+England and Wales,1994,549072
+England and Wales,1995,565699
+England and Wales,1996,556176
+England and Wales,1997,551482
+England and Wales,1998,551390
+England and Wales,1999,552497
+England and Wales,2000,532287
+England and Wales,2001,527133
+England and Wales,2002,530400
+England and Wales,2003,534948
+England and Wales,2004,509323
+England and Wales,2005,509433
+England and Wales,2006,499231
+England and Wales,2007,500707
+England and Wales,2008,505721
+England and Wales,2009,488036
+England and Wales,2010,490102
+England and Wales,2011,481213
+England and Wales,2012,496291
+England and Wales,2013,504023
+Northern Ireland,1922,16943.1
+Northern Ireland,1923,16487.9
+Northern Ireland,1924,17888
+Northern Ireland,1925,17393.2
+Northern Ireland,1926,16437.1
+Northern Ireland,1927,16142
+Northern Ireland,1928,15982
+Northern Ireland,1929,17648
+Northern Ireland,1930,15394
+Northern Ireland,1931,16164
+Northern Ireland,1932,15727.9
+Northern Ireland,1933,16194
+Northern Ireland,1934,15754
+Northern Ireland,1935,16455.9
+Northern Ireland,1936,16436.9
+Northern Ireland,1937,17313
+Northern Ireland,1938,15715.9
+Northern Ireland,1939,15763
+Northern Ireland,1940,16762.1
+Northern Ireland,1941,17580.6
+Northern Ireland,1942,14991.1
+Northern Ireland,1943,14973
+Northern Ireland,1944,14707.9
+Northern Ireland,1945,14288.5
+Northern Ireland,1946,15039.9
+Northern Ireland,1947,15254.8
+Northern Ireland,1948,13777.9
+Northern Ireland,1949,14334.9
+Northern Ireland,1950,14672.9
+Northern Ireland,1951,16454.9
+Northern Ireland,1952,13694.8
+Northern Ireland,1953,13723
+Northern Ireland,1954,14173
+Northern Ireland,1955,14469
+Northern Ireland,1956,14008
+Northern Ireland,1957,14318
+Northern Ireland,1958,14282
+Northern Ireland,1959,14528
+Northern Ireland,1960,14426
+Northern Ireland,1961,15231
+Northern Ireland,1962,14362
+Northern Ireland,1963,14996
+Northern Ireland,1964,14449.9
+Northern Ireland,1965,14702
+Northern Ireland,1966,15591.9
+Northern Ireland,1967,13886
+Northern Ireland,1968,15137
+Northern Ireland,1969,15548
+Northern Ireland,1970,15817
+Northern Ireland,1971,15480
+Northern Ireland,1972,16416
+Northern Ireland,1973,17062
+Northern Ireland,1974,16759
+Northern Ireland,1975,15977
+Northern Ireland,1976,16510
+Northern Ireland,1977,16419
+Northern Ireland,1978,15734
+Northern Ireland,1979,16394
+Northern Ireland,1980,16453
+Northern Ireland,1981,15896
+Northern Ireland,1982,15549
+Northern Ireland,1983,15710
+Northern Ireland,1984,15401
+Northern Ireland,1985,15690
+Northern Ireland,1986,15779
+Northern Ireland,1987,15092
+Northern Ireland,1988,15565
+Northern Ireland,1989,15664
+Northern Ireland,1990,15228
+Northern Ireland,1991,14902
+Northern Ireland,1992,14835
+Northern Ireland,1993,15457
+Northern Ireland,1994,14967
+Northern Ireland,1995,15141
+Northern Ireland,1996,15076
+Northern Ireland,1997,14834
+Northern Ireland,1998,14859
+Northern Ireland,1999,15515
+Northern Ireland,2000,14795
+Northern Ireland,2001,14379
+Northern Ireland,2002,14486
+Northern Ireland,2003,14347
+Northern Ireland,2004,14232
+Northern Ireland,2005,14084
+Northern Ireland,2006,14411
+Northern Ireland,2007,14526
+Northern Ireland,2008,14784
+Northern Ireland,2009,14283
+Northern Ireland,2010,14311
+Northern Ireland,2011,14094
+Northern Ireland,2012,14666
+Northern Ireland,2013,14856
+United Kingdom,1922,481468
+United Kingdom,1923,463149
+United Kingdom,1924,496220
+United Kingdom,1925,492995
+United Kingdom,1926,476750
+United Kingdom,1927,512395
+United Kingdom,1928,490383
+United Kingdom,1929,565128
+United Kingdom,1930,488345
+United Kingdom,1931,522540
+United Kingdom,1932,518129
+United Kingdom,1933,533528
+United Kingdom,1934,514387
+United Kingdom,1935,518342
+United Kingdom,1936,536210
+United Kingdom,1937,553604
+United Kingdom,1938,518611
+United Kingdom,1939,541998
+United Kingdom,1940,621518
+United Kingdom,1941,572586
+United Kingdom,1942,512067
+United Kingdom,1943,533630
+United Kingdom,1944,520666
+United Kingdom,1945,521347
+United Kingdom,1946,529536
+United Kingdom,1947,553888
+United Kingdom,1948,512149
+United Kingdom,1949,559952
+United Kingdom,1950,564584
+United Kingdom,1951,607999
+United Kingdom,1952,550953
+United Kingdom,1953,555006
+United Kingdom,1954,557428
+United Kingdom,1955,575554
+United Kingdom,1956,577850
+United Kingdom,1957,570809
+United Kingdom,1958,583747
+United Kingdom,1959,585795
+United Kingdom,1960,582667
+United Kingdom,1961,610902
+United Kingdom,1962,614231
+United Kingdom,1963,632719
+United Kingdom,1964,590267
+United Kingdom,1965,608225
+United Kingdom,1966,624518
+United Kingdom,1967,598630
+United Kingdom,1968,638250
+United Kingdom,1969,642453
+United Kingdom,1970,638671
+United Kingdom,1971,628913
+United Kingdom,1972,659346
+United Kingdom,1973,656264
+United Kingdom,1974,655005
+United Kingdom,1975,651286
+United Kingdom,1976,670983
+United Kingdom,1977,645796
+United Kingdom,1978,658047
+United Kingdom,1979,666103
+United Kingdom,1980,652406
+United Kingdom,1981,649812
+United Kingdom,1982,654902
+United Kingdom,1983,651744
+United Kingdom,1984,637917
+United Kingdom,1985,663625
+United Kingdom,1986,653555
+United Kingdom,1987,637264
+United Kingdom,1988,642116
+United Kingdom,1989,651188
+United Kingdom,1990,635525
+United Kingdom,1991,640356
+United Kingdom,1992,629096
+United Kingdom,1993,653646
+United Kingdom,1994,622985
+United Kingdom,1995,640965
+United Kingdom,1996,631541
+United Kingdom,1997,625493
+United Kingdom,1998,625093
+United Kingdom,1999,628017
+United Kingdom,2000,604576
+United Kingdom,2001,598604
+United Kingdom,2002,602719
+United Kingdom,2003,607502
+United Kingdom,2004,579476
+United Kingdom,2005,578980
+United Kingdom,2006,568487
+United Kingdom,2007,570947
+United Kingdom,2008,575952
+United Kingdom,2009,555940
+United Kingdom,2010,558162
+United Kingdom,2011,548730
+United Kingdom,2012,565677
+United Kingdom,2013,573393
+Scotland,1855,44875.2
+Scotland,1856,46449
+Scotland,1857,49692.2
+Scotland,1858,50889.3
+Scotland,1859,50164.8
+Scotland,1860,54732
+Scotland,1861,50452.2
+Scotland,1862,54621.3
+Scotland,1863,58335.4
+Scotland,1864,60219.6
+Scotland,1865,56772.8
+Scotland,1866,57418.7
+Scotland,1867,55531.7
+Scotland,1868,55803.6
+Scotland,1869,61207.5
+Scotland,1870,59990
+Scotland,1871,59565.8
+Scotland,1872,61063.6
+Scotland,1873,61987.4
+Scotland,1874,65260.8
+Scotland,1875,65440.4
+Scotland,1876,58782.1
+Scotland,1877,59352.5
+Scotland,1878,61191
+Scotland,1879,59773.3
+Scotland,1880,60277.2
+Scotland,1881,58123.7
+Scotland,1882,58104
+Scotland,1883,62070.2
+Scotland,1884,59935.4
+Scotland,1885,59403.8
+Scotland,1886,58840.4
+Scotland,1887,59339.8
+Scotland,1888,57227.1
+Scotland,1889,58342
+Scotland,1890,63122.6
+Scotland,1891,67462.2
+Scotland,1892,60850.6
+Scotland,1893,62379.7
+Scotland,1894,56595.7
+Scotland,1895,64976.6
+Scotland,1896,55752.4
+Scotland,1897,61369.6
+Scotland,1898,60826
+Scotland,1899,62457.9
+Scotland,1900,65402.4
+Scotland,1901,63000.5
+Scotland,1902,62936.5
+Scotland,1903,60305.7
+Scotland,1904,61650.6
+Scotland,1905,59257.8
+Scotland,1906,60457.8
+Scotland,1907,63154.3
+Scotland,1908,61937.1
+Scotland,1909,60775.4
+Scotland,1910,58830.9
+Scotland,1911,58024.4
+Scotland,1912,59382
+Scotland,1913,59853.8
+Scotland,1914,59845.6
+Scotland,1915,67185.7
+Scotland,1916,59960.9
+Scotland,1917,59004.9
+Scotland,1918,68532.7
+Scotland,1919,64351.9
+Scotland,1920,55612.6
+Scotland,1921,55079.7
+Scotland,1922,61240.7
+Scotland,1923,54457.8
+Scotland,1924,59911
+Scotland,1925,56076.6
+Scotland,1926,55266.1
+Scotland,1927,57253.7
+Scotland,1928,56971.9
+Scotland,1929,62856
+Scotland,1930,56432.2
+Scotland,1931,56685.1
+Scotland,1932,58204.9
+Scotland,1933,57828.8
+Scotland,1934,56839.9
+Scotland,1935,58576.8
+Scotland,1936,59434
+Scotland,1937,61891.7
+Scotland,1938,56790
+Scotland,1939,58457.4
+Scotland,1940,66003.6
+Scotland,1941,65122.5
+Scotland,1942,58677.1
+Scotland,1943,60556.9
+Scotland,1944,58363.1
+Scotland,1945,57764.9
+Scotland,1946,58983.6
+Scotland,1947,59891
+Scotland,1948,56492.9
+Scotland,1949,59525.6
+Scotland,1950,60426.8
+Scotland,1951,62387.1
+Scotland,1952,58329
+Scotland,1953,56077.9
+Scotland,1954,58519
+Scotland,1955,58834
+Scotland,1956,59064.9
+Scotland,1957,58341
+Scotland,1958,59307.1
+Scotland,1959,60245
+Scotland,1960,59090.9
+Scotland,1961,61313
+Scotland,1962,60421
+Scotland,1963,62897
+Scotland,1964,58525
+Scotland,1965,60539
+Scotland,1966,61450
+Scotland,1967,57494
+Scotland,1968,61341
+Scotland,1969,61919
+Scotland,1970,61926
+Scotland,1971,59892
+Scotland,1972,63540
+Scotland,1973,63133
+Scotland,1974,63414
+Scotland,1975,61957
+Scotland,1976,64294
+Scotland,1977,61290
+Scotland,1978,64293
+Scotland,1979,64868
+Scotland,1980,62468
+Scotland,1981,63048
+Scotland,1982,64269
+Scotland,1983,62808
+Scotland,1984,61673
+Scotland,1985,63343
+Scotland,1986,62886
+Scotland,1987,61451
+Scotland,1988,61414
+Scotland,1989,64463
+Scotland,1990,61017
+Scotland,1991,60568
+Scotland,1992,60488
+Scotland,1993,63637
+Scotland,1994,58946
+Scotland,1995,60125
+Scotland,1996,60289
+Scotland,1997,59177
+Scotland,1998,58844.1
+Scotland,1999,60005
+Scotland,2000,57494
+Scotland,2001,57092
+Scotland,2002,57833
+Scotland,2003,58207
+Scotland,2004,55921
+Scotland,2005,55463
+Scotland,2006,54845
+Scotland,2007,55714
+Scotland,2008,55447
+Scotland,2009,53621
+Scotland,2010,53749
+Scotland,2011,53423
+Scotland,2012,54720
+Scotland,2013,54514
+Greece,1981,83860.9
+Greece,1982,84269
+Greece,1983,88653.7
+Greece,1984,86594
+Greece,1985,91245
+Greece,1986,90402
+Greece,1987,94409
+Greece,1988,91220.1
+Greece,1989,91730.9
+Greece,1990,93159
+Greece,1991,94571
+Greece,1992,97360
+Greece,1993,96555
+Greece,1994,96984
+Greece,1995,99331
+Greece,1996,100010
+Greece,1997,99081
+Greece,1998,101994
+Greece,1999,102685
+Greece,2000,104609
+Greece,2001,102037
+Greece,2002,103385
+Greece,2003,105109
+Greece,2004,104513
+Greece,2005,104682
+Greece,2006,105061
+Greece,2007,109498
+Greece,2008,107665
+Greece,2009,107945
+Greece,2010,108648
+Greece,2011,110742
+Greece,2012,116375
+Greece,2013,111449
+Croatia,2002,50262.9
+Croatia,2003,52323.8
+Croatia,2004,49510.7
+Croatia,2005,51547.8
+Croatia,2006,50162.8
+Croatia,2007,52132.9
+Croatia,2008,51955.9
+Croatia,2009,52178.8
+Croatia,2010,51903.8
+Croatia,2011,50826.8
+Croatia,2012,51559.8
+Croatia,2013,50224
+Croatia,2014,50639.9
+Croatia,2015,54051
+Hungary,1950,88840
+Hungary,1951,93993.2
+Hungary,1952,94448.5
+Hungary,1953,97390.1
+Hungary,1954,93098.2
+Hungary,1955,85214.8
+Hungary,1956,92877.5
+Hungary,1957,93099.3
+Hungary,1958,88659.2
+Hungary,1959,95951.2
+Hungary,1960,94547.2
+Hungary,1961,90223.3
+Hungary,1962,102039
+Hungary,1963,94193.8
+Hungary,1964,95544
+Hungary,1965,102952
+Hungary,1966,96628.4
+Hungary,1967,104021
+Hungary,1968,109832
+Hungary,1969,111144
+Hungary,1970,114747
+Hungary,1971,117715
+Hungary,1972,113898
+Hungary,1973,118079
+Hungary,1974,119425
+Hungary,1975,124721
+Hungary,1976,126711
+Hungary,1977,127371
+Hungary,1978,136024
+Hungary,1979,132984
+Hungary,1980,141911
+Hungary,1981,141786
+Hungary,1982,141641
+Hungary,1983,146218
+Hungary,1984,144151
+Hungary,1985,144963
+Hungary,1986,144647
+Hungary,1987,140423
+Hungary,1988,138075
+Hungary,1989,142754
+Hungary,1990,143797
+Hungary,1991,142824
+Hungary,1992,147066
+Hungary,1993,148786
+Hungary,1994,145554
+Hungary,1995,144236
+Hungary,1996,141982
+Hungary,1997,138445
+Hungary,1998,139926
+Hungary,1999,142412
+Hungary,2000,134701
+Hungary,2001,131394
+Hungary,2002,132140
+Hungary,2003,135133
+Hungary,2004,131864
+Hungary,2005,135125
+Hungary,2006,131032
+Hungary,2007,132361
+Hungary,2008,129474
+Hungary,2009,129919
+Hungary,2010,129975
+Hungary,2011,128362
+Hungary,2012,129002
+Hungary,2013,126324
+Hungary,2014,125887
+Ireland,1950,34576
+Ireland,1951,39506
+Ireland,1952,32431
+Ireland,1953,32128
+Ireland,1954,33171
+Ireland,1955,34497
+Ireland,1956,31748
+Ireland,1957,32284
+Ireland,1958,32139
+Ireland,1959,32316
+Ireland,1960,30883
+Ireland,1961,32936
+Ireland,1962,32038
+Ireland,1963,32113
+Ireland,1964,30918
+Ireland,1965,31428
+Ireland,1966,33561
+Ireland,1967,29902
+Ireland,1968,31878
+Ireland,1969,32441
+Ireland,1970,32431
+Ireland,1971,30676
+Ireland,1972,33145
+Ireland,1973,32958
+Ireland,1974,33694
+Ireland,1975,31997
+Ireland,1976,32991
+Ireland,1977,32563
+Ireland,1978,32748
+Ireland,1979,32844
+Ireland,1980,32651
+Ireland,1981,32183
+Ireland,1982,31712
+Ireland,1983,32299
+Ireland,1984,31459
+Ireland,1985,32661
+Ireland,1986,33080
+Ireland,1987,30949
+Ireland,1988,31096
+Ireland,1989,31688
+Ireland,1990,30936
+Ireland,1991,30904
+Ireland,1992,30600
+Ireland,1993,31846
+Ireland,1994,30671
+Ireland,1995,31948
+Ireland,1996,31420
+Ireland,1997,31260
+Ireland,1998,31247
+Ireland,1999,32291
+Ireland,2000,31053
+Ireland,2001,29881
+Ireland,2002,29378
+Ireland,2003,28748
+Ireland,2004,28378
+Ireland,2005,27197
+Ireland,2006,28233
+Ireland,2007,27887
+Ireland,2008,27990
+Ireland,2009,28133
+Ireland,2010,27690
+Ireland,2011,28194
+Ireland,2012,28949
+Ireland,2013,29790
+Ireland,2014,28864
+Iceland,1838,1163.15
+Iceland,1839,1426.02
+Iceland,1840,1114.08
+Iceland,1841,856.02
+Iceland,1842,986.9
+Iceland,1843,2286.92
+Iceland,1844,730
+Iceland,1845,809.99
+Iceland,1846,1973.07
+Iceland,1847,825.05
+Iceland,1848,719.92
+Iceland,1849,839.99
+Iceland,1850,890.02
+Iceland,1851,1275.01
+Iceland,1852,852.1
+Iceland,1853,643.99
+Iceland,1854,880.09
+Iceland,1855,1231.99
+Iceland,1856,880.01
+Iceland,1857,1026.1
+Iceland,1858,1343.97
+Iceland,1859,1734.11
+Iceland,1860,2477.05
+Iceland,1861,1683.06
+Iceland,1862,1978.96
+Iceland,1863,1469.01
+Iceland,1864,1291.01
+Iceland,1865,1405.02
+Iceland,1866,2299.92
+Iceland,1867,1076
+Iceland,1868,1269.04
+Iceland,1869,1672
+Iceland,1870,1178.99
+Iceland,1871,1275.04
+Iceland,1872,1653
+Iceland,1873,1420.93
+Iceland,1874,1149.01
+Iceland,1875,1268.07
+Iceland,1876,1125.04
+Iceland,1877,1041.89
+Iceland,1878,1161.99
+Iceland,1879,1490.92
+Iceland,1880,1123.98
+Iceland,1881,1305.98
+Iceland,1882,2248.93
+Iceland,1883,1623.99
+Iceland,1884,1124.99
+Iceland,1885,1005
+Iceland,1886,1108.97
+Iceland,1887,1384.02
+Iceland,1888,1064.05
+Iceland,1889,887.04
+Iceland,1890,1431
+Iceland,1891,953.02
+Iceland,1892,870.03
+Iceland,1893,929.04
+Iceland,1894,1464.96
+Iceland,1895,797.9
+Iceland,1896,830.92
+Iceland,1897,1031.06
+Iceland,1898,1290.93
+Iceland,1899,1157.01
+Iceland,1900,1260.02
+Iceland,1901,979.04
+Iceland,1902,995.09
+Iceland,1903,1051.01
+Iceland,1904,1067.97
+Iceland,1905,1192.01
+Iceland,1906,1000.95
+Iceland,1907,1122.03
+Iceland,1908,1217.97
+Iceland,1909,983.97
+Iceland,1910,1075.04
+Iceland,1911,974
+Iceland,1912,1021.97
+Iceland,1913,911.06
+Iceland,1914,1214.97
+Iceland,1915,1213.93
+Iceland,1916,1129.14
+Iceland,1917,964.02
+Iceland,1918,1405.05
+Iceland,1919,1004.07
+Iceland,1920,1140.95
+Iceland,1921,1340.01
+Iceland,1922,1140.94
+Iceland,1923,1153.61
+Iceland,1924,1314.12
+Iceland,1925,1113.79
+Iceland,1926,989.54
+Iceland,1927,1062.01
+Iceland,1928,1005.74
+Iceland,1929,1122.93
+Iceland,1930,1121.06
+Iceland,1931,1139.77
+Iceland,1932,1069.97
+Iceland,1933,1052.07
+Iceland,1934,1044.88
+Iceland,1935,1229
+Iceland,1936,1132.97
+Iceland,1937,1239.98
+Iceland,1938,1140.03
+Iceland,1939,1072.9
+Iceland,1940,1110.98
+Iceland,1941,1264.16
+Iceland,1942,1136.17
+Iceland,1943,1171.78
+Iceland,1944,1092.12
+Iceland,1945,1060.84
+Iceland,1946,1022.92
+Iceland,1947,1078.86
+Iceland,1948,1013.94
+Iceland,1949,1014.01
+Iceland,1950,1032.96
+Iceland,1951,1035.94
+Iceland,1952,997.98
+Iceland,1953,1037.1
+Iceland,1954,985.98
+Iceland,1955,997.98
+Iceland,1956,1073.01
+Iceland,1957,1077.04
+Iceland,1958,1077.89
+Iceland,1959,1162.95
+Iceland,1960,1103.05
+Iceland,1961,1159.04
+Iceland,1962,1156.05
+Iceland,1963,1245.02
+Iceland,1964,1230.95
+Iceland,1965,1219.99
+Iceland,1966,1326.98
+Iceland,1967,1325.93
+Iceland,1968,1331.1
+Iceland,1969,1401.97
+Iceland,1970,1403.93
+Iceland,1971,1446.02
+Iceland,1972,1393.93
+Iceland,1973,1430.9
+Iceland,1974,1445
+Iceland,1975,1357.15
+Iceland,1976,1310.06
+Iceland,1977,1396.93
+Iceland,1978,1374.01
+Iceland,1979,1458.07
+Iceland,1980,1502.98
+Iceland,1981,1632
+Iceland,1982,1553
+Iceland,1983,1630
+Iceland,1984,1563
+Iceland,1985,1630
+Iceland,1986,1577
+Iceland,1987,1696
+Iceland,1988,1789
+Iceland,1989,1691
+Iceland,1990,1676
+Iceland,1991,1771
+Iceland,1992,1697
+Iceland,1993,1731
+Iceland,1994,1703
+Iceland,1995,1897
+Iceland,1996,1863
+Iceland,1997,1820
+Iceland,1998,1810
+Iceland,1999,1891
+Iceland,2000,1810
+Iceland,2001,1714
+Iceland,2002,1812
+Iceland,2003,1816
+Iceland,2004,1812
+Iceland,2005,1827
+Iceland,2006,1895
+Iceland,2007,1934
+Iceland,2008,1975
+Iceland,2009,1993
+Iceland,2010,2009
+Iceland,2011,1982
+Iceland,2012,1950
+Iceland,2013,2146
+Israel,1983,26265
+Israel,1984,26550
+Israel,1985,26848
+Israel,1986,28306
+Israel,1987,28145
+Israel,1988,28161
+Israel,1989,27558
+Israel,1990,27705
+Israel,1991,30285
+Israel,1992,32280
+Israel,1993,32120
+Israel,1994,32672
+Israel,1995,34533
+Israel,1996,33893
+Israel,1997,35322
+Israel,1998,36181
+Israel,1999,36520
+Israel,2000,36938
+Israel,2001,36486
+Israel,2002,37663
+Israel,2003,37781.9
+Israel,2004,37268
+Israel,2005,38413
+Israel,2006,38172
+Israel,2007,39239
+Israel,2008,38879
+Israel,2009,38166
+Israel,2010,38995
+Israel,2011,40301
+Israel,2012,41489
+Israel,2013,41144
+Israel,2014,41859
+Italy,1872,523071
+Italy,1873,603008
+Italy,1874,614329
+Italy,1875,620000
+Italy,1876,576286
+Italy,1877,573675
+Italy,1878,606143
+Italy,1879,616532
+Italy,1880,654425
+Italy,1881,576343
+Italy,1882,569055
+Italy,1883,581412
+Italy,1884,570092
+Italy,1885,569019
+Italy,1886,626967
+Italy,1887,605509
+Italy,1888,596702
+Italy,1889,556079
+Italy,1890,581033
+Italy,1891,587000
+Italy,1892,595806
+Italy,1893,574756
+Italy,1894,574539
+Italy,1895,578308
+Italy,1896,563507
+Italy,1897,514631
+Italy,1898,548587
+Italy,1899,534967
+Italy,1900,582878
+Italy,1901,538941
+Italy,1902,539058
+Italy,1903,556981
+Italy,1904,523490
+Italy,1905,549911
+Italy,1906,524335
+Italy,1907,534434
+Italy,1908,582375
+Italy,1909,562555
+Italy,1910,521982
+Italy,1911,571134
+Italy,1912,490547
+Italy,1913,508676
+Italy,1914,498061
+Italy,1915,656080
+Italy,1916,721707
+Italy,1917,780507
+Italy,1918,1.18998e+06
+Italy,1919,631703
+Italy,1920,540567
+Italy,1921,496049
+Italy,1922,516409
+Italy,1923,484255
+Italy,1924,520144
+Italy,1925,536795
+Italy,1926,541689
+Italy,1927,508316
+Italy,1928,516623
+Italy,1929,537655
+Italy,1930,461434
+Italy,1931,493525
+Italy,1932,501185
+Italy,1933,474365
+Italy,1934,465308
+Italy,1935,493073
+Italy,1936,492946
+Italy,1937,507540
+Italy,1938,502004
+Italy,1939,489622
+Italy,1940,512226
+Italy,1941,554649
+Italy,1942,603359
+Italy,1943,679948
+Italy,1944,636582
+Italy,1945,550557
+Italy,1946,454678
+Italy,1947,435326
+Italy,1948,413728
+Italy,1949,412760
+Italy,1950,394076
+Italy,1951,424559
+Italy,1952,420906
+Italy,1953,423631
+Italy,1954,395791
+Italy,1955,402432
+Italy,1956,454960
+Italy,1957,440210
+Italy,1958,415721
+Italy,1959,413797
+Italy,1960,440982
+Italy,1961,430611
+Italy,1962,469975
+Italy,1963,477825
+Italy,1964,453379
+Italy,1965,482331
+Italy,1966,462321
+Italy,1967,478611
+Italy,1968,502123
+Italy,1969,510370
+Italy,1970,494457
+Italy,1971,496824
+Italy,1972,499888
+Italy,1973,524557
+Italy,1974,512140
+Italy,1975,536820
+Italy,1976,535315
+Italy,1977,533271
+Italy,1978,528576
+Italy,1979,527852
+Italy,1980,545190
+Italy,1981,536505
+Italy,1982,526862
+Italy,1983,556933
+Italy,1984,527973
+Italy,1985,541346
+Italy,1986,538837
+Italy,1987,527390
+Italy,1988,534124
+Italy,1989,526980
+Italy,1990,539054
+Italy,1991,549262
+Italy,1992,542201
+Italy,1993,548460
+Italy,1994,552818
+Italy,1995,553433
+Italy,1996,551326
+Italy,1997,558234
+Italy,1998,571428
+Italy,1999,565015
+Italy,2000,557692
+Italy,2001,554410
+Italy,2002,558053
+Italy,2003,582559
+Italy,2004,539826
+Italy,2005,563129
+Italy,2006,553377
+Italy,2007,567542
+Italy,2008,579473
+Italy,2009,583235
+Italy,2010,579534
+Italy,2011,588923
+Italy,2012,608291
+Japan,1947,875306
+Japan,1948,785072
+Japan,1949,776923
+Japan,1950,764308
+Japan,1951,716124
+Japan,1952,665941
+Japan,1953,681109
+Japan,1954,642538
+Japan,1955,624719
+Japan,1956,656766
+Japan,1957,689765
+Japan,1958,627134
+Japan,1959,635161
+Japan,1960,657304
+Japan,1961,650177
+Japan,1962,667467
+Japan,1963,632326
+Japan,1964,638098
+Japan,1965,666695
+Japan,1966,644123
+Japan,1967,646076
+Japan,1968,657933
+Japan,1969,666898
+Japan,1970,687535
+Japan,1971,659704
+Japan,1972,659966
+Japan,1973,685720
+Japan,1974,688610
+Japan,1975,683160
+Japan,1976,686156
+Japan,1977,674400
+Japan,1978,681487
+Japan,1979,676734
+Japan,1980,710954
+Japan,1981,709366
+Japan,1982,701909
+Japan,1983,730627
+Japan,1984,731322
+Japan,1985,744380
+Japan,1986,743364
+Japan,1987,744456
+Japan,1988,786745
+Japan,1989,782867
+Japan,1990,814686
+Japan,1991,824376
+Japan,1992,851162
+Japan,1993,873359
+Japan,1994,870668
+Japan,1995,917082
+Japan,1996,891662
+Japan,1997,908996
+Japan,1998,932100
+Japan,1999,978018
+Japan,2000,957820
+Japan,2001,966730
+Japan,2002,978880
+Japan,2003,1.01158e+06
+Japan,2004,1.02548e+06
+Japan,2005,1.08084e+06
+Japan,2006,1.08158e+06
+Japan,2007,1.1055e+06
+Japan,2008,1.13961e+06
+Japan,2009,1.13931e+06
+Japan,2010,1.19456e+06
+Japan,2011,1.2506e+06
+Japan,2012,1.25406e+06
+Japan,2013,1.26625e+06
+Japan,2014,1.27092e+06
+Lithuania,1959,21221.7
+Lithuania,1960,19238.9
+Lithuania,1961,20141.8
+Lithuania,1962,22753.9
+Lithuania,1963,21110
+Lithuania,1964,20159
+Lithuania,1965,22135.5
+Lithuania,1966,22534
+Lithuania,1967,23466
+Lithuania,1968,24644
+Lithuania,1969,26030.8
+Lithuania,1970,26977.8
+Lithuania,1971,26140.8
+Lithuania,1972,28304
+Lithuania,1973,28222
+Lithuania,1974,28605
+Lithuania,1975,30248
+Lithuania,1976,31022
+Lithuania,1977,32035
+Lithuania,1978,33063
+Lithuania,1979,34023
+Lithuania,1980,35122
+Lithuania,1981,34715
+Lithuania,1982,34242
+Lithuania,1983,35651.8
+Lithuania,1984,37894.6
+Lithuania,1985,38339.7
+Lithuania,1986,35095.6
+Lithuania,1987,36183.7
+Lithuania,1988,36992.6
+Lithuania,1989,37552.4
+Lithuania,1990,39179.2
+Lithuania,1991,40192.8
+Lithuania,1992,40569.2
+Lithuania,1993,45359.2
+Lithuania,1994,45882.8
+Lithuania,1995,44791.9
+Lithuania,1996,42500.8
+Lithuania,1997,40751.9
+Lithuania,1998,40413.9
+Lithuania,1999,39687.9
+Lithuania,2000,38625
+Lithuania,2001,40149
+Lithuania,2002,40833.9
+Lithuania,2003,40784
+Lithuania,2004,41100.1
+Lithuania,2005,43590.1
+Lithuania,2006,44600
+Lithuania,2007,45434
+Lithuania,2008,43660
+Lithuania,2009,41851
+Lithuania,2010,41967
+Lithuania,2011,40893.1
+Lithuania,2012,40820
+Lithuania,2013,41401
+Luxembourg,1960,3547.79
+Luxembourg,1961,3484.87
+Luxembourg,1962,3881.79
+Luxembourg,1963,3783.98
+Luxembourg,1964,3702.93
+Luxembourg,1965,3934.91
+Luxembourg,1966,3915.89
+Luxembourg,1967,4044.36
+Luxembourg,1968,4037.58
+Luxembourg,1969,4134.68
+Luxembourg,1970,4066.4
+Luxembourg,1971,4314.4
+Luxembourg,1972,4083.66
+Luxembourg,1973,4162.65
+Luxembourg,1974,4288.75
+Luxembourg,1975,4332.85
+Luxembourg,1976,4472.43
+Luxembourg,1977,4074.72
+Luxembourg,1978,4174.7
+Luxembourg,1979,3956.8
+Luxembourg,1980,4098.61
+Luxembourg,1981,4065.71
+Luxembourg,1982,4081
+Luxembourg,1983,4082
+Luxembourg,1984,4023
+Luxembourg,1985,3990
+Luxembourg,1986,3936.01
+Luxembourg,1987,3971.98
+Luxembourg,1988,3801
+Luxembourg,1989,3938.01
+Luxembourg,1990,3737
+Luxembourg,1991,3698.01
+Luxembourg,1992,3977
+Luxembourg,1993,3883
+Luxembourg,1994,3770.98
+Luxembourg,1995,3767
+Luxembourg,1996,3867
+Luxembourg,1997,3904
+Luxembourg,1998,3874
+Luxembourg,1999,3767
+Luxembourg,2000,3725
+Luxembourg,2001,3687
+Luxembourg,2002,3717
+Luxembourg,2003,4027
+Luxembourg,2004,3557
+Luxembourg,2005,3607
+Luxembourg,2006,3752
+Luxembourg,2007,3856
+Luxembourg,2008,3585
+Luxembourg,2009,3641
+Luxembourg,2010,3740
+Luxembourg,2011,3795
+Luxembourg,2012,3861
+Luxembourg,2013,3798
+Luxembourg,2014,3824
+Latvia,1959,21437.5
+Latvia,1960,20357.8
+Latvia,1961,20890.9
+Latvia,1962,22743.8
+Latvia,1963,21825.9
+Latvia,1964,20439
+Latvia,1965,22190.9
+Latvia,1966,22806
+Latvia,1967,23804
+Latvia,1968,24484.9
+Latvia,1969,25646.1
+Latvia,1970,25936.9
+Latvia,1971,25713.9
+Latvia,1972,26735.9
+Latvia,1973,27601
+Latvia,1974,27499
+Latvia,1975,29334
+Latvia,1976,29676
+Latvia,1977,30241
+Latvia,1978,30642
+Latvia,1979,31528
+Latvia,1980,31555
+Latvia,1981,31520
+Latvia,1982,30712
+Latvia,1983,31686
+Latvia,1984,32879
+Latvia,1985,33648
+Latvia,1986,30790
+Latvia,1987,31674
+Latvia,1988,31964.9
+Latvia,1989,32146
+Latvia,1990,34291
+Latvia,1991,34203.6
+Latvia,1992,34863
+Latvia,1993,38762.6
+Latvia,1994,41375.7
+Latvia,1995,38523.6
+Latvia,1996,34004.7
+Latvia,1997,33243.7
+Latvia,1998,33923.7
+Latvia,1999,32624.6
+Latvia,2000,31994.9
+Latvia,2001,32773.9
+Latvia,2002,32300.8
+Latvia,2003,32238.8
+Latvia,2004,31832.8
+Latvia,2005,32608.9
+Latvia,2006,32927.7
+Latvia,2007,32838.8
+Latvia,2008,30844.8
+Latvia,2009,29728.8
+Latvia,2010,29930
+Latvia,2011,28416
+Latvia,2012,28900
+Latvia,2013,28599.7
+Netherlands,1850,45092
+Netherlands,1851,49617
+Netherlands,1852,52400
+Netherlands,1853,57905
+Netherlands,1854,57396
+Netherlands,1855,69644
+Netherlands,1856,57098
+Netherlands,1857,63589
+Netherlands,1858,69297
+Netherlands,1859,76769
+Netherlands,1860,62227
+Netherlands,1861,61886
+Netherlands,1862,59055
+Netherlands,1863,59032
+Netherlands,1864,64098
+Netherlands,1865,63197
+Netherlands,1866,78052
+Netherlands,1867,59834
+Netherlands,1868,61747
+Netherlands,1869,59943
+Netherlands,1870,65809
+Netherlands,1871,78033
+Netherlands,1872,66618
+Netherlands,1873,61798
+Netherlands,1874,59215
+Netherlands,1875,66526
+Netherlands,1876,61586
+Netherlands,1877,59403
+Netherlands,1878,62556
+Netherlands,1879,63294
+Netherlands,1880,63935
+Netherlands,1881,61688
+Netherlands,1882,60341
+Netherlands,1883,64710
+Netherlands,1884,65623
+Netherlands,1885,65168
+Netherlands,1886,66285
+Netherlands,1887,62816
+Netherlands,1888,65032
+Netherlands,1889,64525
+Netherlands,1890,67628
+Netherlands,1891,68605
+Netherlands,1892,71696
+Netherlands,1893,64313
+Netherlands,1894,64340
+Netherlands,1895,63508
+Netherlands,1896,60568
+Netherlands,1897,59895
+Netherlands,1898,60681
+Netherlands,1899,63043
+Netherlands,1900,66755
+Netherlands,1901,64555
+Netherlands,1902,64171
+Netherlands,1903,60904
+Netherlands,1904,63403
+Netherlands,1905,62958
+Netherlands,1906,61413
+Netherlands,1907,64010
+Netherlands,1908,65503
+Netherlands,1909,63344
+Netherlands,1910,61766
+Netherlands,1911,63933
+Netherlands,1912,59832
+Netherlands,1913,60000
+Netherlands,1914,60962
+Netherlands,1915,65074
+Netherlands,1916,69419
+Netherlands,1917,72191
+Netherlands,1918,99875
+Netherlands,1919,75810
+Netherlands,1920,67471
+Netherlands,1921,62567
+Netherlands,1922,68134
+Netherlands,1923,60397
+Netherlands,1924,60100
+Netherlands,1925,61696
+Netherlands,1926,62512
+Netherlands,1927,67335
+Netherlands,1928,64446
+Netherlands,1929,72761
+Netherlands,1930,62407
+Netherlands,1931,68250
+Netherlands,1932,64790
+Netherlands,1933,64576
+Netherlands,1934,62830
+Netherlands,1935,66840
+Netherlands,1936,67253
+Netherlands,1937,69027
+Netherlands,1938,67525
+Netherlands,1939,69743
+Netherlands,1940,80486
+Netherlands,1941,81782
+Netherlands,1942,78539
+Netherlands,1943,83039
+Netherlands,1944,97902
+Netherlands,1945,124701
+Netherlands,1946,69142
+Netherlands,1947,68684
+Netherlands,1948,65200
+Netherlands,1949,74740
+Netherlands,1950,70138
+Netherlands,1951,71768.5
+Netherlands,1952,71020.5
+Netherlands,1953,75758
+Netherlands,1954,74706
+Netherlands,1955,76934.5
+Netherlands,1956,80346
+Netherlands,1957,78818.5
+Netherlands,1958,80285.5
+Netherlands,1959,81867.5
+Netherlands,1960,83777
+Netherlands,1961,84234.5
+Netherlands,1962,89919.5
+Netherlands,1963,91926.5
+Netherlands,1964,89833.5
+Netherlands,1965,94573
+Netherlands,1966,97085.5
+Netherlands,1967,96669
+Netherlands,1968,101874
+Netherlands,1969,104432
+Netherlands,1970,106688
+Netherlands,1971,107572
+Netherlands,1972,111143
+Netherlands,1973,108490
+Netherlands,1974,107218
+Netherlands,1975,111905
+Netherlands,1976,112618
+Netherlands,1977,108508
+Netherlands,1978,112802
+Netherlands,1979,111094
+Netherlands,1980,112722
+Netherlands,1981,114032
+Netherlands,1982,115837
+Netherlands,1983,116329
+Netherlands,1984,118360
+Netherlands,1985,121274
+Netherlands,1986,123879
+Netherlands,1987,120789
+Netherlands,1988,122888
+Netherlands,1989,127623
+Netherlands,1990,127427
+Netherlands,1991,128667
+Netherlands,1992,128652
+Netherlands,1993,136568
+Netherlands,1994,132367
+Netherlands,1995,134634
+Netherlands,1996,136473
+Netherlands,1997,134814
+Netherlands,1998,136447
+Netherlands,1999,139439
+Netherlands,2000,139468
+Netherlands,2001,139289
+Netherlands,2002,141341
+Netherlands,2003,140974
+Netherlands,2004,135701
+Netherlands,2005,135474
+Netherlands,2006,134552
+Netherlands,2007,132286
+Netherlands,2008,134438
+Netherlands,2009,133524
+Netherlands,2010,135363
+Netherlands,2011,135087
+Netherlands,2012,140164
+Netherlands,2013,140600
+Netherlands,2014,138593
+Norway,1846,17643.5
+Norway,1847,22677.5
+Norway,1848,23216.5
+Norway,1849,21131
+Norway,1850,19934.5
+Norway,1851,19830.5
+Norway,1852,20876
+Norway,1853,22176
+Norway,1854,19108
+Norway,1855,20888
+Norway,1856,20964
+Norway,1857,21449.5
+Norway,1858,20182
+Norway,1859,21658.5
+Norway,1860,22482
+Norway,1861,25750.5
+Norway,1862,26570.5
+Norway,1863,25544.5
+Norway,1864,24549
+Norway,1865,22840.5
+Norway,1866,23901
+Norway,1867,26230
+Norway,1868,26058.5
+Norway,1869,24678.5
+Norway,1870,23529
+Norway,1871,25000
+Norway,1872,24263
+Norway,1873,24696.5
+Norway,1874,26699
+Norway,1875,27729.5
+Norway,1876,28585.5
+Norway,1877,25731.5
+Norway,1878,24133.5
+Norway,1879,23694
+Norway,1880,25395
+Norway,1881,27396
+Norway,1882,29487.5
+Norway,1883,27716
+Norway,1884,26481
+Norway,1885,27072
+Norway,1886,26677.5
+Norway,1887,26844
+Norway,1888,28667
+Norway,1889,29178.5
+Norway,1890,30527
+Norway,1891,29840
+Norway,1892,30638.5
+Norway,1893,28332
+Norway,1894,29020
+Norway,1895,27216.5
+Norway,1896,26347
+Norway,1897,27268.5
+Norway,1898,27714
+Norway,1899,30654
+Norway,1900,29918
+Norway,1901,28180.5
+Norway,1902,27009.5
+Norway,1903,29378.5
+Norway,1904,28445
+Norway,1905,29478.5
+Norway,1906,27743
+Norway,1907,29589.5
+Norway,1908,29032.5
+Norway,1909,27980.5
+Norway,1910,28279.5
+Norway,1911,28075.5
+Norway,1912,28946.5
+Norway,1913,28890
+Norway,1914,29452.5
+Norway,1915,29878.5
+Norway,1916,31037
+Norway,1917,30736
+Norway,1918,40042.5
+Norway,1919,32328.5
+Norway,1920,29882.5
+Norway,1921,27367.5
+Norway,1922,29248
+Norway,1923,28575.5
+Norway,1924,28045
+Norway,1925,27850.5
+Norway,1926,27326
+Norway,1927,28605
+Norway,1928,27836.5
+Norway,1929,29404
+Norway,1930,27443.5
+Norway,1931,28612
+Norway,1932,28030.5
+Norway,1933,27000
+Norway,1934,26741
+Norway,1935,28072.5
+Norway,1936,28377
+Norway,1937,28454
+Norway,1938,27613.5
+Norway,1939,28272
+Norway,1940,30275
+Norway,1941,30015.5
+Norway,1942,29728.5
+Norway,1943,29266
+Norway,1944,30237
+Norway,1945,27591.5
+Norway,1946,26803.5
+Norway,1947,27695.5
+Norway,1948,26528.5
+Norway,1949,27359
+Norway,1950,27996
+Norway,1951,26218
+Norway,1952,26978.5
+Norway,1953,27148.5
+Norway,1954,27904
+Norway,1955,27899
+Norway,1956,28590.5
+Norway,1957,29407.5
+Norway,1958,30285
+Norway,1959,30642.5
+Norway,1960,31442.5
+Norway,1961,32242
+Norway,1962,33252.5
+Norway,1963,35832.5
+Norway,1964,34125.5
+Norway,1965,34256.5
+Norway,1966,35073
+Norway,1967,35253
+Norway,1968,36751.5
+Norway,1969,38071.5
+Norway,1970,37912.5
+Norway,1971,38170.5
+Norway,1972,38640.5
+Norway,1973,39263
+Norway,1974,38867
+Norway,1975,39473
+Norway,1976,39689.5
+Norway,1977,39374.5
+Norway,1978,40250.5
+Norway,1979,41202
+Norway,1980,40929
+Norway,1981,41511
+Norway,1982,41041
+Norway,1983,41829
+Norway,1984,42162
+Norway,1985,43938
+Norway,1986,43152
+Norway,1987,44506
+Norway,1988,44891
+Norway,1989,44710
+Norway,1990,45602
+Norway,1991,44546
+Norway,1992,44385
+Norway,1993,46296
+Norway,1994,43759
+Norway,1995,44946
+Norway,1996,43614
+Norway,1997,44348
+Norway,1998,43880
+Norway,1999,44938
+Norway,2000,43777
+Norway,2001,43758
+Norway,2002,44273
+Norway,2003,42288
+Norway,2004,41015
+Norway,2005,41057
+Norway,2006,41068
+Norway,2007,41774
+Norway,2008,41549
+Norway,2009,41257
+Norway,2010,41328
+Norway,2011,41251
+Norway,2012,41842
+Norway,2013,41135
+Norway,2014,40250
+New Zealand -- Maori,1948,1005.77
+New Zealand -- Maori,1949,1142.25
+New Zealand -- Maori,1950,1012.11
+New Zealand -- Maori,1951,967
+New Zealand -- Maori,1952,1022
+New Zealand -- Maori,1953,940.05
+New Zealand -- Maori,1954,875
+New Zealand -- Maori,1955,909
+New Zealand -- Maori,1956,958
+New Zealand -- Maori,1957,1067
+New Zealand -- Maori,1958,914
+New Zealand -- Maori,1959,926
+New Zealand -- Maori,1960,1038
+New Zealand -- Maori,1961,999
+New Zealand -- Maori,1962,927
+New Zealand -- Maori,1963,933
+New Zealand -- Maori,1964,929
+New Zealand -- Maori,1965,983
+New Zealand -- Maori,1966,1071
+New Zealand -- Maori,1967,982
+New Zealand -- Maori,1968,1099
+New Zealand -- Maori,1969,1149
+New Zealand -- Maori,1970,1189
+New Zealand -- Maori,1971,1199
+New Zealand -- Maori,1972,1189
+New Zealand -- Maori,1973,1231
+New Zealand -- Maori,1974,1124
+New Zealand -- Maori,1975,1213
+New Zealand -- Maori,1976,1202.5
+New Zealand -- Maori,1977,1307
+New Zealand -- Maori,1978,1099
+New Zealand -- Maori,1979,1189
+New Zealand -- Maori,1980,1212
+New Zealand -- Maori,1981,1188
+New Zealand -- Maori,1982,1203
+New Zealand -- Maori,1983,1204.5
+New Zealand -- Maori,1984,1141.5
+New Zealand -- Maori,1985,1174.5
+New Zealand -- Maori,1986,1128
+New Zealand -- Maori,1987,1107.5
+New Zealand -- Maori,1988,1167.5
+New Zealand -- Maori,1989,1233
+New Zealand -- Maori,1990,1287.5
+New Zealand -- Maori,1991,1343
+New Zealand -- Maori,1992,1290.5
+New Zealand -- Maori,1993,1410.5
+New Zealand -- Maori,1994,1317.5
+New Zealand -- Maori,1995,1443.57
+New Zealand -- Maori,1996,2443.71
+New Zealand -- Maori,1997,2379.5
+New Zealand -- Maori,1998,2335
+New Zealand -- Maori,1999,2469.5
+New Zealand -- Maori,2000,2407
+New Zealand -- Maori,2001,2382.5
+New Zealand -- Maori,2002,2441.5
+New Zealand -- Maori,2003,2515
+New Zealand -- Maori,2004,2548.5
+New Zealand -- Maori,2005,2503
+New Zealand -- Maori,2006,2551.5
+New Zealand -- Maori,2007,2612.5
+New Zealand -- Maori,2008,2689
+New Zealand -- Non-Maori,1901,5962.91
+New Zealand -- Non-Maori,1902,6662.92
+New Zealand -- Non-Maori,1903,6750.12
+New Zealand -- Non-Maori,1904,6470.95
+New Zealand -- Non-Maori,1905,6461.96
+New Zealand -- Non-Maori,1906,6833.07
+New Zealand -- Non-Maori,1907,7838.01
+New Zealand -- Non-Maori,1908,7282.04
+New Zealand -- Non-Maori,1909,7324.94
+New Zealand -- Non-Maori,1910,7878.9
+New Zealand -- Non-Maori,1911,8049.99
+New Zealand -- Non-Maori,1912,7805.06
+New Zealand -- Non-Maori,1913,8466.04
+New Zealand -- Non-Maori,1914,8692
+New Zealand -- Non-Maori,1915,8571.01
+New Zealand -- Non-Maori,1916,9149.91
+New Zealand -- Non-Maori,1917,9168
+New Zealand -- Non-Maori,1918,15112
+New Zealand -- Non-Maori,1919,9700
+New Zealand -- Non-Maori,1920,10596
+New Zealand -- Non-Maori,1921,9316
+New Zealand -- Non-Maori,1922,9752
+New Zealand -- Non-Maori,1923,10286.5
+New Zealand -- Non-Maori,1924,9640.5
+New Zealand -- Non-Maori,1925,9901
+New Zealand -- Non-Maori,1926,10687
+New Zealand -- Non-Maori,1927,10533
+New Zealand -- Non-Maori,1928,10827
+New Zealand -- Non-Maori,1929,11402
+New Zealand -- Non-Maori,1930,11275
+New Zealand -- Non-Maori,1931,11190
+New Zealand -- Non-Maori,1932,10906
+New Zealand -- Non-Maori,1933,10931
+New Zealand -- Non-Maori,1934,11746
+New Zealand -- Non-Maori,1935,11444
+New Zealand -- Non-Maori,1936,12287
+New Zealand -- Non-Maori,1937,12846
+New Zealand -- Non-Maori,1938,13783
+New Zealand -- Non-Maori,1939,13260
+New Zealand -- Non-Maori,1940,13292
+New Zealand -- Non-Maori,1941,14101
+New Zealand -- Non-Maori,1942,15421
+New Zealand -- Non-Maori,1943,14496
+New Zealand -- Non-Maori,1944,14351
+New Zealand -- Non-Maori,1945,15015
+New Zealand -- Non-Maori,1946,15000
+New Zealand -- Non-Maori,1947,14782
+New Zealand -- Non-Maori,1948,14842
+New Zealand -- Non-Maori,1949,14966
+New Zealand -- Non-Maori,1950,15707
+New Zealand -- Non-Maori,1951,16495
+New Zealand -- Non-Maori,1952,16399
+New Zealand -- Non-Maori,1953,16078
+New Zealand -- Non-Maori,1954,16699
+New Zealand -- Non-Maori,1955,16951
+New Zealand -- Non-Maori,1956,17425
+New Zealand -- Non-Maori,1957,18375
+New Zealand -- Non-Maori,1958,17971
+New Zealand -- Non-Maori,1959,18725
+New Zealand -- Non-Maori,1960,18434
+New Zealand -- Non-Maori,1961,19293
+New Zealand -- Non-Maori,1962,19823
+New Zealand -- Non-Maori,1963,20214.5
+New Zealand -- Non-Maori,1964,20739.5
+New Zealand -- Non-Maori,1965,20819
+New Zealand -- Non-Maori,1966,21643
+New Zealand -- Non-Maori,1967,20923.5
+New Zealand -- Non-Maori,1968,22201.5
+New Zealand -- Non-Maori,1969,21955
+New Zealand -- Non-Maori,1970,22611
+New Zealand -- Non-Maori,1971,22044
+New Zealand -- Non-Maori,1972,22624
+New Zealand -- Non-Maori,1973,23096
+New Zealand -- Non-Maori,1974,23215
+New Zealand -- Non-Maori,1975,22997
+New Zealand -- Non-Maori,1976,23489.5
+New Zealand -- Non-Maori,1977,23888
+New Zealand -- Non-Maori,1978,22892
+New Zealand -- Non-Maori,1979,23530
+New Zealand -- Non-Maori,1980,24793
+New Zealand -- Non-Maori,1981,23372
+New Zealand -- Non-Maori,1982,23746.5
+New Zealand -- Non-Maori,1983,24150.5
+New Zealand -- Non-Maori,1984,23650.5
+New Zealand -- Non-Maori,1985,25747.5
+New Zealand -- Non-Maori,1986,25316
+New Zealand -- Non-Maori,1987,25762
+New Zealand -- Non-Maori,1988,25636
+New Zealand -- Non-Maori,1989,25209.5
+New Zealand -- Non-Maori,1990,24736.5
+New Zealand -- Non-Maori,1991,24564
+New Zealand -- Non-Maori,1992,25400
+New Zealand -- Non-Maori,1993,25248.5
+New Zealand -- Non-Maori,1994,25241.5
+New Zealand -- Non-Maori,1995,25984.6
+New Zealand -- Non-Maori,1996,25506.5
+New Zealand -- Non-Maori,1997,24848
+New Zealand -- Non-Maori,1998,23726.5
+New Zealand -- Non-Maori,1999,25341.5
+New Zealand -- Non-Maori,2000,23905
+New Zealand -- Non-Maori,2001,25147.5
+New Zealand -- Non-Maori,2002,25336.5
+New Zealand -- Non-Maori,2003,25206.5
+New Zealand -- Non-Maori,2004,25544
+New Zealand -- Non-Maori,2005,24249
+New Zealand -- Non-Maori,2006,25388.5
+New Zealand -- Non-Maori,2007,25556.5
+New Zealand -- Non-Maori,2008,26138
+New Zealand,1948,15733.7
+New Zealand,1949,16109.6
+New Zealand,1950,16719.8
+New Zealand,1951,17462
+New Zealand,1952,17421
+New Zealand,1953,17018.8
+New Zealand,1954,17574
+New Zealand,1955,17860
+New Zealand,1956,18383
+New Zealand,1957,19442
+New Zealand,1958,18885
+New Zealand,1959,19651
+New Zealand,1960,19472
+New Zealand,1961,20292
+New Zealand,1962,20750
+New Zealand,1963,21147.5
+New Zealand,1964,21668.5
+New Zealand,1965,21802
+New Zealand,1966,22714
+New Zealand,1967,21905.5
+New Zealand,1968,23300.5
+New Zealand,1969,23104
+New Zealand,1970,23800
+New Zealand,1971,23243
+New Zealand,1972,23813
+New Zealand,1973,24327
+New Zealand,1974,24339
+New Zealand,1975,24210
+New Zealand,1976,24692
+New Zealand,1977,25195
+New Zealand,1978,23991
+New Zealand,1979,24719
+New Zealand,1980,26005
+New Zealand,1981,24560
+New Zealand,1982,24949.5
+New Zealand,1983,25355
+New Zealand,1984,24792
+New Zealand,1985,26922
+New Zealand,1986,26444
+New Zealand,1987,26869.5
+New Zealand,1988,26803.5
+New Zealand,1989,26442.5
+New Zealand,1990,26024.5
+New Zealand,1991,25898
+New Zealand,1992,26691
+New Zealand,1993,26660.5
+New Zealand,1994,26560
+New Zealand,1995,27423
+New Zealand,1996,27957.5
+New Zealand,1997,27228.5
+New Zealand,1998,26063.5
+New Zealand,1999,27813.5
+New Zealand,2000,26314
+New Zealand,2001,27531.5
+New Zealand,2002,27780
+New Zealand,2003,27723
+New Zealand,2004,28094
+New Zealand,2005,26756
+New Zealand,2006,27944.5
+New Zealand,2007,28185.5
+New Zealand,2008,28853
+New Zealand,2009,28649.5
+New Zealand,2010,28112
+New Zealand,2011,29781
+New Zealand,2012,29832
+New Zealand,2013,29268
+Poland,1958,183124
+Poland,1959,200388
+Poland,1960,186596
+Poland,1961,193775
+Poland,1962,206312
+Poland,1963,201366
+Poland,1964,209035
+Poland,1965,209611
+Poland,1966,212321
+Poland,1967,227778
+Poland,1968,226622
+Poland,1969,244608
+Poland,1970,248676
+Poland,1971,267128
+Poland,1972,248873
+Poland,1973,261740
+Poland,1974,262475
+Poland,1975,280895
+Poland,1976,288116
+Poland,1977,296647
+Poland,1978,310117
+Poland,1979,308534
+Poland,1980,335464
+Poland,1981,314929
+Poland,1982,320681
+Poland,1983,335542
+Poland,1984,351439
+Poland,1985,368935
+Poland,1986,365199
+Poland,1987,367764
+Poland,1988,361289
+Poland,1989,372194
+Poland,1990,379703
+Poland,1991,395774
+Poland,1992,385709
+Poland,1993,384264
+Poland,1994,379114
+Poland,1995,380193
+Poland,1996,380268
+Poland,1997,376002
+Poland,1998,371583
+Poland,1999,378034
+Poland,2000,364961
+Poland,2001,360397
+Poland,2002,356824
+Poland,2003,362760
+Poland,2004,361099
+Poland,2005,365945
+Poland,2006,367448
+Poland,2007,374904
+Poland,2008,377061
+Poland,2009,382613
+Poland,2010,376421
+Poland,2011,373665
+Poland,2012,382997
+Poland,2013,385628
+Poland,2014,374884
+Portugal,1940,88435.9
+Portugal,1941,107091
+Portugal,1942,101861
+Portugal,1943,95561.8
+Portugal,1944,94611.1
+Portugal,1945,91491.6
+Portugal,1946,96151.7
+Portugal,1947,88878.8
+Portugal,1948,85388.2
+Portugal,1949,93150.9
+Portugal,1950,83464.9
+Portugal,1951,86925.4
+Portugal,1952,80534.1
+Portugal,1953,78124.7
+Portugal,1954,78166.4
+Portugal,1955,80512.8
+Portugal,1956,89103.9
+Portugal,1957,83165.1
+Portugal,1958,74030.3
+Portugal,1959,78866.4
+Portugal,1960,78416
+Portugal,1961,80270.8
+Portugal,1962,79554.8
+Portugal,1963,82488.6
+Portugal,1964,81891.7
+Portugal,1965,81522.9
+Portugal,1966,86700
+Portugal,1967,83841
+Portugal,1968,82735.7
+Portugal,1969,90499.2
+Portugal,1970,83058.6
+Portugal,1971,89271.9
+Portugal,1972,83071.2
+Portugal,1973,87708.9
+Portugal,1974,90412
+Portugal,1975,90945
+Portugal,1976,95783
+Portugal,1977,90627
+Portugal,1978,91316
+Portugal,1979,88560
+Portugal,1980,90955
+Portugal,1981,92419
+Portugal,1982,89394
+Portugal,1983,93403
+Portugal,1984,94596
+Portugal,1985,94768
+Portugal,1986,93513
+Portugal,1987,93358
+Portugal,1988,96260
+Portugal,1989,94308
+Portugal,1990,101502
+Portugal,1991,102628
+Portugal,1992,99586
+Portugal,1993,104965
+Portugal,1994,98367
+Portugal,1995,102679
+Portugal,1996,106134
+Portugal,1997,104052
+Portugal,1998,105519
+Portugal,1999,107220
+Portugal,2000,104702
+Portugal,2001,104525
+Portugal,2002,105684
+Portugal,2003,108329
+Portugal,2004,101593
+Portugal,2005,107080
+Portugal,2006,101641
+Portugal,2007,103159
+Portugal,2008,103940
+Portugal,2009,104072
+Portugal,2010,105698
+Portugal,2011,102546
+Portugal,2012,107309
+Portugal,2013,106311
+Portugal,2014,104607
+Portugal,2015,108261
+Russia,1959,786770
+Russia,1960,783989
+Russia,1961,813047
+Russia,1962,868405
+Russia,1963,858476
+Russia,1964,839088
+Russia,1965,904973
+Russia,1966,924191
+Russia,1967,969567
+Russia,1968,993688
+Russia,1969,1.06148e+06
+Russia,1970,1.08765e+06
+Russia,1971,1.10182e+06
+Russia,1972,1.13835e+06
+Russia,1973,1.16986e+06
+Russia,1974,1.17555e+06
+Russia,1975,1.25988e+06
+Russia,1976,1.29959e+06
+Russia,1977,1.33575e+06
+Russia,1978,1.36606e+06
+Russia,1979,1.44087e+06
+Russia,1980,1.47721e+06
+Russia,1981,1.47626e+06
+Russia,1982,1.45717e+06
+Russia,1983,1.51477e+06
+Russia,1984,1.6001e+06
+Russia,1985,1.57585e+06
+Russia,1986,1.45038e+06
+Russia,1987,1.48305e+06
+Russia,1988,1.52421e+06
+Russia,1989,1.54466e+06
+Russia,1990,1.62086e+06
+Russia,1991,1.65811e+06
+Russia,1992,1.77813e+06
+Russia,1993,2.10122e+06
+Russia,1994,2.27501e+06
+Russia,1995,2.17878e+06
+Russia,1996,2.05929e+06
+Russia,1997,1.99395e+06
+Russia,1998,1.96756e+06
+Russia,1999,2.12349e+06
+Russia,2000,2.20594e+06
+Russia,2001,2.23563e+06
+Russia,2002,2.31374e+06
+Russia,2003,2.34768e+06
+Russia,2004,2.27792e+06
+Russia,2005,2.28773e+06
+Russia,2006,2.15152e+06
+Russia,2007,2.0655e+06
+Russia,2008,2.06145e+06
+Russia,2009,1.99621e+06
+Russia,2010,2.01506e+06
+Russia,2011,1.9125e+06
+Russia,2012,1.88997e+06
+Russia,2013,1.85629e+06
+Russia,2014,1.86386e+06
+Slovakia,1950,28382.6
+Slovakia,1951,29912.7
+Slovakia,1952,29382.4
+Slovakia,1953,29406.7
+Slovakia,1954,29911
+Slovakia,1955,28514
+Slovakia,1956,28758
+Slovakia,1957,31214
+Slovakia,1958,28635
+Slovakia,1959,31219.2
+Slovakia,1960,29081
+Slovakia,1961,28975.8
+Slovakia,1962,32259
+Slovakia,1963,30694
+Slovakia,1964,30648
+Slovakia,1965,33506
+Slovakia,1966,34156
+Slovakia,1967,33494
+Slovakia,1968,36308
+Slovakia,1969,38589
+Slovakia,1970,40168
+Slovakia,1971,40828
+Slovakia,1972,39182
+Slovakia,1973,41449
+Slovakia,1974,42706
+Slovakia,1975,42934
+Slovakia,1976,42979
+Slovakia,1977,45039
+Slovakia,1978,45592
+Slovakia,1979,45738
+Slovakia,1980,48591
+Slovakia,1981,47839
+Slovakia,1982,48731
+Slovakia,1983,50819
+Slovakia,1984,50181
+Slovakia,1985,50993
+Slovakia,1986,51824
+Slovakia,1987,50790
+Slovakia,1988,51367
+Slovakia,1989,52824
+Slovakia,1990,53660
+Slovakia,1991,53578
+Slovakia,1992,52484
+Slovakia,1993,51928
+Slovakia,1994,50643
+Slovakia,1995,52011
+Slovakia,1996,50621
+Slovakia,1997,51610
+Slovakia,1998,52650
+Slovakia,1999,51935
+Slovakia,2000,52251
+Slovakia,2001,51661
+Slovakia,2002,51144
+Slovakia,2003,51824
+Slovakia,2004,51487
+Slovakia,2005,53083
+Slovakia,2006,52946
+Slovakia,2007,53522
+Slovakia,2008,52828
+Slovakia,2009,52567
+Slovakia,2010,53101
+Slovakia,2011,51603
+Slovakia,2012,52116
+Slovakia,2013,51788
+Slovakia,2014,51028
+Slovenia,1983,20289
+Slovenia,1984,19848
+Slovenia,1985,19516
+Slovenia,1986,19194
+Slovenia,1987,19552
+Slovenia,1988,18875
+Slovenia,1989,18478
+Slovenia,1990,18368
+Slovenia,1991,19146
+Slovenia,1992,19156
+Slovenia,1993,19878
+Slovenia,1994,19233
+Slovenia,1995,18863
+Slovenia,1996,18531
+Slovenia,1997,18834
+Slovenia,1998,18946
+Slovenia,1999,18806
+Slovenia,2000,18499
+Slovenia,2001,18434
+Slovenia,2002,18634
+Slovenia,2003,19382
+Slovenia,2004,18457
+Slovenia,2005,18750
+Slovenia,2006,18116
+Slovenia,2007,18529
+Slovenia,2008,18256
+Slovenia,2009,18698
+Slovenia,2010,18553
+Slovenia,2011,18635
+Slovenia,2012,19221
+Slovenia,2013,19272
+Slovenia,2014,18847
+Sweden,1751,31365.6
+Sweden,1752,35022
+Sweden,1753,31397
+Sweden,1754,34510.1
+Sweden,1755,35311
+Sweden,1756,37112.9
+Sweden,1757,42204.9
+Sweden,1758,47326.9
+Sweden,1759,37045
+Sweden,1760,34465.9
+Sweden,1761,35076
+Sweden,1762,43666.1
+Sweden,1763,47781.9
+Sweden,1764,39268.1
+Sweden,1765,40581.9
+Sweden,1766,35731
+Sweden,1767,37214
+Sweden,1768,39885.1
+Sweden,1769,40480.1
+Sweden,1770,39035.9
+Sweden,1771,42913
+Sweden,1772,62248.9
+Sweden,1773,90514
+Sweden,1774,33009.1
+Sweden,1775,36720
+Sweden,1776,34073
+Sweden,1777,37887
+Sweden,1778,39833
+Sweden,1779,42927.1
+Sweden,1780,33414
+Sweden,1781,40628
+Sweden,1782,45392
+Sweden,1783,47063.1
+Sweden,1784,50588
+Sweden,1785,47770
+Sweden,1786,41623.1
+Sweden,1787,39238.9
+Sweden,1788,41981
+Sweden,1789,53906
+Sweden,1790,49681
+Sweden,1791,42533
+Sweden,1792,37329
+Sweden,1793,38977
+Sweden,1794,39575.1
+Sweden,1795,48855.1
+Sweden,1796,41128.9
+Sweden,1797,39298
+Sweden,1798,39421
+Sweden,1799,44837
+Sweden,1800,57737.1
+Sweden,1801,46897.9
+Sweden,1802,42370
+Sweden,1803,42819.1
+Sweden,1804,45411.1
+Sweden,1805,43228
+Sweden,1806,48614.9
+Sweden,1807,48079.1
+Sweden,1808,66058.1
+Sweden,1809,78614.8
+Sweden,1810,60396
+Sweden,1811,52795
+Sweden,1812,56591
+Sweden,1813,51976.1
+Sweden,1814,46162.9
+Sweden,1815,43351.1
+Sweden,1816,40144
+Sweden,1817,45879
+Sweden,1818,47287
+Sweden,1819,54458
+Sweden,1820,49063
+Sweden,1821,50244
+Sweden,1822,44071
+Sweden,1823,41572.9
+Sweden,1824,41673.9
+Sweden,1825,41017
+Sweden,1826,46363.1
+Sweden,1827,50763
+Sweden,1828,59619.1
+Sweden,1829,63422
+Sweden,1830,52172
+Sweden,1831,57776.9
+Sweden,1832,53160
+Sweden,1833,47960.9
+Sweden,1834,58907
+Sweden,1835,41754
+Sweden,1836,45987.1
+Sweden,1837,57172
+Sweden,1838,58375.1
+Sweden,1839,57986
+Sweden,1840,49260
+Sweden,1841,46036.9
+Sweden,1842,50839.1
+Sweden,1843,53306.9
+Sweden,1844,51270.1
+Sweden,1845,46669
+Sweden,1846,56417
+Sweden,1847,62227
+Sweden,1848,52060
+Sweden,1849,51924
+Sweden,1850,52372
+Sweden,1851,55615.1
+Sweden,1852,62486
+Sweden,1853,66107
+Sweden,1854,55687
+Sweden,1855,61062.1
+Sweden,1856,62960.1
+Sweden,1857,81748
+Sweden,1858,62082
+Sweden,1859,56884
+Sweden,1860,51020
+Sweden,1861,54406.9
+Sweden,1862,65987.7
+Sweden,1863,59411
+Sweden,1864,63301.8
+Sweden,1865,61078
+Sweden,1866,65241.2
+Sweden,1867,63993.5
+Sweden,1868,68456
+Sweden,1869,75594.7
+Sweden,1870,66635
+Sweden,1871,57549.4
+Sweden,1872,52491.7
+Sweden,1873,56546.5
+Sweden,1874,68175.2
+Sweden,1875,68162.5
+Sweden,1876,67262.9
+Sweden,1877,65777.2
+Sweden,1878,63360.9
+Sweden,1879,61677.3
+Sweden,1880,66537.9
+Sweden,1881,65815.1
+Sweden,1882,62659.1
+Sweden,1883,64106.2
+Sweden,1884,65364.6
+Sweden,1885,67076
+Sweden,1886,62479
+Sweden,1887,61765.8
+Sweden,1888,62135.4
+Sweden,1889,61952.3
+Sweden,1890,68045.8
+Sweden,1891,65969.9
+Sweden,1892,71735.3
+Sweden,1893,67690.6
+Sweden,1894,66174.9
+Sweden,1895,61616.5
+Sweden,1896,63378.3
+Sweden,1897,63443.8
+Sweden,1898,63553.2
+Sweden,1899,74723.2
+Sweden,1900,72538.4
+Sweden,1901,68424
+Sweden,1902,67860
+Sweden,1903,66179
+Sweden,1904,68768
+Sweden,1905,70486
+Sweden,1906,65295
+Sweden,1907,67641
+Sweden,1908,68704
+Sweden,1909,64468
+Sweden,1910,67020
+Sweden,1911,66885
+Sweden,1912,69826
+Sweden,1913,67648
+Sweden,1914,68876
+Sweden,1915,74266
+Sweden,1916,69288
+Sweden,1917,69588
+Sweden,1918,96970
+Sweden,1919,76268
+Sweden,1920,69347
+Sweden,1921,65359
+Sweden,1922,69035
+Sweden,1923,62046
+Sweden,1924,65427
+Sweden,1925,65001
+Sweden,1926,65636
+Sweden,1927,71363
+Sweden,1928,67512
+Sweden,1929,69102
+Sweden,1930,66633
+Sweden,1931,71962
+Sweden,1932,66904
+Sweden,1933,65397
+Sweden,1934,65907
+Sweden,1935,68871
+Sweden,1936,70979
+Sweden,1937,71310
+Sweden,1938,68701
+Sweden,1939,69031
+Sweden,1940,68990
+Sweden,1941,68225
+Sweden,1942,60404
+Sweden,1943,62476
+Sweden,1944,68089
+Sweden,1945,67837.2
+Sweden,1946,67119
+Sweden,1947,70311
+Sweden,1948,64757
+Sweden,1949,66714
+Sweden,1950,67875
+Sweden,1951,67421
+Sweden,1952,66063
+Sweden,1953,67489
+Sweden,1954,67064
+Sweden,1955,66763
+Sweden,1956,68334
+Sweden,1957,71228
+Sweden,1958,69387
+Sweden,1959,69147
+Sweden,1960,73394
+Sweden,1961,71908
+Sweden,1962,75136
+Sweden,1963,74725
+Sweden,1964,74917
+Sweden,1965,76555
+Sweden,1966,76891
+Sweden,1967,78223
+Sweden,1968,80998
+Sweden,1969,82088
+Sweden,1970,78814
+Sweden,1971,81447
+Sweden,1972,82841
+Sweden,1973,84558
+Sweden,1974,85266
+Sweden,1975,87314
+Sweden,1976,89859
+Sweden,1977,87429
+Sweden,1978,88954
+Sweden,1979,90353
+Sweden,1980,91129
+Sweden,1981,91381
+Sweden,1982,90036
+Sweden,1983,90145
+Sweden,1984,89882
+Sweden,1985,93366
+Sweden,1986,92690
+Sweden,1987,92666
+Sweden,1988,96091
+Sweden,1989,91440
+Sweden,1990,94422
+Sweden,1991,94441
+Sweden,1992,94053
+Sweden,1993,96437
+Sweden,1994,91345
+Sweden,1995,93526
+Sweden,1996,93756
+Sweden,1997,92998
+Sweden,1998,92955
+Sweden,1999,94429
+Sweden,2000,93152
+Sweden,2001,93418
+Sweden,2002,94696
+Sweden,2003,92653
+Sweden,2004,90218
+Sweden,2005,91464
+Sweden,2006,90880
+Sweden,2007,91461
+Sweden,2008,91177
+Sweden,2009,89802
+Sweden,2010,90193
+Sweden,2011,89703
+Sweden,2012,91645
+Sweden,2013,90096
+Sweden,2014,88726
+Taiwan,1970,63135.5
+Taiwan,1971,65385.1
+Taiwan,1972,66057.9
+Taiwan,1973,68207
+Taiwan,1974,69245
+Taiwan,1975,69777
+Taiwan,1976,71163
+Taiwan,1977,74099
+Taiwan,1978,74739
+Taiwan,1979,77721
+Taiwan,1980,79860
+Taiwan,1981,83353
+Taiwan,1982,83760
+Taiwan,1983,87919
+Taiwan,1984,86972
+Taiwan,1985,89520.1
+Taiwan,1986,92719
+Taiwan,1987,94736
+Taiwan,1988,100116
+Taiwan,1989,101495
+Taiwan,1990,103483
+Taiwan,1991,103913
+Taiwan,1992,108678
+Taiwan,1993,109650
+Taiwan,1994,112195
+Taiwan,1995,117484
+Taiwan,1996,119659
+Taiwan,1997,118839
+Taiwan,1998,121503
+Taiwan,1999,124756
+Taiwan,2000,124049
+Taiwan,2001,126186
+Taiwan,2002,126922
+Taiwan,2003,130020
+Taiwan,2004,133511
+Taiwan,2005,138672
+Taiwan,2006,135311
+Taiwan,2007,139316
+Taiwan,2008,142645
+Taiwan,2009,142692
+Taiwan,2010,144994
+Taiwan,2011,152335
+Taiwan,2012,154339
+Taiwan,2013,154899
+Taiwan,2014,162559
+Ukraine,1959,280990
+Ukraine,1960,270049
+Ukraine,1961,282870
+Ukraine,1962,310604
+Ukraine,1963,304218
+Ukraine,1964,298695
+Ukraine,1965,328501
+Ukraine,1966,331403
+Ukraine,1967,355634
+Ukraine,1968,361487
+Ukraine,1969,391493
+Ukraine,1970,406457
+Ukraine,1971,412901
+Ukraine,1972,430094
+Ukraine,1973,436685
+Ukraine,1974,441833
+Ukraine,1975,475028
+Ukraine,1976,485618
+Ukraine,1977,503903
+Ukraine,1978,516604
+Ukraine,1979,539504
+Ukraine,1980,555931
+Ukraine,1981,556886
+Ukraine,1982,556235
+Ukraine,1983,571016
+Ukraine,1984,597705
+Ukraine,1985,605441
+Ukraine,1986,553534
+Ukraine,1987,575297
+Ukraine,1988,590077
+Ukraine,1989,591542
+Ukraine,1990,621066
+Ukraine,1991,661114
+Ukraine,1992,688660
+Ukraine,1993,733208
+Ukraine,1994,756964
+Ukraine,1995,785255
+Ukraine,1996,769914
+Ukraine,1997,747852
+Ukraine,1998,714516
+Ukraine,1999,734090
+Ukraine,2000,753458
+Ukraine,2001,741647
+Ukraine,2002,750888
+Ukraine,2003,761526
+Ukraine,2004,757237
+Ukraine,2005,777702
+Ukraine,2006,753659
+Ukraine,2007,757689
+Ukraine,2008,749411
+Ukraine,2009,701938
+Ukraine,2010,693671
+Ukraine,2011,660077
+Ukraine,2012,658768
+Ukraine,2013,658338
+United States,1933,1.20181e+06
+United States,1934,1.26656e+06
+United States,1935,1.2725e+06
+United States,1936,1.35658e+06
+United States,1937,1.3304e+06
+United States,1938,1.2646e+06
+United States,1939,1.27897e+06
+United States,1940,1.30615e+06
+United States,1941,1.28359e+06
+United States,1942,1.27155e+06
+United States,1943,1.34093e+06
+United States,1944,1.3001e+06
+United States,1945,1.29693e+06
+United States,1946,1.28446e+06
+United States,1947,1.32611e+06
+United States,1948,1.33108e+06
+United States,1949,1.33196e+06
+United States,1950,1.34854e+06
+United States,1951,1.3753e+06
+United States,1952,1.38735e+06
+United States,1953,1.40906e+06
+United States,1954,1.37423e+06
+United States,1955,1.42173e+06
+United States,1956,1.45623e+06
+United States,1957,1.52096e+06
+United States,1958,1.53235e+06
+United States,1959,1.5477e+06
+United States,1960,1.60106e+06
+United States,1961,1.59353e+06
+United States,1962,1.65121e+06
+United States,1963,1.71012e+06
+United States,1964,1.69823e+06
+United States,1965,1.73524e+06
+United States,1966,1.7776e+06
+United States,1967,1.77227e+06
+United States,1968,1.85379e+06
+United States,1969,1.84689e+06
+United States,1970,1.84634e+06
+United States,1971,1.85953e+06
+United States,1972,1.90375e+06
+United States,1973,1.91741e+06
+United States,1974,1.8816e+06
+United States,1975,1.84234e+06
+United States,1976,1.86116e+06
+United States,1977,1.85261e+06
+United States,1978,1.88182e+06
+United States,1979,1.86816e+06
+United States,1980,1.9443e+06
+United States,1981,1.93466e+06
+United States,1982,1.93238e+06
+United States,1983,1.97856e+06
+United States,1984,1.99978e+06
+United States,1985,2.04639e+06
+United States,1986,2.06645e+06
+United States,1987,2.0849e+06
+United States,1988,2.12908e+06
+United States,1989,2110345
+United States,1990,2.10966e+06
+United States,1991,2.13242e+06
+United States,1992,2.14081e+06
+United States,1993,2.23501e+06
+United States,1994,2.24722e+06
+United States,1995,2.28246e+06
+United States,1996,2.28615e+06
+United States,1997,2.28616e+06
+United States,1998,2.30885e+06
+United States,1999,2.36344e+06
+United States,2000,2.3753e+06
+United States,2001,2.38884e+06
+United States,2002,2.41534e+06
+United States,2003,2.42025e+06
+United States,2004,2.36966e+06
+United States,2005,2.41956e+06
+United States,2006,2.39773e+06
+United States,2007,2.39455e+06
+United States,2008,2.44393e+06
+United States,2009,2.41075e+06
+United States,2010,2.44385e+06
+United States,2011,2.49147e+06
+United States,2012,2.51965e+06
+United States,2013,2.57355e+06
+United States,2014,2.6032e+06
+United States,2015,2.68917e+06

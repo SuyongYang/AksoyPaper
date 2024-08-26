@@ -1,0 +1,232 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                          %
+%    BAYESIAN ESTIMATION, ANALYSIS AND REGRESSION (BEAR) TOOLBOX           %
+%                                                                          %
+%    This statistical package has been developed by the external           %
+%    developments division of the European Central Bank.                   %
+%                                                                          %
+%    Authors:                                                              %
+%    Alistair Dieppe (alistair.dieppe@ecb.europa.eu)                       %
+%    Björn van Roye  (Bjorn.van_Roye@ecb.europa.eu)                        %
+%                                                                          %
+%    Version 5.0                                                           %
+%                                                                          %
+% The updated version 5 of BEAR has benefitted from contributions from     %
+%   Boris Blagov, Marius Schulte and Ben Schumann.                         %
+%                                                                          %
+%  This version builds-upon previous versions where Romain Legrand was     %
+%   instrumental in developing BEAR.                                       %
+%                                                                          %
+%    The authors are grateful to the following people for valuable input   %
+%    and advice which contributed to improve the quality of the toolbox:   %
+%    Paolo Bonomolo, Mirco Balatti, Marta Banbura, Niccolo Battistini,     %
+%	 Gabriel Bobeica, Martin Bruns, Fabio Canova, Matteo Ciccarelli,       %
+%    Marek Jarocinski, Michele Lenza, Francesca Loria, Mirela Miescu,      %
+%    Gary Koop, Chiara Osbat, Giorgio Primiceri, Martino Ricci,            %
+%    Michal Rubaszek, Barbara Rossi, Fabian Schupp,                        %
+%    Peter Welz and Hugo Vega de la Cruz. 						           %
+%                                                                          %
+%    These programmes are the responsibilities of the authors and not of   %
+%    the ECB and all errors and ommissions remain those of the authors.    %
+%                                                                          %
+%    Using the BEAR toolbox implies acceptance of the End User Licence     %
+%    Agreement and appropriate acknowledgement should be made.             %
+%                                                                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+BEAR toolbox estimates
+Date: 25-Apr-2022   Time: 17:03
+
+
+Panel VAR: pooled estimator
+structural decomposition: choleski factorisation
+units:  Us  Uk 
+endogenous variables:  gRGDP  DEPY  DEPO  SAV  CUR  RIR 
+exogenous variables:  constant  MockgW1 
+estimation sample: 1996y-2014y
+sample size (omitting initial conditions): 18
+number of lags included in regression: 1
+hyperparameters:
+autoregressive coefficients (ar):                0.8
+overall tightness (lambda1):              0.1
+lag decay (lambda3):                      1
+exogenous variable tightness (lambda4):   100
+
+
+
+VAR coefficients (Common to all units):
+
+Endogenous: gRGDP
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)           0.709           0.088           0.623           0.796
+                 DEPY(-1)           0.075           0.715          -0.626           0.776
+                 DEPO(-1)          -0.036           0.465          -0.493           0.420
+                  SAV(-1)          -0.002           0.004          -0.006           0.002
+                  CUR(-1)           0.003           0.005          -0.002           0.008
+                  RIR(-1)          -0.247           0.304          -0.546           0.051
+                 Constant           0.016           0.489          -0.464           0.496
+                  MockgW1           0.013           0.011           0.003           0.023
+
+unit: Us
+Sum of squared residuals: 0.01
+R-squared: 0.074
+adj. R-squared: -0.573
+
+unit: Uk
+Sum of squared residuals: 0.10
+R-squared: 0.108
+adj. R-squared: -0.516
+
+
+
+Endogenous: DEPY
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)          -0.000           0.002          -0.003           0.002
+                 DEPY(-1)           0.982           0.017           0.965           0.998
+                 DEPO(-1)          -0.010           0.011          -0.021           0.000
+                  SAV(-1)          -0.000           0.000          -0.000           0.000
+                  CUR(-1)          -0.000           0.000          -0.000           0.000
+                  RIR(-1)           0.009           0.007           0.002           0.016
+                 Constant           0.011           0.012          -0.000           0.022
+                  MockgW1          -0.000           0.000          -0.000           0.000
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.988
+adj. R-squared: 0.980
+
+unit: Uk
+Sum of squared residuals: 0.00
+R-squared: 0.984
+adj. R-squared: 0.973
+
+
+
+Endogenous: DEPO
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)          -0.001           0.005          -0.006           0.004
+                 DEPY(-1)           0.003           0.041          -0.036           0.043
+                 DEPO(-1)           1.001           0.026           0.975           1.027
+                  SAV(-1)          -0.000           0.000          -0.000           0.000
+                  CUR(-1)          -0.000           0.000          -0.001          -0.000
+                  RIR(-1)          -0.027           0.017          -0.044          -0.010
+                 Constant           0.005           0.028          -0.023           0.032
+                  MockgW1          -0.000           0.001          -0.001           0.000
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.983
+adj. R-squared: 0.970
+
+unit: Uk
+Sum of squared residuals: 0.00
+R-squared: 0.988
+adj. R-squared: 0.979
+
+
+
+Endogenous: SAV
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)          -0.404           1.587          -1.962           1.153
+                 DEPY(-1)          21.625          12.825           9.042          34.209
+                 DEPO(-1)           2.501           8.346          -5.688          10.690
+                  SAV(-1)           0.788           0.074           0.715           0.860
+                  CUR(-1)           0.176           0.097           0.081           0.271
+                  RIR(-1)          -1.530           5.451          -6.878           3.819
+                 Constant          -7.268           8.779         -15.882           1.345
+                  MockgW1          -0.119           0.189          -0.305           0.067
+
+unit: Us
+Sum of squared residuals: 20.37
+R-squared: 0.748
+adj. R-squared: 0.571
+
+unit: Uk
+Sum of squared residuals: 13.88
+R-squared: 0.710
+adj. R-squared: 0.508
+
+
+
+Endogenous: CUR
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)          -0.352           1.132          -1.463           0.758
+                 DEPY(-1)           4.686           9.150          -4.291          13.663
+                 DEPO(-1)           2.249           5.954          -3.592           8.091
+                  SAV(-1)          -0.037           0.053          -0.089           0.014
+                  CUR(-1)           0.810           0.069           0.742           0.878
+                  RIR(-1)           2.299           3.889          -1.517           6.114
+                 Constant          -3.234           6.263          -9.379           2.911
+                  MockgW1           0.062           0.135          -0.070           0.195
+
+unit: Us
+Sum of squared residuals: 6.77
+R-squared: 0.780
+adj. R-squared: 0.626
+
+unit: Uk
+Sum of squared residuals: 11.58
+R-squared: 0.597
+adj. R-squared: 0.314
+
+
+
+Endogenous: RIR
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)           0.012           0.019          -0.006           0.030
+                 DEPY(-1)           0.039           0.150          -0.108           0.187
+                 DEPO(-1)           0.019           0.098          -0.077           0.115
+                  SAV(-1)           0.000           0.001          -0.001           0.001
+                  CUR(-1)           0.001           0.001           0.000           0.002
+                  RIR(-1)           0.795           0.064           0.732           0.858
+                 Constant          -0.019           0.103          -0.120           0.082
+                  MockgW1          -0.005           0.002          -0.007          -0.003
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.516
+adj. R-squared: 0.176
+
+unit: Uk
+Sum of squared residuals: 0.00
+R-squared: 0.844
+adj. R-squared: 0.735
+
+
+
+Roots of the characteristic polynomial (modulus):
+1.002  0.964  0.825  0.825  0.740  0.740
+
+
+
+sigma (residual covariance matrix): posterior estimates
+ 0.003  -0.000  -0.000   0.025  -0.002   0.000  
+-0.000   0.000  -0.000  -0.000  -0.000   0.000  
+-0.000  -0.000   0.000  -0.000   0.001  -0.000  
+ 0.025  -0.000  -0.000   1.028   0.145   0.005  
+-0.002  -0.000   0.001   0.145   0.523  -0.002  
+ 0.000   0.000  -0.000   0.005  -0.002   0.000  
+
+
+D (structural decomposition matrix): posterior estimates
+ 0.055   0.000   0.000   0.000   0.000   0.000  
+-0.000   0.001   0.000   0.000   0.000   0.000  
+-0.001  -0.001   0.003   0.000   0.000   0.000  
+ 0.428  -0.170   0.028   0.856   0.000   0.000  
+-0.020  -0.052   0.156   0.160   0.635   0.000  
+ 0.005   0.001  -0.002   0.003  -0.002   0.009  
+
+
+gamma (structural disturbances covariance matrix): posterior estimates
+ 1.000   0.000   0.000   0.000   0.000   0.000  
+ 0.000   1.000   0.000   0.000   0.000   0.000  
+ 0.000   0.000   1.000   0.000   0.000   0.000  
+ 0.000   0.000   0.000   1.000   0.000   0.000  
+ 0.000   0.000   0.000   0.000   1.000   0.000  
+ 0.000   0.000   0.000   0.000   0.000   1.000  
+
+
+
+

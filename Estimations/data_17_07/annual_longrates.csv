@@ -1,0 +1,1013 @@
+Country,Year,LR.Rate
+Australia,1970,6.65
+Australia,1971,6.71
+Australia,1972,5.83
+Australia,1973,6.93
+Australia,1974,9.04
+Australia,1975,9.74
+Australia,1976,10.03
+Australia,1977,10.23
+Australia,1978,9.06
+Australia,1979,9.75
+Australia,1980,11.65
+Australia,1981,13.96
+Australia,1982,15.38
+Australia,1983,13.89
+Australia,1984,13.53
+Australia,1985,13.95
+Australia,1986,13.42
+Australia,1987,13.19
+Australia,1988,12.1
+Australia,1989,13.41
+Australia,1990,13.18
+Australia,1991,10.69
+Australia,1992,9.22
+Australia,1993,7.28
+Australia,1994,9.04
+Australia,1995,9.21
+Australia,1996,8.21
+Australia,1997,6.95
+Australia,1998,5.49
+Australia,1999,6.01
+Australia,2000,6.31
+Australia,2001,5.62
+Australia,2002,5.84
+Australia,2003,5.37
+Australia,2004,5.59
+Australia,2005,5.34
+Australia,2006,5.59
+Australia,2007,5.99
+Australia,2008,5.82
+Australia,2009,5.04
+Australia,2010,5.37
+Australia,2011,4.88
+Australia,2012,3.38
+Australia,2013,3.7
+Australia,2014,3.66
+Australia,2015,2.71
+Austria,1970,7.82
+Austria,1971,7.71
+Austria,1972,7.38
+Austria,1973,8.25
+Austria,1974,9.74
+Austria,1975,9.61
+Austria,1976,8.75
+Austria,1977,8.73
+Austria,1978,8.21
+Austria,1979,7.96
+Austria,1980,9.32
+Austria,1981,10.61
+Austria,1982,9.92
+Austria,1983,8.17
+Austria,1984,8.02
+Austria,1985,7.77
+Austria,1986,7.44
+Austria,1987,7.01
+Austria,1988,6.86
+Austria,1989,7.15
+Austria,1990,8.77
+Austria,1991,8.56
+Austria,1992,7.37
+Austria,1993,6.7
+Austria,1994,7.03
+Austria,1995,7.14
+Austria,1996,6.32
+Austria,1997,5.68
+Austria,1998,4.71
+Austria,1999,4.68
+Austria,2000,5.56
+Austria,2001,5.08
+Austria,2002,4.96
+Austria,2003,4.14
+Austria,2004,4.13
+Austria,2005,3.39
+Austria,2006,3.8
+Austria,2007,4.3
+Austria,2008,4.36
+Austria,2009,3.94
+Austria,2010,3.23
+Austria,2011,3.32
+Austria,2012,2.37
+Austria,2013,2.01
+Austria,2014,1.49
+Austria,2015,0.75
+Belgium,1970,7.8
+Belgium,1971,7.32
+Belgium,1972,7.04
+Belgium,1973,7.5
+Belgium,1974,8.77
+Belgium,1975,8.52
+Belgium,1976,9.09
+Belgium,1977,8.76
+Belgium,1978,8.93
+Belgium,1979,9.69
+Belgium,1980,11.9
+Belgium,1981,13.44
+Belgium,1982,13.43
+Belgium,1983,11.94
+Belgium,1984,12.24
+Belgium,1985,10.97
+Belgium,1986,8.63
+Belgium,1987,8.18
+Belgium,1988,8.01
+Belgium,1989,8.66
+Belgium,1990,10.01
+Belgium,1991,9.29
+Belgium,1992,8.65
+Belgium,1993,7.23
+Belgium,1994,7.75
+Belgium,1995,7.48
+Belgium,1996,6.49
+Belgium,1997,5.75
+Belgium,1998,4.75
+Belgium,1999,4.75
+Belgium,2000,5.59
+Belgium,2001,5.13
+Belgium,2002,4.99
+Belgium,2003,4.18
+Belgium,2004,4.15
+Belgium,2005,3.43
+Belgium,2006,3.81
+Belgium,2007,4.33
+Belgium,2008,4.42
+Belgium,2009,3.9
+Belgium,2010,3.46
+Belgium,2011,4.23
+Belgium,2012,3
+Belgium,2013,2.41
+Belgium,2014,1.71
+Belgium,2015,0.84
+Canada,1970,7.91
+Canada,1971,6.95
+Canada,1972,7.23
+Canada,1973,7.56
+Canada,1974,8.9
+Canada,1975,9.04
+Canada,1976,9.18
+Canada,1977,8.7
+Canada,1978,9.27
+Canada,1979,10.21
+Canada,1980,12.48
+Canada,1981,15.22
+Canada,1982,14.26
+Canada,1983,11.79
+Canada,1984,12.75
+Canada,1985,11.04
+Canada,1986,9.52
+Canada,1987,9.95
+Canada,1988,10.22
+Canada,1989,9.92
+Canada,1990,10.85
+Canada,1991,9.76
+Canada,1992,8.77
+Canada,1993,7.85
+Canada,1994,8.63
+Canada,1995,8.28
+Canada,1996,7.5
+Canada,1997,6.42
+Canada,1998,5.47
+Canada,1999,5.69
+Canada,2000,5.89
+Canada,2001,5.78
+Canada,2002,5.66
+Canada,2003,5.28
+Canada,2004,5.08
+Canada,2005,4.39
+Canada,2006,4.3
+Canada,2007,4.34
+Canada,2008,4.04
+Canada,2009,3.89
+Canada,2010,3.66
+Canada,2011,3.21
+Canada,2012,2.33
+Canada,2013,2.72
+Canada,2014,2.6
+Canada,2015,2.02
+Denmark,1970,11.09
+Denmark,1971,10.96
+Denmark,1972,10.99
+Denmark,1973,12.57
+Denmark,1974,15.86
+Denmark,1975,12.72
+Denmark,1976,14.87
+Denmark,1977,16.22
+Denmark,1978,16.8
+Denmark,1979,16.74
+Denmark,1980,18.72
+Denmark,1981,19.32
+Denmark,1982,20.5
+Denmark,1983,14.44
+Denmark,1984,14.41
+Denmark,1985,11.57
+Denmark,1986,10.07
+Denmark,1987,11.29
+Denmark,1988,9.87
+Denmark,1989,9.7
+Denmark,1990,10.63
+Denmark,1991,9.27
+Denmark,1992,8.99
+Denmark,1993,7.3
+Denmark,1994,7.83
+Denmark,1995,8.27
+Denmark,1996,7.19
+Denmark,1997,6.25
+Denmark,1998,4.94
+Denmark,1999,4.91
+Denmark,2000,5.64
+Denmark,2001,5.08
+Denmark,2002,5.06
+Denmark,2003,4.31
+Denmark,2004,4.3
+Denmark,2005,3.4
+Denmark,2006,3.81
+Denmark,2007,4.29
+Denmark,2008,4.28
+Denmark,2009,3.59
+Denmark,2010,2.93
+Denmark,2011,2.73
+Denmark,2012,1.4
+Denmark,2013,1.75
+Denmark,2014,1.32
+Denmark,2015,0.69
+Finland,1970,7.83
+Finland,1971,8.1
+Finland,1972,7.97
+Finland,1973,8.26
+Finland,1974,8.79
+Finland,1975,9.63
+Finland,1976,10.17
+Finland,1977,10.75
+Finland,1978,9.78
+Finland,1979,9.5
+Finland,1980,11.6
+Finland,1981,12.4
+Finland,1982,12.38
+Finland,1983,13.06
+Finland,1984,14.01
+Finland,1985,12.7
+Finland,1986,11.66
+Finland,1987,10.41
+Finland,1988,10.56
+Finland,1989,12.09
+Finland,1990,13.3
+Finland,1991,11.23
+Finland,1992,11.98
+Finland,1993,8.83
+Finland,1994,9.04
+Finland,1995,8.79
+Finland,1996,7.08
+Finland,1997,5.96
+Finland,1998,4.79
+Finland,1999,4.72
+Finland,2000,5.48
+Finland,2001,5.04
+Finland,2002,4.98
+Finland,2003,4.13
+Finland,2004,4.11
+Finland,2005,3.35
+Finland,2006,3.78
+Finland,2007,4.29
+Finland,2008,4.29
+Finland,2009,3.74
+Finland,2010,3.01
+Finland,2011,3.01
+Finland,2012,1.89
+Finland,2013,1.86
+Finland,2014,1.45
+Finland,2015,0.72
+France,1970,8.04
+France,1971,7.75
+France,1972,7.35
+France,1973,8.29
+France,1974,10.45
+France,1975,9.52
+France,1976,9.33
+France,1977,9.87
+France,1978,9.5
+France,1979,9.89
+France,1980,13.13
+France,1981,15.85
+France,1982,15.65
+France,1983,13.59
+France,1984,12.49
+France,1985,11.12
+France,1986,8.54
+France,1987,9.5
+France,1988,9.08
+France,1989,8.79
+France,1990,9.94
+France,1991,9.05
+France,1992,8.59
+France,1993,6.78
+France,1994,7.22
+France,1995,7.54
+France,1996,6.31
+France,1997,5.58
+France,1998,4.64
+France,1999,4.61
+France,2000,5.39
+France,2001,4.94
+France,2002,4.86
+France,2003,4.13
+France,2004,4.1
+France,2005,3.41
+France,2006,3.8
+France,2007,4.3
+France,2008,4.23
+France,2009,3.65
+France,2010,3.12
+France,2011,3.32
+France,2012,2.54
+France,2013,2.2
+France,2014,1.67
+France,2015,0.84
+Germany,1970,8.29
+Germany,1971,7.98
+Germany,1972,7.95
+Germany,1973,9.27
+Germany,1974,10.4
+Germany,1975,8.74
+Germany,1976,8.15
+Germany,1977,6.63
+Germany,1978,6.18
+Germany,1979,7.61
+Germany,1980,8.49
+Germany,1981,10.11
+Germany,1982,8.97
+Germany,1983,8.02
+Germany,1984,7.95
+Germany,1985,6.95
+Germany,1986,5.89
+Germany,1987,6.14
+Germany,1988,6.49
+Germany,1989,7.35
+Germany,1990,8.73
+Germany,1991,8.45
+Germany,1992,7.84
+Germany,1993,6.51
+Germany,1994,6.87
+Germany,1995,6.85
+Germany,1996,6.22
+Germany,1997,5.64
+Germany,1998,4.57
+Germany,1999,4.49
+Germany,2000,5.26
+Germany,2001,4.8
+Germany,2002,4.78
+Germany,2003,4.07
+Germany,2004,4.04
+Germany,2005,3.35
+Germany,2006,3.76
+Germany,2007,4.22
+Germany,2008,3.98
+Germany,2009,3.22
+Germany,2010,2.74
+Germany,2011,2.61
+Germany,2012,1.5
+Germany,2013,1.57
+Germany,2014,1.16
+Germany,2015,0.5
+Greece,1970,n.a.
+Greece,1971,n.a.
+Greece,1972,n.a.
+Greece,1973,9.28
+Greece,1974,10.54
+Greece,1975,9.36
+Greece,1976,10.22
+Greece,1977,9.47
+Greece,1978,9.96
+Greece,1979,11.2
+Greece,1980,17.14
+Greece,1981,17.65
+Greece,1982,15.38
+Greece,1983,18.23
+Greece,1984,18.47
+Greece,1985,15.78
+Greece,1986,15.78
+Greece,1987,17.42
+Greece,1988,16.56
+Greece,1989,17.51
+Greece,1990,18.45
+Greece,1991,20.35
+Greece,1992,24.13
+Greece,1993,23.27
+Greece,1994,20.7
+Greece,1995,16.96
+Greece,1996,14.43
+Greece,1997,9.92
+Greece,1998,8.48
+Greece,1999,6.3
+Greece,2000,6.1
+Greece,2001,5.3
+Greece,2002,5.12
+Greece,2003,4.27
+Greece,2004,4.26
+Greece,2005,3.59
+Greece,2006,4.07
+Greece,2007,4.5
+Greece,2008,4.8
+Greece,2009,5.17
+Greece,2010,9.09
+Greece,2011,15.75
+Greece,2012,22.5
+Greece,2013,10.05
+Greece,2014,6.93
+Greece,2015,9.67
+Iceland,1970,n.a.
+Iceland,1971,n.a.
+Iceland,1972,n.a.
+Iceland,1973,n.a.
+Iceland,1974,n.a.
+Iceland,1975,n.a.
+Iceland,1976,n.a.
+Iceland,1977,n.a.
+Iceland,1978,n.a.
+Iceland,1979,n.a.
+Iceland,1980,n.a.
+Iceland,1981,n.a.
+Iceland,1982,n.a.
+Iceland,1983,n.a.
+Iceland,1984,n.a.
+Iceland,1985,n.a.
+Iceland,1986,n.a.
+Iceland,1987,n.a.
+Iceland,1988,n.a.
+Iceland,1989,n.a.
+Iceland,1990,n.a.
+Iceland,1991,n.a.
+Iceland,1992,7.75
+Iceland,1993,6.8
+Iceland,1994,5.02
+Iceland,1995,7.18
+Iceland,1996,5.61
+Iceland,1997,5.49
+Iceland,1998,4.73
+Iceland,1999,4.28
+Iceland,2000,5.35
+Iceland,2001,5.33
+Iceland,2002,5.23
+Iceland,2003,4.41
+Iceland,2004,3.88
+Iceland,2005,3.73
+Iceland,2006,4.32
+Iceland,2007,4.96
+Iceland,2008,4.3
+Iceland,2009,4.3
+Iceland,2010,3.49
+Iceland,2011,2.95
+Iceland,2012,2.28
+Iceland,2013,2.55
+Iceland,2014,3.2
+Iceland,2015,2.66
+Ireland,1970,n.a.
+Ireland,1971,9.24
+Ireland,1972,9.07
+Ireland,1973,10.72
+Ireland,1974,14.62
+Ireland,1975,13.97
+Ireland,1976,14.61
+Ireland,1977,12.89
+Ireland,1978,12.84
+Ireland,1979,15.07
+Ireland,1980,15.35
+Ireland,1981,17.25
+Ireland,1982,16.99
+Ireland,1983,13.89
+Ireland,1984,14.62
+Ireland,1985,12.67
+Ireland,1986,11.1
+Ireland,1987,11.3
+Ireland,1988,8.64
+Ireland,1989,8.94
+Ireland,1990,10.08
+Ireland,1991,9.21
+Ireland,1992,9.07
+Ireland,1993,7.7
+Ireland,1994,7.92
+Ireland,1995,8.25
+Ireland,1996,7.29
+Ireland,1997,6.29
+Ireland,1998,4.8
+Ireland,1999,4.71
+Ireland,2000,5.51
+Ireland,2001,5.01
+Ireland,2002,5.01
+Ireland,2003,4.13
+Ireland,2004,4.08
+Ireland,2005,3.33
+Ireland,2006,3.76
+Ireland,2007,4.31
+Ireland,2008,4.53
+Ireland,2009,5.23
+Ireland,2010,5.74
+Ireland,2011,9.6
+Ireland,2012,6.17
+Ireland,2013,3.79
+Ireland,2014,2.37
+Ireland,2015,1.18
+Italy,1970,7.73
+Italy,1971,7
+Italy,1972,6.59
+Italy,1973,6.92
+Italy,1974,9.61
+Italy,1975,10.04
+Italy,1976,12.66
+Italy,1977,14.71
+Italy,1978,13.05
+Italy,1979,13.02
+Italy,1980,15.25
+Italy,1981,19.36
+Italy,1982,20.22
+Italy,1983,18.3
+Italy,1984,15.6
+Italy,1985,13.71
+Italy,1986,11.47
+Italy,1987,10.64
+Italy,1988,10.9
+Italy,1989,12.79
+Italy,1990,13.54
+Italy,1991,13.17
+Italy,1992,13.28
+Italy,1993,11.19
+Italy,1994,10.52
+Italy,1995,12.21
+Italy,1996,9.4
+Italy,1997,6.86
+Italy,1998,4.88
+Italy,1999,4.73
+Italy,2000,5.58
+Italy,2001,5.19
+Italy,2002,5.03
+Italy,2003,4.25
+Italy,2004,4.26
+Italy,2005,3.56
+Italy,2006,4.05
+Italy,2007,4.49
+Italy,2008,4.68
+Italy,2009,4.31
+Italy,2010,4.04
+Italy,2011,5.42
+Italy,2012,5.49
+Italy,2013,4.32
+Italy,2014,2.89
+Italy,2015,1.71
+Japan,1970,9.01
+Japan,1971,8.34
+Japan,1972,7.47
+Japan,1973,7.42
+Japan,1974,9.87
+Japan,1975,11.54
+Japan,1976,13.08
+Japan,1977,14.62
+Japan,1978,13.7
+Japan,1979,14.05
+Japan,1980,15.25
+Japan,1981,19.36
+Japan,1982,20.22
+Japan,1983,18.3
+Japan,1984,15.6
+Japan,1985,13.71
+Japan,1986,11.47
+Japan,1987,10.64
+Japan,1988,10.9
+Japan,1989,12.79
+Japan,1990,13.54
+Japan,1991,13.28
+Japan,1992,13.27
+Japan,1993,11.19
+Japan,1994,10.52
+Japan,1995,12.21
+Japan,1996,9.4
+Japan,1997,6.86
+Japan,1998,4.88
+Japan,1999,4.73
+Japan,2000,5.58
+Japan,2001,5.19
+Japan,2002,5.04
+Japan,2003,4.25
+Japan,2004,4.26
+Japan,2005,3.56
+Japan,2006,4.05
+Japan,2007,4.49
+Japan,2008,4.68
+Japan,2009,4.31
+Japan,2010,4.04
+Japan,2011,5.42
+Japan,2012,5.49
+Japan,2013,4.32
+Japan,2014,2.89
+Japan,2015,1.71
+Netherlands,1970,7.83
+Netherlands,1971,7.05
+Netherlands,1972,6.67
+Netherlands,1973,7.31
+Netherlands,1974,10.69
+Netherlands,1975,9.15
+Netherlands,1976,9.2
+Netherlands,1977,8.49
+Netherlands,1978,8.05
+Netherlands,1979,9.2
+Netherlands,1980,10.74
+Netherlands,1981,12.24
+Netherlands,1982,10.45
+Netherlands,1983,8.81
+Netherlands,1984,8.56
+Netherlands,1985,7.34
+Netherlands,1986,6.19
+Netherlands,1987,6.41
+Netherlands,1988,6.42
+Netherlands,1989,7.21
+Netherlands,1990,8.92
+Netherlands,1991,8.74
+Netherlands,1992,8.1
+Netherlands,1993,6.36
+Netherlands,1994,6.86
+Netherlands,1995,6.9
+Netherlands,1996,6.15
+Netherlands,1997,5.58
+Netherlands,1998,4.63
+Netherlands,1999,4.63
+Netherlands,2000,5.4
+Netherlands,2001,4.96
+Netherlands,2002,4.89
+Netherlands,2003,4.12
+Netherlands,2004,4.1
+Netherlands,2005,3.37
+Netherlands,2006,3.78
+Netherlands,2007,4.29
+Netherlands,2008,4.23
+Netherlands,2009,3.69
+Netherlands,2010,2.99
+Netherlands,2011,2.99
+Netherlands,2012,1.93
+Netherlands,2013,1.96
+Netherlands,2014,1.45
+Netherlands,2015,0.69
+New Zealand,1970,5.51
+New Zealand,1971,5.52
+New Zealand,1972,5.52
+New Zealand,1973,5.8
+New Zealand,1974,6.09
+New Zealand,1975,6.33
+New Zealand,1976,8.34
+New Zealand,1977,9.23
+New Zealand,1978,9.97
+New Zealand,1979,12.04
+New Zealand,1980,13.29
+New Zealand,1981,12.83
+New Zealand,1982,12.91
+New Zealand,1983,12.18
+New Zealand,1984,12.57
+New Zealand,1985,17.71
+New Zealand,1986,16.52
+New Zealand,1987,16.35
+New Zealand,1988,13.45
+New Zealand,1989,12.78
+New Zealand,1990,12.46
+New Zealand,1991,10
+New Zealand,1992,7.87
+New Zealand,1993,6.69
+New Zealand,1994,7.48
+New Zealand,1995,7.94
+New Zealand,1996,8.04
+New Zealand,1997,7.21
+New Zealand,1998,6.47
+New Zealand,1999,6.13
+New Zealand,2000,6.85
+New Zealand,2001,6.12
+New Zealand,2002,6.28
+New Zealand,2003,5.51
+New Zealand,2004,5.98
+New Zealand,2005,5.98
+New Zealand,2006,6.01
+New Zealand,2007,6.81
+New Zealand,2008,6.17
+New Zealand,2009,4.66
+New Zealand,2010,4.86
+New Zealand,2011,4.02
+New Zealand,2012,3.11
+New Zealand,2013,3.52
+New Zealand,2014,4.02
+New Zealand,2015,3.01
+Norway,1970,6.29
+Norway,1971,6.4
+Norway,1972,6.27
+Norway,1973,6.19
+Norway,1974,7.1
+Norway,1975,7.29
+Norway,1976,7.25
+Norway,1977,7.39
+Norway,1978,8.45
+Norway,1979,8.59
+Norway,1980,10.27
+Norway,1981,12.31
+Norway,1982,13.2
+Norway,1983,12.86
+Norway,1984,12.16
+Norway,1985,12.58
+Norway,1986,13.47
+Norway,1987,13.56
+Norway,1988,12.97
+Norway,1989,10.84
+Norway,1990,10.72
+Norway,1991,9.87
+Norway,1992,9.78
+Norway,1993,6.52
+Norway,1994,7.13
+Norway,1995,6.82
+Norway,1996,5.94
+Norway,1997,5.13
+Norway,1998,5.35
+Norway,1999,5.38
+Norway,2000,6.38
+Norway,2001,6.31
+Norway,2002,6.33
+Norway,2003,4.5
+Norway,2004,3.6
+Norway,2005,3.28
+Norway,2006,3.93
+Norway,2007,4.78
+Norway,2008,4.35
+Norway,2009,3.32
+Norway,2010,2.77
+Norway,2011,2.56
+Norway,2012,1.57
+Norway,2013,1.92
+Norway,2014,1.76
+Norway,2015,0.97
+Portugal,1970,5.28
+Portugal,1971,5.69
+Portugal,1972,6
+Portugal,1973,5.5
+Portugal,1974,6.56
+Portugal,1975,7.62
+Portugal,1976,9.74
+Portugal,1977,10.8
+Portugal,1978,16.17
+Portugal,1979,16.68
+Portugal,1980,16.68
+Portugal,1981,16.7
+Portugal,1982,16.79
+Portugal,1983,19.22
+Portugal,1984,21.5
+Portugal,1985,20.75
+Portugal,1986,15.76
+Portugal,1987,15.12
+Portugal,1988,14.15
+Portugal,1989,14.94
+Portugal,1990,15.4
+Portugal,1991,14.54
+Portugal,1992,13.83
+Portugal,1993,11.18
+Portugal,1994,10.48
+Portugal,1995,11.47
+Portugal,1996,8.56
+Portugal,1997,6.36
+Portugal,1998,4.88
+Portugal,1999,4.78
+Portugal,2000,5.6
+Portugal,2001,5.16
+Portugal,2002,5.01
+Portugal,2003,4.18
+Portugal,2004,4.14
+Portugal,2005,3.44
+Portugal,2006,3.92
+Portugal,2007,4.42
+Portugal,2008,4.52
+Portugal,2009,4.21
+Portugal,2010,5.4
+Portugal,2011,10.24
+Portugal,2012,10.55
+Portugal,2013,6.29
+Portugal,2014,3.75
+Portugal,2015,2.42
+Spain,1970,n.a.
+Spain,1971,n.a.
+Spain,1972,n.a.
+Spain,1973,n.a.
+Spain,1974,n.a.
+Spain,1975,n.a.
+Spain,1976,n.a.
+Spain,1977,n.a.
+Spain,1978,12.03
+Spain,1979,13.31
+Spain,1980,15.96
+Spain,1981,15.81
+Spain,1982,15.99
+Spain,1983,16.91
+Spain,1984,16.52
+Spain,1985,13.37
+Spain,1986,11.36
+Spain,1987,12.81
+Spain,1988,11.75
+Spain,1989,13.7
+Spain,1990,14.68
+Spain,1991,11.38
+Spain,1992,11.72
+Spain,1993,10.21
+Spain,1994,9.99
+Spain,1995,11.27
+Spain,1996,8.74
+Spain,1997,6.4
+Spain,1998,4.83
+Spain,1999,4.73
+Spain,2000,5.53
+Spain,2001,5.12
+Spain,2002,4.96
+Spain,2003,4.12
+Spain,2004,4.1
+Spain,2005,3.39
+Spain,2006,3.78
+Spain,2007,4.31
+Spain,2008,4.37
+Spain,2009,3.98
+Spain,2010,4.25
+Spain,2011,5.44
+Spain,2012,5.85
+Spain,2013,4.56
+Spain,2014,2.72
+Spain,2015,1.73
+Sweden,1970,7.39
+Sweden,1971,7.23
+Sweden,1972,7.29
+Sweden,1973,7.38
+Sweden,1974,7.78
+Sweden,1975,8.79
+Sweden,1976,9.32
+Sweden,1977,9.74
+Sweden,1978,10.09
+Sweden,1979,10.47
+Sweden,1980,11.74
+Sweden,1981,13.49
+Sweden,1982,13.04
+Sweden,1983,12.3
+Sweden,1984,12.28
+Sweden,1985,12.98
+Sweden,1986,10.26
+Sweden,1987,11.69
+Sweden,1988,11.35
+Sweden,1989,11.18
+Sweden,1990,13.15
+Sweden,1991,10.7
+Sweden,1992,10.03
+Sweden,1993,8.57
+Sweden,1994,9.7
+Sweden,1995,10.24
+Sweden,1996,8.03
+Sweden,1997,6.62
+Sweden,1998,4.99
+Sweden,1999,4.98
+Sweden,2000,5.37
+Sweden,2001,5.11
+Sweden,2002,5.3
+Sweden,2003,4.64
+Sweden,2004,4.42
+Sweden,2005,3.38
+Sweden,2006,3.7
+Sweden,2007,4.17
+Sweden,2008,3.89
+Sweden,2009,3.25
+Sweden,2010,2.89
+Sweden,2011,2.61
+Sweden,2012,1.59
+Sweden,2013,2.12
+Sweden,2014,1.72
+Sweden,2015,0.72
+Switzerland,1970,5.82
+Switzerland,1971,5.26
+Switzerland,1972,4.96
+Switzerland,1973,5.59
+Switzerland,1974,7.15
+Switzerland,1975,6.43
+Switzerland,1976,4.98
+Switzerland,1977,4.04
+Switzerland,1978,3.33
+Switzerland,1979,3.45
+Switzerland,1980,4.77
+Switzerland,1981,5.57
+Switzerland,1982,4.83
+Switzerland,1983,4.51
+Switzerland,1984,4.7
+Switzerland,1985,4.78
+Switzerland,1986,4.29
+Switzerland,1987,4.12
+Switzerland,1988,4.15
+Switzerland,1989,5.2
+Switzerland,1990,6.68
+Switzerland,1991,6.35
+Switzerland,1992,5.48
+Switzerland,1993,4.05
+Switzerland,1994,5.23
+Switzerland,1995,3.73
+Switzerland,1996,3.63
+Switzerland,1997,3.08
+Switzerland,1998,2.71
+Switzerland,1999,3.62
+Switzerland,2000,3.55
+Switzerland,2001,3.56
+Switzerland,2002,2.4
+Switzerland,2003,2.78
+Switzerland,2004,2.38
+Switzerland,2005,1.96
+Switzerland,2006,2.49
+Switzerland,2007,3.11
+Switzerland,2008,2.15
+Switzerland,2009,1.97
+Switzerland,2010,1.67
+Switzerland,2011,0.74
+Switzerland,2012,0.56
+Switzerland,2013,1.25
+Switzerland,2014,0.38
+Switzerland,2015,-0.04
+United Kingdom,1970,9.27
+United Kingdom,1971,8.9
+United Kingdom,1972,8.97
+United Kingdom,1973,10.78
+United Kingdom,1974,15.04
+United Kingdom,1975,14.54
+United Kingdom,1976,14.57
+United Kingdom,1977,12.54
+United Kingdom,1978,12.63
+United Kingdom,1979,12.98
+United Kingdom,1980,13.87
+United Kingdom,1981,14.75
+United Kingdom,1982,12.69
+United Kingdom,1983,10.78
+United Kingdom,1984,11.13
+United Kingdom,1985,10.97
+United Kingdom,1986,10.13
+United Kingdom,1987,9.57
+United Kingdom,1988,9.67
+United Kingdom,1989,10.19
+United Kingdom,1990,11.8
+United Kingdom,1991,10.11
+United Kingdom,1992,9.06
+United Kingdom,1993,7.55
+United Kingdom,1994,8.15
+United Kingdom,1995,8.32
+United Kingdom,1996,7.94
+United Kingdom,1997,7.13
+United Kingdom,1998,5.6
+United Kingdom,1999,5.01
+United Kingdom,2000,5.33
+United Kingdom,2001,5.01
+United Kingdom,2002,4.91
+United Kingdom,2003,4.58
+United Kingdom,2004,4.93
+United Kingdom,2005,4.46
+United Kingdom,2006,4.37
+United Kingdom,2007,5.06
+United Kingdom,2008,4.5
+United Kingdom,2009,3.36
+United Kingdom,2010,3.36
+United Kingdom,2011,3.05
+United Kingdom,2012,1.74
+United Kingdom,2013,2.03
+United Kingdom,2014,2.14
+United Kingdom,2015,1.78
+United States,1970,6.57
+United States,1971,5.73
+United States,1972,5.63
+United States,1973,6.33
+United States,1974,6.98
+United States,1975,6.98
+United States,1976,6.78
+United States,1977,7.06
+United States,1978,7.89
+United States,1979,8.74
+United States,1980,10.81
+United States,1981,12.87
+United States,1982,12.23
+United States,1983,10.84
+United States,1984,11.99
+United States,1985,10.75
+United States,1986,8.14
+United States,1987,8.66
+United States,1988,8.98
+United States,1989,8.45
+United States,1990,8.73
+United States,1991,8.01
+United States,1992,7.13
+United States,1993,5.97
+United States,1994,7.21
+United States,1995,6.69
+United States,1996,6.54
+United States,1997,6.45
+United States,1998,5.33
+United States,1999,5.64
+United States,2000,6.03
+United States,2001,5.01
+United States,2002,4.6
+United States,2003,4
+United States,2004,4.26
+United States,2005,4.28
+United States,2006,4.79
+United States,2007,4.63
+United States,2008,3.65
+United States,2009,3.25
+United States,2010,3.2
+United States,2011,2.76
+United States,2012,1.79
+United States,2013,2.34
+United States,2014,2.53
+United States,2015,2.13

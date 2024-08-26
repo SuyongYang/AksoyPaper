@@ -1,0 +1,9 @@
+OECD Capital Formation:
+Downloaded from stats.oecd.org; GDP Table in Annual National Accounts/Main Aggregates
+Transaction B1_GE (GDP Exp. approach), P51 (GFCF); Measures C,V (Note National base year, may change over time)
+16.07.2017
+
+OECD Savings:
+Downloaded from stats.oecd.ord; Disposable Income Table in ANA/Main Aggregates
+Transactions B1_GS1, B6NS1, P3S1, B8NS1
+19.07.2017

@@ -1,0 +1,463 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                          %
+%    BAYESIAN ESTIMATION, ANALYSIS AND REGRESSION (BEAR) TOOLBOX           %
+%                                                                          %
+%    This statistical package has been developed by the external           %
+%    developments division of the European Central Bank.                   %
+%                                                                          %
+%    Authors:                                                              %
+%    Alistair Dieppe (alistair.dieppe@ecb.europa.eu)                       %
+%    Björn van Roye  (Bjorn.van_Roye@ecb.europa.eu)                        %
+%                                                                          %
+%    Version 5.0                                                           %
+%                                                                          %
+% The updated version 5 of BEAR has benefitted from contributions from     %
+%   Boris Blagov, Marius Schulte and Ben Schumann.                         %
+%                                                                          %
+%  This version builds-upon previous versions where Romain Legrand was     %
+%   instrumental in developing BEAR.                                       %
+%                                                                          %
+%    The authors are grateful to the following people for valuable input   %
+%    and advice which contributed to improve the quality of the toolbox:   %
+%    Paolo Bonomolo, Mirco Balatti, Marta Banbura, Niccolo Battistini,     %
+%	 Gabriel Bobeica, Martin Bruns, Fabio Canova, Matteo Ciccarelli,       %
+%    Marek Jarocinski, Michele Lenza, Francesca Loria, Mirela Miescu,      %
+%    Gary Koop, Chiara Osbat, Giorgio Primiceri, Martino Ricci,            %
+%    Michal Rubaszek, Barbara Rossi, Fabian Schupp,                        %
+%    Peter Welz and Hugo Vega de la Cruz. 						           %
+%                                                                          %
+%    These programmes are the responsibilities of the authors and not of   %
+%    the ECB and all errors and ommissions remain those of the authors.    %
+%                                                                          %
+%    Using the BEAR toolbox implies acceptance of the End User Licence     %
+%    Agreement and appropriate acknowledgement should be made.             %
+%                                                                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+BEAR toolbox estimates
+Date: 25-Apr-2022   Time: 15:52
+
+
+Panel VAR: pooled estimator
+structural decomposition: choleski factorisation
+units:  Us  Uk  Jp  Ca  It  Fr 
+endogenous variables:  gRGDP  DEPY  DEPO  SAV  CUR  RIR 
+exogenous variables:  constant  gW 
+estimation sample: 1996y-2014y
+sample size (omitting initial conditions): 15
+number of lags included in regression: 4
+hyperparameters:
+autoregressive coefficients (ar):                0.8
+overall tightness (lambda1):              0.1
+lag decay (lambda3):                      1
+exogenous variable tightness (lambda4):   100
+
+
+
+VAR coefficients (Common to all units):
+
+Endogenous: gRGDP
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)           0.543           0.076           0.468           0.619
+                gRGDP(-2)          -0.070           0.048          -0.117          -0.023
+                gRGDP(-3)           0.017           0.034          -0.016           0.050
+                gRGDP(-4)           0.004           0.026          -0.021           0.030
+                 DEPY(-1)          -0.847           2.804          -3.620           1.926
+                 DEPY(-2)           0.452           2.966          -2.481           3.386
+                 DEPY(-3)           0.372           2.007          -1.614           2.357
+                 DEPY(-4)           0.011           1.484          -1.457           1.479
+                 DEPO(-1)          -1.658           2.429          -4.060           0.744
+                 DEPO(-2)           0.760           3.722          -2.921           4.442
+                 DEPO(-3)           0.677           2.454          -1.750           3.105
+                 DEPO(-4)           0.153           1.647          -1.476           1.783
+                  SAV(-1)          -0.005           0.004          -0.008          -0.001
+                  SAV(-2)           0.001           0.003          -0.001           0.004
+                  SAV(-3)           0.001           0.002          -0.001           0.003
+                  SAV(-4)           0.000           0.001          -0.001           0.002
+                  CUR(-1)           0.004           0.005          -0.001           0.009
+                  CUR(-2)           0.002           0.004          -0.002           0.005
+                  CUR(-3)           0.000           0.003          -0.002           0.003
+                  CUR(-4)           0.001           0.002          -0.001           0.003
+                  RIR(-1)          -0.447           0.439          -0.881          -0.013
+                  RIR(-2)          -0.025           0.285          -0.307           0.257
+                  RIR(-3)          -0.015           0.199          -0.212           0.182
+                  RIR(-4)          -0.041           0.153          -0.192           0.110
+                 Constant           0.116           0.197          -0.079           0.310
+                       gW          -0.125           0.737          -0.854           0.603
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.299
+adj. R-squared: 1.893
+
+unit: Uk
+Sum of squared residuals: 0.09
+R-squared: 0.224
+adj. R-squared: 1.987
+
+unit: Jp
+Sum of squared residuals: 0.09
+R-squared: 0.099
+adj. R-squared: 2.146
+
+unit: Ca
+Sum of squared residuals: 0.08
+R-squared: 0.098
+adj. R-squared: 2.148
+
+unit: It
+Sum of squared residuals: 0.09
+R-squared: 0.126
+adj. R-squared: 2.112
+
+unit: Fr
+Sum of squared residuals: 0.08
+R-squared: 0.183
+adj. R-squared: 2.040
+
+
+
+Endogenous: DEPY
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)           0.002           0.001           0.001           0.003
+                gRGDP(-2)           0.000           0.001          -0.001           0.001
+                gRGDP(-3)           0.000           0.001          -0.000           0.001
+                gRGDP(-4)           0.000           0.000          -0.000           0.001
+                 DEPY(-1)           1.214           0.051           1.164           1.264
+                 DEPY(-2)          -0.072           0.054          -0.125          -0.019
+                 DEPY(-3)          -0.074           0.036          -0.110          -0.038
+                 DEPY(-4)          -0.061           0.027          -0.087          -0.034
+                 DEPO(-1)           0.074           0.044           0.030           0.117
+                 DEPO(-2)          -0.082           0.067          -0.148          -0.015
+                 DEPO(-3)          -0.015           0.044          -0.059           0.029
+                 DEPO(-4)           0.040           0.030           0.010           0.069
+                  SAV(-1)           0.000           0.000          -0.000           0.000
+                  SAV(-2)          -0.000           0.000          -0.000           0.000
+                  SAV(-3)           0.000           0.000          -0.000           0.000
+                  SAV(-4)           0.000           0.000          -0.000           0.000
+                  CUR(-1)          -0.000           0.000          -0.000          -0.000
+                  CUR(-2)          -0.000           0.000          -0.000           0.000
+                  CUR(-3)           0.000           0.000          -0.000           0.000
+                  CUR(-4)           0.000           0.000          -0.000           0.000
+                  RIR(-1)           0.001           0.008          -0.007           0.009
+                  RIR(-2)          -0.001           0.005          -0.006           0.004
+                  RIR(-3)           0.000           0.004          -0.003           0.004
+                  RIR(-4)           0.000           0.003          -0.003           0.003
+                 Constant          -0.013           0.004          -0.016          -0.009
+                       gW          -0.004           0.013          -0.017           0.009
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.984
+adj. R-squared: 1.020
+
+unit: Uk
+Sum of squared residuals: 0.00
+R-squared: 0.979
+adj. R-squared: 1.026
+
+unit: Jp
+Sum of squared residuals: 0.00
+R-squared: 0.970
+adj. R-squared: 1.038
+
+unit: Ca
+Sum of squared residuals: 0.00
+R-squared: 0.996
+adj. R-squared: 1.005
+
+unit: It
+Sum of squared residuals: 0.00
+R-squared: 0.834
+adj. R-squared: 1.211
+
+unit: Fr
+Sum of squared residuals: 0.00
+R-squared: 0.937
+adj. R-squared: 1.080
+
+
+
+Endogenous: DEPO
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)           0.002           0.002           0.001           0.004
+                gRGDP(-2)           0.001           0.001          -0.000           0.002
+                gRGDP(-3)           0.001           0.001          -0.000           0.001
+                gRGDP(-4)           0.000           0.001          -0.000           0.001
+                 DEPY(-1)           0.007           0.064          -0.056           0.071
+                 DEPY(-2)          -0.022           0.068          -0.089           0.046
+                 DEPY(-3)           0.003           0.046          -0.043           0.048
+                 DEPY(-4)           0.013           0.034          -0.021           0.046
+                 DEPO(-1)           1.574           0.056           1.519           1.629
+                 DEPO(-2)          -0.329           0.085          -0.413          -0.244
+                 DEPO(-3)          -0.192           0.056          -0.247          -0.136
+                 DEPO(-4)          -0.057           0.038          -0.094          -0.019
+                  SAV(-1)           0.000           0.000           0.000           0.000
+                  SAV(-2)           0.000           0.000          -0.000           0.000
+                  SAV(-3)           0.000           0.000          -0.000           0.000
+                  SAV(-4)           0.000           0.000          -0.000           0.000
+                  CUR(-1)          -0.000           0.000          -0.000           0.000
+                  CUR(-2)          -0.000           0.000          -0.000           0.000
+                  CUR(-3)          -0.000           0.000          -0.000           0.000
+                  CUR(-4)          -0.000           0.000          -0.000           0.000
+                  RIR(-1)           0.003           0.010          -0.007           0.013
+                  RIR(-2)          -0.002           0.007          -0.008           0.005
+                  RIR(-3)          -0.002           0.005          -0.007           0.002
+                  RIR(-4)          -0.002           0.004          -0.005           0.002
+                 Constant          -0.002           0.005          -0.007           0.002
+                       gW          -0.009           0.017          -0.026           0.008
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.999
+adj. R-squared: 1.001
+
+unit: Uk
+Sum of squared residuals: 0.00
+R-squared: 0.997
+adj. R-squared: 1.004
+
+unit: Jp
+Sum of squared residuals: 0.00
+R-squared: 1.000
+adj. R-squared: 1.001
+
+unit: Ca
+Sum of squared residuals: 0.00
+R-squared: 1.000
+adj. R-squared: 1.000
+
+unit: It
+Sum of squared residuals: 0.00
+R-squared: 0.996
+adj. R-squared: 1.005
+
+unit: Fr
+Sum of squared residuals: 0.00
+R-squared: 0.998
+adj. R-squared: 1.003
+
+
+
+Endogenous: SAV
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)          -0.491           1.137          -1.615           0.633
+                gRGDP(-2)          -0.558           0.711          -1.261           0.145
+                gRGDP(-3)           0.213           0.500          -0.281           0.707
+                gRGDP(-4)           0.006           0.382          -0.371           0.384
+                 DEPY(-1)         -64.117          41.763        -105.420         -22.813
+                 DEPY(-2)          31.348          44.180         -12.346          75.042
+                 DEPY(-3)          23.020          29.900          -6.551          52.590
+                 DEPY(-4)          11.158          22.107         -10.705          33.022
+                 DEPO(-1)          -1.187          36.177         -36.966          34.593
+                 DEPO(-2)           6.662          55.443         -48.170          61.494
+                 DEPO(-3)           2.881          36.558         -33.274          39.036
+                 DEPO(-4)          -7.506          24.535         -31.772          16.759
+                  SAV(-1)           0.885           0.056           0.829           0.940
+                  SAV(-2)          -0.005           0.042          -0.046           0.036
+                  SAV(-3)           0.011           0.029          -0.018           0.040
+                  SAV(-4)           0.009           0.022          -0.013           0.031
+                  CUR(-1)           0.081           0.078           0.004           0.158
+                  CUR(-2)           0.004           0.055          -0.051           0.058
+                  CUR(-3)           0.013           0.039          -0.026           0.051
+                  CUR(-4)           0.006           0.030          -0.023           0.036
+                  RIR(-1)          -6.703           6.537         -13.168          -0.239
+                  RIR(-2)          -3.623           4.242          -7.818           0.572
+                  RIR(-3)          -1.691           2.965          -4.624           1.242
+                  RIR(-4)          -0.362           2.277          -2.613           1.890
+                 Constant           0.895           2.930          -2.003           3.793
+                       gW           1.156          10.972          -9.695          12.008
+
+unit: Us
+Sum of squared residuals: 15.37
+R-squared: 0.717
+adj. R-squared: 1.360
+
+unit: Uk
+Sum of squared residuals: 15.52
+R-squared: 0.603
+adj. R-squared: 1.505
+
+unit: Jp
+Sum of squared residuals: 15.94
+R-squared: 0.750
+adj. R-squared: 1.318
+
+unit: Ca
+Sum of squared residuals: 44.31
+R-squared: 0.123
+adj. R-squared: 2.116
+
+unit: It
+Sum of squared residuals: 4.66
+R-squared: 0.846
+adj. R-squared: 1.195
+
+unit: Fr
+Sum of squared residuals: 8.05
+R-squared: 0.459
+adj. R-squared: 1.688
+
+
+
+Endogenous: CUR
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)          -0.361           0.862          -1.213           0.491
+                gRGDP(-2)          -0.539           0.539          -1.071          -0.006
+                gRGDP(-3)          -0.076           0.379          -0.450           0.299
+                gRGDP(-4)          -0.075           0.289          -0.361           0.212
+                 DEPY(-1)         -46.085          31.655         -77.391         -14.779
+                 DEPY(-2)          24.323          33.487          -8.795          57.442
+                 DEPY(-3)          15.487          22.663          -6.926          37.901
+                 DEPY(-4)           4.741          16.756         -11.831          21.312
+                 DEPO(-1)           8.097          27.421         -19.022          35.216
+                 DEPO(-2)          -1.680          42.023         -43.240          39.881
+                 DEPO(-3)          -2.355          27.709         -29.759          25.049
+                 DEPO(-4)          -2.484          18.597         -20.876          15.908
+                  SAV(-1)           0.014           0.042          -0.028           0.056
+                  SAV(-2)           0.004           0.031          -0.027           0.035
+                  SAV(-3)           0.006           0.022          -0.016           0.027
+                  SAV(-4)          -0.001           0.017          -0.018           0.015
+                  CUR(-1)           0.856           0.059           0.798           0.914
+                  CUR(-2)          -0.014           0.042          -0.055           0.028
+                  CUR(-3)          -0.012           0.029          -0.041           0.017
+                  CUR(-4)          -0.008           0.023          -0.030           0.014
+                  RIR(-1)           4.063           4.955          -0.837           8.963
+                  RIR(-2)          -1.092           3.215          -4.272           2.087
+                  RIR(-3)           0.474           2.248          -1.749           2.697
+                  RIR(-4)           0.269           1.726          -1.438           1.975
+                 Constant          -0.901           2.221          -3.097           1.296
+                       gW           0.770           8.316          -7.455           8.995
+
+unit: Us
+Sum of squared residuals: 6.29
+R-squared: 0.737
+adj. R-squared: 1.335
+
+unit: Uk
+Sum of squared residuals: 7.42
+R-squared: 0.524
+adj. R-squared: 1.606
+
+unit: Jp
+Sum of squared residuals: 9.47
+R-squared: 0.505
+adj. R-squared: 1.630
+
+unit: Ca
+Sum of squared residuals: 19.38
+R-squared: 0.763
+adj. R-squared: 1.302
+
+unit: It
+Sum of squared residuals: 14.97
+R-squared: 0.473
+adj. R-squared: 1.670
+
+unit: Fr
+Sum of squared residuals: 3.37
+R-squared: 0.744
+adj. R-squared: 1.326
+
+
+
+Endogenous: RIR
+                                   Median          St.dev       Low.bound       Upp.bound
+                gRGDP(-1)           0.012           0.011           0.000           0.023
+                gRGDP(-2)          -0.003           0.007          -0.010           0.004
+                gRGDP(-3)          -0.001           0.005          -0.005           0.004
+                gRGDP(-4)           0.001           0.004          -0.003           0.004
+                 DEPY(-1)          -0.261           0.413          -0.669           0.147
+                 DEPY(-2)           0.101           0.436          -0.330           0.533
+                 DEPY(-3)           0.110           0.295          -0.182           0.403
+                 DEPY(-4)           0.066           0.218          -0.150           0.282
+                 DEPO(-1)          -0.131           0.357          -0.484           0.223
+                 DEPO(-2)          -0.099           0.548          -0.640           0.443
+                 DEPO(-3)           0.104           0.361          -0.253           0.461
+                 DEPO(-4)           0.152           0.242          -0.088           0.392
+                  SAV(-1)           0.001           0.001          -0.000           0.001
+                  SAV(-2)          -0.000           0.000          -0.001           0.000
+                  SAV(-3)          -0.000           0.000          -0.000           0.000
+                  SAV(-4)          -0.000           0.000          -0.000           0.000
+                  CUR(-1)           0.000           0.001          -0.000           0.001
+                  CUR(-2)           0.000           0.001          -0.000           0.001
+                  CUR(-3)           0.000           0.000          -0.000           0.000
+                  CUR(-4)           0.000           0.000          -0.000           0.000
+                  RIR(-1)           0.669           0.065           0.606           0.733
+                  RIR(-2)          -0.022           0.042          -0.063           0.020
+                  RIR(-3)          -0.017           0.029          -0.046           0.012
+                  RIR(-4)          -0.011           0.022          -0.033           0.011
+                 Constant          -0.018           0.029          -0.046           0.011
+                       gW           0.011           0.108          -0.096           0.118
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.340
+adj. R-squared: 1.840
+
+unit: Uk
+Sum of squared residuals: 0.00
+R-squared: 0.823
+adj. R-squared: 1.226
+
+unit: Jp
+Sum of squared residuals: 0.00
+R-squared: 0.025
+adj. R-squared: 2.241
+
+unit: Ca
+Sum of squared residuals: 0.00
+R-squared: 0.301
+adj. R-squared: 1.890
+
+unit: It
+Sum of squared residuals: 0.00
+R-squared: 0.338
+adj. R-squared: 1.843
+
+unit: Fr
+Sum of squared residuals: 0.00
+R-squared: 0.304
+adj. R-squared: 1.886
+
+
+
+Roots of the characteristic polynomial (modulus):
+1.011  0.823  0.338  0.278  0.243  0.178
+0.989  0.643  0.338  0.278  0.243  0.156
+0.989  0.606  0.314  0.248  0.192  0.156
+0.823  0.606  0.314  0.248  0.192  0.125
+
+
+
+sigma (residual covariance matrix): posterior estimates
+ 0.006  -0.000  -0.000   0.028   0.003   0.000  
+-0.000   0.000   0.000  -0.000  -0.000   0.000  
+-0.000   0.000   0.000   0.000   0.000   0.000  
+ 0.028  -0.000   0.000   1.227   0.433   0.004  
+ 0.003  -0.000   0.000   0.433   0.705  -0.001  
+ 0.000   0.000   0.000   0.004  -0.001   0.000  
+
+
+D (structural decomposition matrix): posterior estimates
+ 0.074   0.000   0.000   0.000   0.000   0.000  
+-0.000   0.001   0.000   0.000   0.000   0.000  
+-0.000   0.000   0.002   0.000   0.000   0.000  
+ 0.374  -0.052   0.107   1.012   0.000   0.000  
+ 0.032  -0.127   0.086   0.383   0.706   0.000  
+ 0.002   0.001   0.001   0.003  -0.003   0.009  
+
+
+gamma (structural disturbances covariance matrix): posterior estimates
+ 1.000   0.000   0.000   0.000   0.000   0.000  
+ 0.000   1.000   0.000   0.000   0.000   0.000  
+ 0.000   0.000   1.000   0.000   0.000   0.000  
+ 0.000   0.000   0.000   1.000   0.000   0.000  
+ 0.000   0.000   0.000   0.000   1.000   0.000  
+ 0.000   0.000   0.000   0.000   0.000   1.000  
+
+
+
+

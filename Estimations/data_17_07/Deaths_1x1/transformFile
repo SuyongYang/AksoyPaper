@@ -1,0 +1,32 @@
+#!/usr/local/bin/gawk -f
+
+BEGIN {
+  FS=",";
+}
+(NR==1){
+  COUNTRY=$1;
+  if( COUNTRY=="The United States of America" )
+  {
+    COUNTRY="United States"
+  }
+  if( COUNTRY=="France (Total Population)" )
+  {
+    COUNTRY="France"
+  }
+  FS=" "
+  YEAR=0
+  TOTAL=0
+}
+(NR>4 && YEAR==$1){
+  TOTAL=TOTAL+$5
+}
+(NR>4 && YEAR!=$1){
+  if( YEAR >0 ) {
+    printf "%s,%s,%s\n",COUNTRY,YEAR,TOTAL;
+  }
+  YEAR=$1;
+  TOTAL=0;
+}
+END {
+ printf "%s,%s,%s\n",COUNTRY,YEAR,TOTAL;
+}

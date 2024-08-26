@@ -1,0 +1,7 @@
+"$\beta_1$"	"$\beta_2$"	"$\beta_3$"
+"y"	NA	NA	NA
+"i"	NA	NA	NA
+"s"	NA	NA	NA
+"h"	NA	NA	NA
+"rr"	NA	NA	NA
+"pi"	NA	NA	NA

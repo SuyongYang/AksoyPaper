@@ -1,0 +1,464 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                          %
+%    BAYESIAN ESTIMATION, ANALYSIS AND REGRESSION (BEAR) TOOLBOX           %
+%                                                                          %
+%    This statistical package has been developed by the external           %
+%    developments division of the European Central Bank.                   %
+%                                                                          %
+%    Authors:                                                              %
+%    Alistair Dieppe (alistair.dieppe@ecb.europa.eu)                       %
+%    Björn van Roye  (Bjorn.van_Roye@ecb.europa.eu)                        %
+%                                                                          %
+%    Version 5.0                                                           %
+%                                                                          %
+% The updated version 5 of BEAR has benefitted from contributions from     %
+%   Boris Blagov, Marius Schulte and Ben Schumann.                         %
+%                                                                          %
+%  This version builds-upon previous versions where Romain Legrand was     %
+%   instrumental in developing BEAR.                                       %
+%                                                                          %
+%    The authors are grateful to the following people for valuable input   %
+%    and advice which contributed to improve the quality of the toolbox:   %
+%    Paolo Bonomolo, Mirco Balatti, Marta Banbura, Niccolo Battistini,     %
+%	 Gabriel Bobeica, Martin Bruns, Fabio Canova, Matteo Ciccarelli,       %
+%    Marek Jarocinski, Michele Lenza, Francesca Loria, Mirela Miescu,      %
+%    Gary Koop, Chiara Osbat, Giorgio Primiceri, Martino Ricci,            %
+%    Michal Rubaszek, Barbara Rossi, Fabian Schupp,                        %
+%    Peter Welz and Hugo Vega de la Cruz. 						           %
+%                                                                          %
+%    These programmes are the responsibilities of the authors and not of   %
+%    the ECB and all errors and ommissions remain those of the authors.    %
+%                                                                          %
+%    Using the BEAR toolbox implies acceptance of the End User Licence     %
+%    Agreement and appropriate acknowledgement should be made.             %
+%                                                                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+BEAR toolbox estimates
+Date: 25-May-2022   Time: 22:03
+
+
+Panel VAR: pooled estimator
+structural decomposition: choleski factorisation
+units:  Us  Uk  Jp  It  Fr  Ca 
+endogenous variables:  DEP  lnrgdpCap  SAV  CUR  RIR 
+exogenous variables:  1996y  1997y  1998y  1999y  2000y  2001y  2002y  2003y  2004y  2005y  2006y  2007y  2008y  2009y  2010y  2011y  2012y  2013y 
+estimation sample: 1996y-2014y
+sample size (omitting initial conditions): 15
+number of lags included in regression: 4
+hyperparameters:
+autoregressive coefficients (ar):                0.8
+overall tightness (lambda1):              0.1
+lag decay (lambda3):                      1
+exogenous variable tightness (lambda4):   100
+
+
+
+VAR coefficients (Common to all units):
+
+Endogenous: DEP
+                                   Median          St.dev       Low.bound       Upp.bound
+                  DEP(-1)           1.295           0.045           1.250           1.339
+                  DEP(-2)          -0.091           0.053          -0.143          -0.038
+                  DEP(-3)          -0.105           0.035          -0.140          -0.071
+                  DEP(-4)          -0.086           0.025          -0.111          -0.061
+            lnrgdpCap(-1)          -0.001           0.002          -0.002           0.001
+            lnrgdpCap(-2)          -0.000           0.001          -0.002           0.001
+            lnrgdpCap(-3)          -0.000           0.001          -0.001           0.001
+            lnrgdpCap(-4)           0.000           0.001          -0.001           0.001
+                  SAV(-1)           0.000           0.000           0.000           0.000
+                  SAV(-2)           0.000           0.000          -0.000           0.000
+                  SAV(-3)           0.000           0.000           0.000           0.000
+                  SAV(-4)           0.000           0.000          -0.000           0.000
+                  CUR(-1)          -0.000           0.000          -0.000           0.000
+                  CUR(-2)          -0.000           0.000          -0.000           0.000
+                  CUR(-3)          -0.000           0.000          -0.000           0.000
+                  CUR(-4)          -0.000           0.000          -0.000           0.000
+                  RIR(-1)          -0.002           0.015          -0.017           0.012
+                  RIR(-2)          -0.003           0.009          -0.012           0.006
+                  RIR(-3)          -0.000           0.006          -0.006           0.005
+                  RIR(-4)           0.001           0.005          -0.004           0.005
+                    1996y           0.000           0.022          -0.021           0.021
+                    1997y           0.000           0.022          -0.021           0.021
+                    1998y           0.000           0.022          -0.021           0.021
+                    1999y           0.000           0.022          -0.021           0.021
+                    2000y          -0.005           0.005          -0.010           0.001
+                    2001y          -0.006           0.006          -0.011          -0.000
+                    2002y          -0.006           0.005          -0.011          -0.000
+                    2003y          -0.005           0.005          -0.010           0.000
+                    2004y          -0.003           0.006          -0.009           0.002
+                    2005y          -0.001           0.006          -0.007           0.004
+                    2006y           0.001           0.006          -0.004           0.007
+                    2007y           0.001           0.006          -0.004           0.007
+                    2008y           0.001           0.006          -0.004           0.007
+                    2009y           0.000           0.006          -0.005           0.006
+                    2010y          -0.000           0.006          -0.006           0.005
+                    2011y           0.000           0.006          -0.005           0.006
+                    2012y          -0.002           0.006          -0.007           0.004
+                    2013y          -0.002           0.006          -0.008           0.003
+                    2014y          -0.002           0.006          -0.007           0.004
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.997
+adj. R-squared: 1.002
+
+unit: Uk
+Sum of squared residuals: 0.00
+R-squared: 0.983
+adj. R-squared: 1.010
+
+unit: Jp
+Sum of squared residuals: 0.00
+R-squared: 0.999
+adj. R-squared: 1.000
+
+unit: It
+Sum of squared residuals: 0.00
+R-squared: 0.998
+adj. R-squared: 1.001
+
+unit: Fr
+Sum of squared residuals: 0.00
+R-squared: 0.997
+adj. R-squared: 1.002
+
+unit: Ca
+Sum of squared residuals: 0.00
+R-squared: 0.983
+adj. R-squared: 1.010
+
+
+
+Endogenous: lnrgdpCap
+                                   Median          St.dev       Low.bound       Upp.bound
+                  DEP(-1)          -1.548           1.128          -2.663          -0.433
+                  DEP(-2)           0.441           1.328          -0.873           1.755
+                  DEP(-3)           0.640           0.875          -0.225           1.506
+                  DEP(-4)           0.460           0.632          -0.165           1.084
+            lnrgdpCap(-1)           0.973           0.041           0.932           1.013
+            lnrgdpCap(-2)           0.003           0.036          -0.032           0.038
+            lnrgdpCap(-3)           0.011           0.025          -0.013           0.036
+            lnrgdpCap(-4)           0.011           0.019          -0.008           0.030
+                  SAV(-1)          -0.000           0.003          -0.003           0.003
+                  SAV(-2)           0.001           0.002          -0.002           0.003
+                  SAV(-3)          -0.000           0.001          -0.002           0.001
+                  SAV(-4)          -0.000           0.001          -0.001           0.001
+                  CUR(-1)           0.001           0.004          -0.003           0.005
+                  CUR(-2)           0.002           0.003          -0.001           0.004
+                  CUR(-3)           0.000           0.002          -0.002           0.002
+                  CUR(-4)           0.001           0.001          -0.001           0.002
+                  RIR(-1)           0.610           0.370           0.244           0.975
+                  RIR(-2)          -0.112           0.219          -0.328           0.105
+                  RIR(-3)          -0.075           0.150          -0.224           0.073
+                  RIR(-4)          -0.067           0.114          -0.179           0.046
+                    1996y           0.000           0.543          -0.537           0.537
+                    1997y           0.000           0.543          -0.537           0.537
+                    1998y           0.000           0.543          -0.537           0.537
+                    1999y           0.000           0.543          -0.537           0.537
+                    2000y           0.032           0.138          -0.105           0.168
+                    2001y           0.007           0.138          -0.130           0.143
+                    2002y           0.075           0.138          -0.061           0.212
+                    2003y           0.174           0.138           0.038           0.311
+                    2004y           0.154           0.139           0.017           0.292
+                    2005y           0.087           0.139          -0.051           0.225
+                    2006y           0.087           0.140          -0.051           0.226
+                    2007y           0.131           0.140          -0.007           0.269
+                    2008y           0.108           0.140          -0.031           0.247
+                    2009y          -0.016           0.141          -0.155           0.123
+                    2010y           0.120           0.141          -0.020           0.259
+                    2011y           0.151           0.141           0.011           0.291
+                    2012y           0.061           0.142          -0.079           0.202
+                    2013y           0.060           0.142          -0.080           0.200
+                    2014y           0.078           0.142          -0.062           0.218
+
+unit: Us
+Sum of squared residuals: 0.03
+R-squared: 0.896
+adj. R-squared: 1.060
+
+unit: Uk
+Sum of squared residuals: 0.04
+R-squared: 0.924
+adj. R-squared: 1.044
+
+unit: Jp
+Sum of squared residuals: 0.09
+R-squared: 0.560
+adj. R-squared: 1.257
+
+unit: It
+Sum of squared residuals: 0.03
+R-squared: 0.958
+adj. R-squared: 1.024
+
+unit: Fr
+Sum of squared residuals: 0.03
+R-squared: 0.970
+adj. R-squared: 1.017
+
+unit: Ca
+Sum of squared residuals: 0.03
+R-squared: 0.977
+adj. R-squared: 1.014
+
+
+
+Endogenous: SAV
+                                   Median          St.dev       Low.bound       Upp.bound
+                  DEP(-1)           8.583          16.489          -7.725          24.891
+                  DEP(-2)          -2.966          19.422         -22.174          16.242
+                  DEP(-3)          -5.349          12.791         -18.000           7.302
+                  DEP(-4)          -4.176           9.237         -13.311           4.960
+            lnrgdpCap(-1)          -0.175           0.600          -0.768           0.418
+            lnrgdpCap(-2)           0.068           0.522          -0.448           0.584
+            lnrgdpCap(-3)           0.259           0.366          -0.103           0.621
+            lnrgdpCap(-4)           0.108           0.280          -0.168           0.385
+                  SAV(-1)           0.883           0.044           0.840           0.926
+                  SAV(-2)           0.016           0.031          -0.015           0.046
+                  SAV(-3)           0.010           0.021          -0.011           0.031
+                  SAV(-4)           0.005           0.016          -0.011           0.021
+                  CUR(-1)           0.050           0.055          -0.004           0.104
+                  CUR(-2)           0.012           0.040          -0.027           0.052
+                  CUR(-3)           0.009           0.028          -0.018           0.037
+                  CUR(-4)           0.005           0.021          -0.016           0.026
+                  RIR(-1)           1.506           5.405          -3.839           6.851
+                  RIR(-2)          -1.327           3.205          -4.497           1.843
+                  RIR(-3)           0.107           2.199          -2.067           2.281
+                  RIR(-4)          -0.026           1.667          -1.675           1.622
+                    1996y           0.000           7.944          -7.857           7.857
+                    1997y           0.000           7.944          -7.857           7.857
+                    1998y           0.000           7.944          -7.857           7.857
+                    1999y           0.000           7.944          -7.857           7.857
+                    2000y           0.968           2.018          -1.027           2.964
+                    2001y           0.087           2.020          -1.911           2.084
+                    2002y          -0.193           2.016          -2.187           1.801
+                    2003y           0.211           2.018          -1.785           2.207
+                    2004y           0.940           2.029          -1.066           2.947
+                    2005y           0.798           2.039          -1.219           2.814
+                    2006y           0.867           2.042          -1.153           2.887
+                    2007y           0.351           2.046          -1.673           2.374
+                    2008y          -0.853           2.053          -2.883           1.177
+                    2009y          -2.355           2.059          -4.391          -0.318
+                    2010y           0.763           2.065          -1.280           2.805
+                    2011y           0.880           2.069          -1.165           2.926
+                    2012y           0.273           2.072          -1.777           2.323
+                    2013y           0.574           2.070          -1.473           2.621
+                    2014y           1.095           2.069          -0.952           3.141
+
+unit: Us
+Sum of squared residuals: 12.24
+R-squared: 0.775
+adj. R-squared: 1.132
+
+unit: Uk
+Sum of squared residuals: 8.26
+R-squared: 0.789
+adj. R-squared: 1.123
+
+unit: Jp
+Sum of squared residuals: 3.87
+R-squared: 0.939
+adj. R-squared: 1.035
+
+unit: It
+Sum of squared residuals: 6.17
+R-squared: 0.797
+adj. R-squared: 1.119
+
+unit: Fr
+Sum of squared residuals: 5.06
+R-squared: 0.660
+adj. R-squared: 1.198
+
+unit: Ca
+Sum of squared residuals: 18.04
+R-squared: 0.643
+adj. R-squared: 1.208
+
+
+
+Endogenous: CUR
+                                   Median          St.dev       Low.bound       Upp.bound
+                  DEP(-1)           9.365          17.204          -7.649          26.379
+                  DEP(-2)          -1.452          20.263         -21.492          18.588
+                  DEP(-3)          -4.453          13.345         -17.651           8.746
+                  DEP(-4)          -5.288           9.637         -14.819           4.243
+            lnrgdpCap(-1)          -0.419           0.626          -1.038           0.200
+            lnrgdpCap(-2)          -0.015           0.544          -0.553           0.523
+            lnrgdpCap(-3)           0.261           0.382          -0.117           0.638
+            lnrgdpCap(-4)           0.178           0.292          -0.110           0.467
+                  SAV(-1)           0.007           0.046          -0.038           0.053
+                  SAV(-2)           0.007           0.032          -0.025           0.038
+                  SAV(-3)           0.006           0.022          -0.016           0.028
+                  SAV(-4)           0.000           0.017          -0.017           0.017
+                  CUR(-1)           0.886           0.057           0.830           0.943
+                  CUR(-2)          -0.009           0.041          -0.050           0.032
+                  CUR(-3)          -0.008           0.029          -0.036           0.021
+                  CUR(-4)          -0.005           0.022          -0.027           0.016
+                  RIR(-1)           2.654           5.639          -2.922           8.231
+                  RIR(-2)          -0.035           3.344          -3.342           3.272
+                  RIR(-3)           0.468           2.294          -1.801           2.736
+                  RIR(-4)           0.151           1.739          -1.569           1.871
+                    1996y           0.000           8.288          -8.197           8.197
+                    1997y           0.000           8.288          -8.197           8.197
+                    1998y           0.000           8.288          -8.197           8.197
+                    1999y           0.000           8.288          -8.197           8.197
+                    2000y           0.669           2.106          -1.414           2.751
+                    2001y           0.864           2.107          -1.221           2.948
+                    2002y           0.643           2.104          -1.438           2.723
+                    2003y           0.774           2.106          -1.309           2.856
+                    2004y           1.022           2.117          -1.071           3.115
+                    2005y           0.730           2.127          -1.374           2.834
+                    2006y           0.583           2.131          -1.524           2.691
+                    2007y           0.755           2.134          -1.356           2.866
+                    2008y          -0.058           2.142          -2.176           2.060
+                    2009y           0.678           2.148          -1.446           2.803
+                    2010y           0.407           2.155          -1.724           2.537
+                    2011y           0.709           2.158          -1.425           2.844
+                    2012y           0.577           2.162          -1.561           2.715
+                    2013y           0.917           2.159          -1.219           3.052
+                    2014y           0.827           2.159          -1.308           2.962
+
+unit: Us
+Sum of squared residuals: 7.59
+R-squared: 0.682
+adj. R-squared: 1.185
+
+unit: Uk
+Sum of squared residuals: 7.28
+R-squared: 0.533
+adj. R-squared: 1.272
+
+unit: Jp
+Sum of squared residuals: 8.74
+R-squared: 0.543
+adj. R-squared: 1.267
+
+unit: It
+Sum of squared residuals: 13.18
+R-squared: 0.536
+adj. R-squared: 1.271
+
+unit: Fr
+Sum of squared residuals: 3.55
+R-squared: 0.731
+adj. R-squared: 1.157
+
+unit: Ca
+Sum of squared residuals: 19.60
+R-squared: 0.760
+adj. R-squared: 1.140
+
+
+
+Endogenous: RIR
+                                   Median          St.dev       Low.bound       Upp.bound
+                  DEP(-1)           0.017           0.149          -0.130           0.165
+                  DEP(-2)          -0.013           0.175          -0.187           0.161
+                  DEP(-3)          -0.006           0.116          -0.120           0.108
+                  DEP(-4)          -0.002           0.083          -0.084           0.081
+            lnrgdpCap(-1)          -0.002           0.005          -0.007           0.004
+            lnrgdpCap(-2)           0.000           0.005          -0.004           0.005
+            lnrgdpCap(-3)           0.000           0.003          -0.003           0.004
+            lnrgdpCap(-4)           0.001           0.003          -0.002           0.003
+                  SAV(-1)          -0.000           0.000          -0.000           0.000
+                  SAV(-2)          -0.000           0.000          -0.000           0.000
+                  SAV(-3)          -0.000           0.000          -0.000           0.000
+                  SAV(-4)          -0.000           0.000          -0.000           0.000
+                  CUR(-1)           0.000           0.000          -0.000           0.001
+                  CUR(-2)           0.000           0.000          -0.000           0.000
+                  CUR(-3)           0.000           0.000          -0.000           0.000
+                  CUR(-4)           0.000           0.000          -0.000           0.000
+                  RIR(-1)           0.748           0.049           0.699           0.796
+                  RIR(-2)          -0.019           0.029          -0.048           0.009
+                  RIR(-3)          -0.009           0.020          -0.029           0.010
+                  RIR(-4)          -0.003           0.015          -0.018           0.012
+                    1996y           0.000           0.072          -0.071           0.071
+                    1997y           0.000           0.072          -0.071           0.071
+                    1998y           0.000           0.072          -0.071           0.071
+                    1999y           0.000           0.072          -0.071           0.071
+                    2000y           0.020           0.018           0.002           0.038
+                    2001y          -0.008           0.018          -0.026           0.010
+                    2002y           0.001           0.018          -0.017           0.019
+                    2003y           0.006           0.018          -0.012           0.024
+                    2004y           0.007           0.018          -0.011           0.025
+                    2005y           0.010           0.018          -0.008           0.028
+                    2006y           0.017           0.018          -0.001           0.035
+                    2007y          -0.001           0.018          -0.019           0.017
+                    2008y           0.010           0.019          -0.008           0.028
+                    2009y          -0.014           0.019          -0.033           0.004
+                    2010y          -0.007           0.019          -0.025           0.012
+                    2011y           0.006           0.019          -0.013           0.024
+                    2012y           0.006           0.019          -0.012           0.025
+                    2013y          -0.001           0.019          -0.020           0.017
+                    2014y           0.011           0.019          -0.007           0.030
+
+unit: Us
+Sum of squared residuals: 0.00
+R-squared: 0.814
+adj. R-squared: 1.109
+
+unit: Uk
+Sum of squared residuals: 0.00
+R-squared: 0.894
+adj. R-squared: 1.062
+
+unit: Jp
+Sum of squared residuals: 0.00
+R-squared: -0.126
+adj. R-squared: 1.657
+
+unit: It
+Sum of squared residuals: 0.00
+R-squared: 0.780
+adj. R-squared: 1.128
+
+unit: Fr
+Sum of squared residuals: 0.00
+R-squared: 0.859
+adj. R-squared: 1.083
+
+unit: Ca
+Sum of squared residuals: 0.00
+R-squared: 0.809
+adj. R-squared: 1.112
+
+
+
+Roots of the characteristic polynomial (modulus):
+1.007  0.681  0.318  0.221  0.172
+1.007  0.681  0.242  0.199  0.172
+0.996  0.345  0.242  0.197  0.155
+0.804  0.345  0.221  0.197  0.155
+
+
+
+sigma (residual covariance matrix): posterior estimates
+ 0.000  -0.000   0.000   0.000   0.000  
+-0.000   0.003   0.009   0.001   0.000  
+ 0.000   0.009   0.631   0.409   0.000  
+ 0.000   0.001   0.409   0.687  -0.000  
+ 0.000   0.000   0.000  -0.000   0.000  
+
+
+D (structural decomposition matrix): posterior estimates
+ 0.002   0.000   0.000   0.000   0.000  
+-0.003   0.053   0.000   0.000   0.000  
+ 0.125   0.165   0.749   0.000   0.000  
+ 0.101   0.024   0.502   0.631   0.000  
+ 0.001   0.002  -0.000  -0.001   0.007  
+
+
+gamma (structural disturbances covariance matrix): posterior estimates
+ 1.000   0.000   0.000   0.000   0.000  
+ 0.000   1.000   0.000   0.000   0.000  
+ 0.000   0.000   1.000   0.000   0.000  
+ 0.000   0.000   0.000   1.000   0.000  
+ 0.000   0.000   0.000   0.000   1.000  
+
+
+
+
